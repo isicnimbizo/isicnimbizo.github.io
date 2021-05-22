@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: data/homepage.yml
+  label: Homepage
+  match: "**/*"
 - type: directory
   path: content/portfolio
   label: Portfolio

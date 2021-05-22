@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "imbizo-website-base"
 title = "#isiCNI - Computational Neuroscience Imbizo"
 [[menu.main]]
 URL = "about"

@@ -9,7 +9,7 @@ about:
     research techniques in computational neuroscience.'
   button:
     enable: true
-    label: know more
+    label: Apply now
     URL: about
 skill:
   enable: true

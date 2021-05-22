@@ -24,7 +24,7 @@ skill:
   - title: Machine Learning
     progress: 25%
     color: "#bdecf6"
-  - title: Higher Level Function, Motor Control & Decision Making
+  - title: Higher Level Function, Motor Control &amp; Decision Making
     progress: 25%
     color: "#ffbcaa"
 experience:

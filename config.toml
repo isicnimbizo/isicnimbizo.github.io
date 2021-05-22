@@ -27,7 +27,7 @@ description = "IBRO Simons Computational Neuroscience Imbizo summer school in Ca
 email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "imbizo_sticker.png"
+logo = "images/imbizo_sticker.png"
 phone = ""
 theme_color = "#26AE60"
 [params.contact]

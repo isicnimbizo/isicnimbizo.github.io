@@ -18,8 +18,8 @@ skill:
   - title: Biophysics, Plasticity and Neural Recordings
     progress: 33%
     color: "#fdb157"
-  - title: Network Dynamics and Machine Learning
-    progress: 33%
+  - title: Network Dynamics
+    progress: 25%
     color: "#9473e6"
   - title: After Effects
     progress: 80%

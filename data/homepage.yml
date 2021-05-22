@@ -24,8 +24,8 @@ skill:
   - title: Machine Learning
     progress: 25%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Higher Level Function, Motor Control & Decision Making
+    progress: 25%
     color: "#ffbcaa"
 experience:
   enable: true

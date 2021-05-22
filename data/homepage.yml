@@ -16,13 +16,13 @@ skill:
   title: The school
   item:
   - title: Biophysics, Plasticity and Neural Recordings
-    progress: 33%
+    progress: 25%
     color: "#fdb157"
   - title: Network Dynamics
     progress: 25%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Machine Learning
+    progress: 25%
     color: "#bdecf6"
   - title: Web App
     progress: 70%

@@ -20,16 +20,16 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "Cape Town, South Africa"
+author = "Christopher Currin"
+copyright = "Copyright &copy; Imbizo"
+description = "IBRO Simons Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
+email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = ""
+theme_color = "#26AE60"
 [params.contact]
 enable = true
 form_action = "#"

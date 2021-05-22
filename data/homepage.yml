@@ -13,10 +13,10 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: The school
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Biophysics, Plasticity and Neural Recordings
+    progress: 33%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%

@@ -1,13 +1,12 @@
 ---
 banner:
-  title: IBRO-Simons Computational Neuroscience Imbizo
+  title: Hi! I’m <br> Christoher <br> UX designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
+    *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
+    an opportunity for African and international students to learn about cutting edge
+    research techniques in computational neuroscience.'
   button:
     enable: true
     label: know more
@@ -116,6 +115,24 @@ clients_logo_slider:
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-2.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-3.png
+    URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-4.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-5.png
+    URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-1.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-2.png
+    URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-3.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-4.png
+    URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-5.png
+    URL: "#"
 blog:
   enable: true
   title: Blogs

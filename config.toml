@@ -1,5 +1,3 @@
-baselink = "/"
-BaseURL= "/"
 baseURL= "/"
 languageCode = "en-us"
 summaryLength = "10"
@@ -83,18 +81,14 @@ enable = true
 expire_days = 2
 
 # social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
+# [[params.social]]
+# icon = "ti-facebook"
+# URL = "#"
 
-[[params.social]]
-icon = "ti-instagram"
-URL = "#"
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+# [[params.social]]
+# icon = "ti-instagram"
+# URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/isiCNI"

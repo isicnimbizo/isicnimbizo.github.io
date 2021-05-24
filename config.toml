@@ -1,4 +1,6 @@
 baselink = "/"
+BaseURL= "/"
+baseURL= "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "imbizo-website-base"

@@ -1,18 +1,127 @@
 # faculty item
 item:
-  - image: "images/people/ba.jpg"
-    name: "Demba Ba"
-    project_url: "http://examplesite.com"
-    categories: ["2019", "2020"]
+  - name: Eve Marder 
+    years: ["2020"]
+    affiliation: Brandeis University 
+    link: https://blogs.brandeis.edu/marderlab/
+  - name: Arthur Wingfield 
+    years: ["2020"]
+    affiliation: Brandeis University 
+    link: http://www.bio.brandeis.edu/memlab/
+  - name: Thomas Tagoe 
+    affiliation: University of Ghana 
+    link: https://www.linkedin.com/in/thomas-tagoe-8a341837
+    years: ["2020"]
+  - name: Tor Stensola 
+    years: ["2020"]
+    affiliation: Champalimaud Foundation 
+    link: https://www.linkedin.com/in/tor-stensola-a8b4b494
+  - name: Henning Sprekeler
+    years: ["2020"]
+    affiliation: Technical University Berlin
+    link: http://sprekelerlab.org
+  - name: Alyssa Picchini Schaffer
+    years: ["2020"]
+    affiliation: Simons Foundation
+    link: https://www.simonsfoundation.org/team/alyssa-picchini-schaffer-ph-d/
+    image: images/people/picchini-schaffer.jpg
+  - name: Evan Schaffer
+    years: ["2020"]
+    affiliation: Columbia University
+    link: http://www.evanschaffer.com
+  - name: "Larry Abbott"
+    image: "images/people/abbott.jpg"
+    years: ["2017", "2018"]
+  - name: Dora Angelaki
+    affiliation: Baylor College of Medicine
+    link: https://www.bcm.edu/research/labs/dora-angelaki
+    years: ["2019"]
+  - name: Demba Ba
+    years: ["2019", "2020"]
+    affiliation: Harvard University
+    link: https://crisp.seas.harvard.edu/
+    image: "images/people/ba.jpg"
+  - name: Adrienne Fairhall
+    years: ["2018", "2019", "2020"]
+    affiliation: University of Washington
+    link: https://fairhalllab.com/
+  - name: Peter Latham
+    years: ["2017","2018", "2019", "2020"]
+    affiliation: University College London
+    link: http://www.gatsby.ucl.ac.uk/~pel/
+  - name: Timothy Lillicrap
+    years: ["2017", "2018", "2019", "2020"]
+    affiliation: Google Deep Mind
+    link: http://contrastiveconvergence.net/~timothylillicrap/index.php
+  - name: Joseph Raimondo
+    years: ["2017", "2018", "2019", "2020"]
+    affiliation: University of Cape Town
+    link: http://raimondolab.com/
+  - name: Srikanth Ramaswamy
+    years: ["2017", "2018", "2019"]
+    affiliation: EPFL
+    link: http://bluebrain.epfl.ch/page-59360-en.html
+  - name: Blake Richards
+    years: ["2018", "2019", "2020"]
+    affiliation: University of Toronto
+    link: http://linclab.org/
+  - name: Tim Vogels
+    years: ["2017", "2018", "2019", "2020"]
+    affiliation: Oxford University
+    link: https://www.dpag.ox.ac.uk/team/tim-vogels
+  - name: Byron Yu
+    years: ["2018", "2019"]
+    affiliation: Carnegie Mellon University
+    link: https://users.ece.cmu.edu/~byronyu/
+  - name: Andrew Trevelyan
+    years: ["2019"]
+    affiliation: Newcastle University
+    link: https://www.ncl.ac.uk/ion/staff/profile/andrewtrevelyan.html
+  - name: Athanassia Papoutsi
+    years: ["2019", "2020"]
+    affiliation: IMBB-FORTH
+    link: http://www.dendrites.gr/en/demory-221/people-242
+  - name: Misha Tsodyks
+    years: ["2017", "2018", "2019", "2020"]
+    affiliation: Weizmann Institute of Science
+    link: http://www.weizmann.ac.il/home/bnmisha/
+  - name: Ila Fiete
+    years: ["2019"]
+    affiliation: University of Texas
+    link: http://clm.utexas.edu/fietelab/
+  - name: Michael Häusser
+    years: ["2018", "2019"]
+    affiliation: University College London
+    link: http://www.dendrites.org/
+  - name: Marlene Behrmann
+    years: ["2018"] 
+    affiliation: Carnegie Mellon University
+    link: http://www.cmu.edu/dietrich/behrmannlab/
+  - name: Maté Lengyel
+    years: ["2017", "2018"]
+    affiliation: Cambridge University
+    link: http://www3.eng.cam.ac.uk/~ml468/
+  - name: Yiota Poirazi 
+    years: ["2017", "2018"]
+    affiliation: IMBB-FORTH
+    link: http://www.imbb.forth.gr/en/research-en/neurosciences/item/73-panayiota-poirazi
+  - name: Daniel Wolpert
+    years: ["2017"]
+    affiliation: Cambridge University
+    link: http://learning.eng.cam.ac.uk/Public/Wolpert/
+  - name: Rajnish Ranjan
+    years: ["2017"]
+    affiliation: EPFL
+    link: http://bluebrain.epfl.ch/page-59361-en.html
+  - name: Surya Ganguli
+    years: ["2017"] 
+    affiliation: Stanford University
+    link: https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/
+  - name: Emery Brown
+    years: ["2017"]
+    affiliation: Harvard University / MIT
+    link: http://www.neurostat.mit.edu/home
 
-  - image: "images/people/abbott.jpg"
-    name: "Larry Abbott"
-    project_url: "#"
-    categories: ["2017", "2018"]
-
-  - image: "images/people/item-3.png"
-    project_url: "http://examplesite.com"
-    categories: ["2018"]
 
 # client logo slider
 clients_logo_slider:

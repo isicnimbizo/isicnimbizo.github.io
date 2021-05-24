@@ -1,0 +1,21 @@
+# faculty item
+item:
+  - image: "images/people/ba.jpg"
+    name: "Demba Ba"
+    project_url: "http://examplesite.com"
+    categories: ["2019", "2020"]
+
+  - image: "images/people/abbott.jpg"
+    name: "Larry Abbott"
+    project_url: "#"
+    categories: ["2017", "2018"]
+
+  - image: "images/people/item-3.png"
+    project_url: "http://examplesite.com"
+    categories: ["2018"]
+
+# client logo slider
+clients_logo_slider:
+  enable: true
+  title: "My Clients"
+  # clients logo comes from 'data/homepage.yml' file

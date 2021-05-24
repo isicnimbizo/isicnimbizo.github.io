@@ -8,8 +8,8 @@ sections:
   path: data/homepage.yml
   label: Homepage
 - type: directory
-  path: content/portfolio
-  label: Portfolio
+  path: content/faculty
+  label: Faculty
   create: none
   match: "*"
 - type: directory

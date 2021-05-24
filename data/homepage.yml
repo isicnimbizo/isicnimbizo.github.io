@@ -1,31 +1,42 @@
 ---
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
+  decor: false
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
     *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
     an opportunity for African and international students to learn about cutting edge
-    research techniques in computational neuroscience.'
+    research techniques in [computational neuroscience](/about).'
   button:
     enable: true
     label: Apply now
     URL: about
-skill:
-  enable: true
+school:
+  show_faculty: true
   title: The school
+  content: 'The school will consist of a 6 working day week. Each week will be focused around one of the themes appearing below.
+    Days off will be spent exploring some of the beautiful wonders around Cape Town.
+    Each work day will consist of lectures in the morning, followed by either further lectures/practical tutorials in the afternoons.'
   item:
   - title: Biophysics, Plasticity and Neural Recordings
-    progress: 25%
+    faculty: Joseph Raimondo
+    content: "What makes a neurons special? How do we model them mathematically? How do we model synapses and why are they important for neural function? These questions will guide the first part of week 1 at the Imbizo. We will also learn about cutting-edge techniques used for large-scale neural data recording from world experts in patch-clamping techniques and from the NEUROPIXEL project."
+    progress: 60%
     color: "#fdb157"
   - title: Network Dynamics
-    progress: 25%
+    faculty: Tim Vogels
+    content: "The functioning of the brain is ultimately an emergent phenomenon; a result of the complex interactions between billions of neurons. In week two we will learn how to model and analyse these dynamic networks, and how biological trends like Dale's Law make understanding these system more difficult and fascinating. We will also learn what the modern field of machine learning can teach us about learning in network architectures and how these artificial systems are similar and different to biological neural systems."
+    progress: 40%
     color: "#9473e6"
   - title: Machine Learning
-    progress: 25%
+    faculty: TBD
+    progress: 40%
     color: "#bdecf6"
-  - title: Higher Level Function, Motor Control &amp; Decision Making
-    progress: 25%
+  - title: Higher Level Function, Motor Control & Decision Making
+    faculty: Peter Latham
+    content: "Week three will try to bridge the gap from what we have learnt about the biology and dynamics of brains to what we observe in behaviour. We will also explore how the phenomenon of spiking in neural networks makes implementing some of the ML algorithms and dynamics from week two a lot more challenging. We will also learn about cutting-edge research in brain-computer interfacing and what this is revealing about how brains work."
+    progress: 75%
     color: "#ffbcaa"
 experience:
   enable: true
@@ -78,9 +89,9 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-portfolio:
+faculty:
   enable: true
-  title: Portfolio
+  title: Faculty
   item_show: "5"
 testimonial:
   enable: true
@@ -134,5 +145,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: False
   title: Blogs

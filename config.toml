@@ -3,22 +3,27 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "imbizo-website-base"
 title = "#isiCNI - Computational Neuroscience Imbizo"
+
+
+# menu
 [[menu.main]]
-link = "about"
+URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-link = "blog"
-name = "Blog"
+URL = "faculty"
+name = "Faculty"
 weight = 3
 [[menu.main]]
-link = "portfolio"
-name = "Portfolio"
+URL = "archive"
+name = "Archive"
 weight = 4
 [[menu.main]]
-link = "contact"
+URL = "contact"
 name = "Contact"
 weight = 5
+
+# default params
 [params]
 address = "Cape Town, South Africa"
 author = "Christopher Currin"
@@ -27,18 +32,20 @@ description = "IBRO Simons Computational Neuroscience Imbizo summer school in Ca
 email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/imbizo_sticker2020.png"
+logo = "images/imbizo_logo.png"
 phone = ""
 theme_color = "#26AE60"
-[params.contact]
-enable = true
-form_action = "#"
+
+# css plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -47,18 +54,45 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+# preloader
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "" # use png, jpg, svg or gif format
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
 [[params.social]]
-link = "#"
 icon = "ti-facebook"
+URL = "#"
+
 [[params.social]]
-link = "#"
 icon = "ti-instagram"
+URL = "#"
+
 [[params.social]]
-link = "#"
 icon = "ti-dribbble"
+URL = "#"
+
 [[params.social]]
-link = "#"
 icon = "ti-twitter-alt"
+URL = "#"

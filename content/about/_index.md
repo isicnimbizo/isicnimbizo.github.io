@@ -6,8 +6,6 @@ author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Computational neuroscience is a rapidly expanding subject focussed on understanding and modeling the brain, while helping to designing and interprete future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+The format of the school will be a combination of intensive lectures on advanced topics in computational and theoretical neuroscience as well as practical exercises in simulation and data analysis. In addition, students will perform a mini-research project under the supervision of one of the school tutors, to be presented at the end of the school.

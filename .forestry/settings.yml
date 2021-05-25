@@ -8,8 +8,22 @@ sections:
   path: data/homepage.yml
   label: Homepage
 - type: directory
-  path: content/faculty
+  path: content/about
+  label: About
+  create: none
+  match: "*"
+- type: document
+  path: data/faculty.yml
   label: Faculty
+  match: "**/*"
+- type: directory
+  path: content/archive
+  label: Archive
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: Contact
   create: none
   match: "*"
 - type: directory
@@ -20,21 +34,11 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
-- type: directory
   path: data
   label: Data
   create: documents
   match: "*"
   new_doc_ext: yml
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 - type: document
   path: config.toml
   label: Configuration

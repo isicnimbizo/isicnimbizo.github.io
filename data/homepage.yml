@@ -1,17 +1,23 @@
 ---
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
-  decor: false
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
     *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
     an opportunity for African and international students to learn about cutting edge
     research techniques in [computational neuroscience](/about).'
-  button:
-    enable: true
+  applications:
+    open: false
     label: Apply now
+    closed_message: Applications closed
     URL: about
+dates:
+  applications_open_date: May 2021
+  applications_close_date: 2022-07-04T00:00:00+02:00
+  acceptance_date: Late August (approximately)
+  school_start_date: 2022-01-09T00:00:00+02:00
+  school_end_date: 2022-01-30T00:00:00+02:00
 school:
   show_faculty: true
   title: The school
@@ -20,56 +26,18 @@ school:
     Each work day will consist of lectures in the morning, followed by either further lectures/practical tutorials in the afternoons.'
   item:
   - title: Biophysics, Plasticity and Neural Recordings
-    faculty: Joseph Raimondo
     content: "What makes a neurons special? How do we model them mathematically? How do we model synapses and why are they important for neural function? These questions will guide the first part of week 1 at the Imbizo. We will also learn about cutting-edge techniques used for large-scale neural data recording from world experts in patch-clamping techniques and from the NEUROPIXEL project."
     progress: 60%
     color: "#fdb157"
-  - title: Network Dynamics
-    faculty: Tim Vogels
+  - title: Network Dynamics & Machine Learning
     content: "The functioning of the brain is ultimately an emergent phenomenon; a result of the complex interactions between billions of neurons. In week two we will learn how to model and analyse these dynamic networks, and how biological trends like Dale's Law make understanding these system more difficult and fascinating. We will also learn what the modern field of machine learning can teach us about learning in network architectures and how these artificial systems are similar and different to biological neural systems."
-    progress: 40%
+    progress: 55%
     color: "#9473e6"
-  - title: Machine Learning
-    faculty: TBD
-    progress: 40%
-    color: "#bdecf6"
   - title: Higher Level Function, Motor Control & Decision Making
     faculty: Peter Latham
     content: "Week three will try to bridge the gap from what we have learnt about the biology and dynamics of brains to what we observe in behaviour. We will also explore how the phenomenon of spiking in neural networks makes implementing some of the ML algorithms and dynamics from week two a lot more challenging. We will also learn about cutting-edge research in brain-computer interfacing and what this is revealing about how brains work."
     progress: 75%
     color: "#ffbcaa"
-experience:
-  enable: true
-  title: Experience
-  item:
-  - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
-  - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
-education:
-  enable: true
-  title: Education
-  item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
   enable: true
   title: Services
@@ -93,12 +61,12 @@ faculty:
   enable: true
   title: Faculty
   item_show: "5"
-testimonial:
+testimonials:
   enable: true
   title: Testimonials
   item:
   - name: Jesica Gomez
-    image: images/testimonial/client-1.png
+    image: images/slideshow/client-1.png
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -106,7 +74,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
   - name: Shirley Scot
-    image: images/testimonial/client-1.png
+    image: images/slideshow/client-1.png
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -114,36 +82,15 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
   - name: Jessica Julie
-    image: images/testimonial/client-1.png
+    image: images/slideshow/client-1.png
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
-clients_logo_slider:
+faculty_slider:
   enable: true
-  item:
-  - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
 blog:
   enable: False
   title: Blogs

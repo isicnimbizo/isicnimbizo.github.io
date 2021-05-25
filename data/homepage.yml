@@ -60,7 +60,6 @@ service:
 faculty:
   enable: true
   title: Faculty
-  item_show: "5"
 testimonials:
   enable: true
   title: Testimonials
@@ -89,8 +88,6 @@ testimonials:
       <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
-faculty_slider:
-  enable: true
 blog:
   enable: False
   title: Blogs

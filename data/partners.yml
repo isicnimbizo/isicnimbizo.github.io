@@ -1,0 +1,40 @@
+partners: 
+  item:
+    - title: "Simons Foundation"
+      image: "images/partners/simons.jpg"
+    - title: "IBRO"
+      image: "images/partners/logo_ibro.jpg"
+
+donors: 
+  item: 
+    - title: "Google"
+      image: "images/partners/google_logo_small.jpg"
+      disable: false
+    - title: "Wellcome"
+      image: "images/partners/wellcome-logo-white.png"
+      disable: false
+
+
+supportors:
+  item:
+    - title: "CoE-MaSS"
+      image: "coe-mass.jpg"
+      disable: true
+    - title: "eLife"
+      image: "images/partners/elife-full-color-horizontal-2020.png"
+      disable: false
+
+affiliates:
+  item: 
+    - title: "University of Cape Town"
+      image: "images/partners/uctlogo.gif"
+    - title: "University College London"
+      image: "images/partners/ucllogo.png"
+    - title: "Insitute of Science and Technology Austria"
+    - title: "Gastby Institute"
+      image: "images/partners/gatsby.png"
+    - title: "Neuroscience Institute"
+      image: "images/partners/neurosci_inst_logo.png"
+    - title: "TReND in Africa"
+      image: "images/partners/trend.png"
+    - title: "IBRO African Center for Advanced Training in Neurosciences at UCT"

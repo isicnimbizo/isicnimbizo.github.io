@@ -121,10 +121,3 @@ item:
     years: ["2017"]
     affiliation: Harvard University / MIT
     link: http://www.neurostat.mit.edu/home
-
-
-# client logo slider
-clients_logo_slider:
-  enable: true
-  title: "My Clients"
-  # clients logo comes from 'data/homepage.yml' file

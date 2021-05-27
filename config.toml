@@ -67,6 +67,8 @@ preloader = "" # use png, jpg, svg or gif format
 # contact
 [params.contact]
 enable = true
+homepage = true
+floating = true
 form_action = "https://formspree.io/f/mnqldnnz" # contact form works with : https://formspree.io
 
 # google map

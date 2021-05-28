@@ -1,35 +1,39 @@
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Example backgrounds"
   item:
-  - title : "Research and Plan"
+  - title : "Physics"
     icon : "images/icons/plan.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title : "Design and Develop"
+  - title : "Computer Science"
     icon : "images/icons/design.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title : "Deliver"
+  - title : "Neuroscience"
     icon : "images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 team:
   enable: true
-  title : "My Team"
+  title : "Organising committee"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title : "Joseph Raimondo"
+      image : "images/people/raimondo2.jpg"
+      designation : "University of Cape Town"
+    - title : "Tim Vogels"
+      image : "images/people/vogels2.jpg"
+      designation : "Institute of Science and Technology Austria"
+    - title : "Peter Latham"
+      image : "images/people/latham.jpg"
+      designation : "University College London"
+    - title : "Emma Vaughan"
+      image : "images/people/emma.jpg"
+      designation : "University of Cape Town"
+    - title : "Christopher Currin"
+      image : "images/people/currin.jpg"
+      designation : "Institute of Science and Technology Austria"
 
 
 clients_logo_slider:

@@ -1,40 +1,43 @@
-partners: 
-  item:
-    - title: "Simons Foundation"
+title: Sponsors
+sponsors: 
+  - tier: "Partners"
+    size: 100
+    item:
+    - name: "Simons Foundation"
       image: "images/partners/simons.jpg"
-    - title: "IBRO"
+      background_color: "#fff"
+    - name: "IBRO"
       image: "images/partners/logo_ibro.jpg"
-
-donors: 
-  item: 
-    - title: "Google"
-      image: "images/partners/google_logo_small.jpg"
-      disable: false
-    - title: "Wellcome"
+  - tier: "Donors"
+    size: 80
+    item:
+    - name: "Google"
+      image: "images/partners/google_logo_small.png"
+      current: true
+    - name: "Wellcome"
       image: "images/partners/wellcome-logo-white.png"
-      disable: false
-
-
-supportors:
-  item:
-    - title: "CoE-MaSS"
-      image: "coe-mass.jpg"
-      disable: true
-    - title: "eLife"
+      current: true    
+  - tier: "Supporters"
+    size: 50
+    item:
+    - name: "CoE-MaSS"
+      image: "images/partners/coe-mass.jpg"
+      current: false
+    - name: "eLife"
       image: "images/partners/elife-full-color-horizontal-2020.png"
-      disable: false
-
-affiliates:
-  item: 
-    - title: "University of Cape Town"
+      current: false
+  - tier: "Affiliates"
+    size: 50
+    item:
+    - name: "University of Cape Town"
       image: "images/partners/uctlogo.gif"
-    - title: "University College London"
-      image: "images/partners/ucllogo.png"
-    - title: "Insitute of Science and Technology Austria"
-    - title: "Gastby Institute"
+    - name: "University College London"
+      image: "images/partners/ucllogo.jpg"
+    - name: "Insitute of Science and Technology Austria"
+    - name: "Gastby Institute"
       image: "images/partners/gatsby.png"
-    - title: "Neuroscience Institute"
+    - name: "Neuroscience Institute"
       image: "images/partners/neurosci_inst_logo.png"
-    - title: "TReND in Africa"
+    - name: "TReND in Africa"
       image: "images/partners/trend.png"
-    - title: "IBRO African Center for Advanced Training in Neurosciences at UCT"
+    - name: "IBRO African Center for Advanced Training in Neurosciences at UCT"

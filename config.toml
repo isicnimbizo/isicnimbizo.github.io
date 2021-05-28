@@ -35,6 +35,7 @@ home = "Home"
 logo = "images/imbizo_logo.png"
 phone = ""
 theme_color = "#26AE60"
+theme_color_secondary = "#2C3E50"
 home_bg = "https://images.unsplash.com/photo-1580737173595-3c4b8464d8ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
 decor = false
 

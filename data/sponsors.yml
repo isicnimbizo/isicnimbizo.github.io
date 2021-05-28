@@ -1,0 +1,71 @@
+title: "Sponsors"
+item:
+  - name: Simons Foundation
+    image: images/partners/simons.jpg
+    background_color: "#fff"
+    tier: "Partner"
+    tier_weight: 1
+    current: true
+    link: '#'
+  - name: IBRO
+    image: images/partners/logo_ibro.jpg
+    tier: "Partner"
+    tier_weight: 1
+    current: true
+    link: '#'
+  - name: Google
+    image: images/partners/google_logo_small.png
+    background_color: "#fff"
+    tier: "Donor"
+    tier_weight: 2
+    current: true
+    link: '#'
+  - name: "Wellcome"
+    image: "images/partners/wellcome-logo-white.png"
+    current: true  
+    tier: Donor
+    tier_weight: 2
+    link: '#'
+  - name: "CoE-MaSS"
+    tier: Supporter
+    tier_weight: 3
+    image: "images/partners/coe-mass.jpg"
+    current: false
+    link: '#'
+  - name: "eLife"
+    tier: Supporter
+    tier_weight: 3
+    image: "images/partners/elife-full-color-horizontal-2020.png"
+    current: false
+  - name: "University of Cape Town"
+    tier: Affiliate
+    tier_weight: 5
+    image: "images/partners/uctlogo.gif"
+    current: true
+  - name: "University College London"
+    tier: Affiliate
+    tier_weight: 5
+    image: "images/partners/ucllogo.jpg"
+    current: true
+  - name: "Insitute of Science and Technology Austria"
+    tier: Affiliate
+    tier_weight: 5
+    current: true
+  - name: "Gastby Institute"
+    tier: Affiliate
+    tier_weight: 5
+    image: "images/partners/gatsby.png"
+    current: true
+  - name: "Neurosciences Institute"
+    tier: Affiliate
+    tier_weight: 5
+    image: "images/partners/neuro_sci_inst2.png"
+    current: true
+  - name: "TReND in Africa"
+    tier: Affiliate
+    tier_weight: 5
+    image: "images/partners/trend.png"
+    current: true
+  - name: "IBRO African Center for Advanced Training in Neurosciences at UCT"
+    tier: Affiliate
+    tier_weight: 5

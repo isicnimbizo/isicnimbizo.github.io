@@ -33,7 +33,7 @@ sections:
   path: content/news
   label: News
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - post
 upload_dir: static/images

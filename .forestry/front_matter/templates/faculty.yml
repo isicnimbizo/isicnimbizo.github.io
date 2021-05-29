@@ -30,3 +30,4 @@ fields:
       required: true
 pages:
 - data/faculty.yml
+- data/faculty.yml

@@ -15,7 +15,6 @@ sections:
 - type: document
   path: data/faculty.yml
   label: Faculty
-  match: "**/*"
 - type: directory
   path: content/archive
   label: Archive

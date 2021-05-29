@@ -12,7 +12,6 @@ sections:
 - type: document
   path: data/application_info.yml
   label: Application info
-  match: "**/*"
 - type: document
   path: content/apply/_index.md
   label: Application info page meta

@@ -7,11 +7,6 @@ sections:
 - type: document
   path: data/homepage.yml
   label: Homepage
-- type: directory
-  path: content/about
-  label: About
-  create: none
-  match: "*"
 - type: document
   path: data/faculty.yml
   label: Faculty
@@ -26,13 +21,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/blog
-  label: Post
-  create: documents
-  match: "*"
-  templates:
-  - post
-- type: directory
   path: data
   label: Data
   create: documents
@@ -41,6 +29,13 @@ sections:
 - type: document
   path: config.toml
   label: Configuration
+- type: directory
+  path: content/news
+  label: News
+  create: all
+  match: "**/*"
+  templates:
+  - post
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

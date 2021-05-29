@@ -28,3 +28,5 @@ fields:
     label: link
     config:
       required: true
+pages:
+- data/faculty.yml

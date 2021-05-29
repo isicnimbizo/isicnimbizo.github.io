@@ -1,0 +1,68 @@
+---
+content: 'The total fee for the isiCNI2022 is **EUR 1,100.00**
+Thanks to our generous sponsors, significant financial assistance is available to reduce and waiver fees for students, as well as to provide some travel bursaries. If you are in need of financial assistance to attend the Imbizo, please state so clearly in the relevant section of your application.
+NOTE: we cannot guarantee full financial assistance to non-resident African or non-African applicants.
+African students are particularly strongly encouraged to apply.'
+open: false
+label: Apply now
+closed_message: Applications closed
+info_link_label: "Application info"
+URL: about
+dates:
+  applications_open_date: June 2021
+  applications_close_date: 2021-07-04T00:00:00+02:00
+  acceptance_date: Late August (approximately)
+
+target_applicants:
+  enable : true
+  title : "Who should apply?"
+  content: "The school is aimed at students who are completing their masters or beginning their doctoral studies, 
+  though well motivated and advanced undergraduates or postdoctoral students should also apply. 
+  Students should have a good quantitative background: e.g. 2nd year university level experience in physics, 
+  engineering, statistics or computer science, etc. Experimental neuroscientists with some quantitative/coding 
+  experience who think the imbizo with strengthen these skills should also apply.  
+  All students should have some experience writing code."
+  preamble: "Example backgrounds"
+  item:
+  - title : "MSc Physics student"
+    icon : "images/icons/plan.png"
+    content : "Has a bachelors in physical sciences (e.g. physics / statistics / mathematics / computer science). Has taken 1st-year level courses in biology / electives in psychology, etc."
+  - title : "PhD Neuroscience candidate"
+    icon : "images/icons/print.png"
+    content : "Has a bachelors in biological science, has completed 2nd-year level courses in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has some experience writing code."
+  - title : "Post-doctoral researcher in Machine Learning"
+    icon : "images/icons/design.png"
+    content : "This school will be most beneficial for postgraduate students and postdocs who want to fast track their education in the quantitative aspects of neuroscience. If you already have a strong background in Computational Neuroscience or Machine Learning, perhaps you would be better suited as a Teaching Assistant?"
+
+team:
+  enable: true
+  title : "Organising committee"
+  team_member:
+    - title : "Joseph Raimondo"
+      image : "images/people/raimondo2.jpg"
+      designation : "University of Cape Town"
+    - title : "Tim Vogels"
+      image : "images/people/vogels2.jpg"
+      designation : "Institute of Science and Technology Austria"
+    - title : "Peter Latham"
+      image : "images/people/latham.jpg"
+      designation : "University College London"
+    - title : "Emma Vaughan"
+      image : "images/people/emma.jpg"
+      designation : "University of Cape Town"
+    - title : "Christopher Currin"
+      image : "images/people/currin.jpg"
+      designation : "Institute of Science and Technology Austria"
+
+faq: 
+  enable: true
+  title: Frequently asked questions
+  item:
+    - question: "### What is computational neuroscience? {#compneuro}"
+      answer: 'Computational neuroscience is a rapidly expanding 
+      subject focussed on understanding and modeling the brain, while helping 
+      to designing and interprete future experiments. This school aims to 
+      promote computational neuroscience in Africa by bringing together international 
+      and local students under the tutelage of world-leading experts in the field.'
+    - question: "### I am a resident of Cape Town, do I need to pay the full fee?"
+      answer: "Yes, all students will be working hard on their projects and taking part in many social activities with each other and the faculty. For this reason, all students will be required to stay in the student accommodation, attend all meals and activities etc. This also means costs are essentially the same for all students. Note though that bursaries and travel grants will be provided to as many students as possible, on a basis of need and merit. In your application, specify what financial contribution you can make and be sure to request financial assistance where asked."

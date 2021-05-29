@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/apply/_index.md
+  label: Application info page meta
+  match: "**/*"
+- type: heading
+  label: Application
+- type: document
   path: data/homepage.yml
   label: Homepage
 - type: document

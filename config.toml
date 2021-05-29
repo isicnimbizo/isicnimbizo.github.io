@@ -7,6 +7,7 @@ title = "#isiCNI - Computational Neuroscience Imbizo"
 
 # menu
 [[menu.main]]
+identifier = "apply"
 URL = "apply"
 name = "Apply"
 weight = 2
@@ -90,7 +91,7 @@ expire_days = 20
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "www.facebook.com"
+URL = ""
 [[params.social]]
 icon = "ti-instagram"
 URL = "#"

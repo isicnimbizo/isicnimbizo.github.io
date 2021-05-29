@@ -4,14 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: data/homepage.yml
+  label: Homepage
 - type: heading
   label: Application
 - type: document
   path: content/apply/_index.md
   label: Application info page meta
-- type: document
-  path: data/homepage.yml
-  label: Homepage
+- type: heading
+  label: Other
 - type: document
   path: data/faculty.yml
   label: Faculty

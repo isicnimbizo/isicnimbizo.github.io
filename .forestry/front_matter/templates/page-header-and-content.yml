@@ -11,9 +11,12 @@ fields:
 - type: text
   name: description
   label: description
-- type: boolean
-  name: show_who_should_apply
-  label: show_who_should_apply
 - type: text
   name: min_header_height
   label: min_header_height
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  description: Header image

@@ -34,6 +34,7 @@ sections:
   label: News
   create: all
   match: "*"
+  exclude: _index.md
   templates:
   - post
 upload_dir: static/images

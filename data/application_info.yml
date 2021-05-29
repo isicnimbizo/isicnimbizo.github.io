@@ -45,13 +45,13 @@ team:
       image : "images/people/vogels2.jpg"
       designation : "Institute of Science and Technology Austria"
     - title : "Peter Latham"
-      image : "images/people/latham.jpg"
+      image : "images/people/latham3.png"
       designation : "University College London"
     - title : "Emma Vaughan"
       image : "images/people/emma.jpg"
       designation : "University of Cape Town"
     - title : "Christopher Currin"
-      image : "images/people/currin.jpg"
+      image : "images/people/currin2.png"
       designation : "Institute of Science and Technology Austria"
 
 faq: 

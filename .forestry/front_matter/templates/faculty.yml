@@ -19,7 +19,7 @@ fields:
       source:
         type: simple
       min: 1
-    description: Which year(s) did this person teach?
+    description: Which year(s) did this person teach?<br>One year per line/entry/item
   - type: text
     name: affiliation
     label: affiliation

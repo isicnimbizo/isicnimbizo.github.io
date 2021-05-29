@@ -6,21 +6,14 @@ about:
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
     *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
     an opportunity for African and international students to learn about cutting edge
-    research techniques in [computational neuroscience](/about).'
-  applications:
-    open: false
-    label: Apply now
-    closed_message: Applications closed
-    URL: about
-dates:
-  applications_open_date: June 2021
-  applications_close_date: 2021-07-04T00:00:00+02:00
-  acceptance_date: Late August (approximately)
-  school_start_date: 2022-01-09T00:00:00+02:00
-  school_end_date: 2022-01-30T00:00:00+02:00
+    research techniques in [computational neuroscience](/apply#faq).'
+  show_application_info: true
 school:
-  show_faculty: true
   title: The school
+  dates:
+    school_start_date: 2022-01-09T00:00:00+02:00
+    school_end_date: 2022-01-30T00:00:00+02:00
+  show_faculty: true
   content: 'The school will consist of a 6 working day week. Each week will be focused around one of the themes appearing below.
     Days off will be spent exploring some of the beautiful wonders around Cape Town.
     Each work day will consist of lectures in the morning, followed by either further lectures/practical tutorials in the afternoons.'

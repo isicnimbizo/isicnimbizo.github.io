@@ -7,21 +7,22 @@ title = "#isiCNI - Computational Neuroscience Imbizo"
 
 # menu
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "apply"
+name = "Apply"
 weight = 2
 [[menu.main]]
 URL = "faculty"
 name = "Faculty"
 weight = 3
 [[menu.main]]
+identifier = "archive"
 URL = "archive"
 name = "Archive"
 weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 9
 
 # default params
 [params]

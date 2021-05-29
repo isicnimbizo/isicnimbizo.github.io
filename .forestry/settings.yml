@@ -4,12 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Application
 - type: document
   path: content/apply/_index.md
   label: Application info page meta
-  match: "**/*"
-- type: heading
-  label: Application
 - type: document
   path: data/homepage.yml
   label: Homepage

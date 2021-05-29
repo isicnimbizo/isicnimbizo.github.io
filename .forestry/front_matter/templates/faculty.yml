@@ -9,12 +9,22 @@ fields:
   - type: text
     name: name
     label: name
+    config:
+      required: true
   - type: list
     name: years
     label: years
+    config:
+      use_select: false
+      source:
+        type: simple
+      min: 1
+    description: Which year(s) did this person teach?
   - type: text
     name: affiliation
     label: affiliation
   - type: text
     name: link
     label: link
+    config:
+      required: true

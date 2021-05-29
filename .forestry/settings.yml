@@ -14,7 +14,7 @@ sections:
   label: Application info
 - type: document
   path: content/apply/_index.md
-  label: Application info page meta
+  label: Application info page header
 - type: heading
   label: Other
 - type: document

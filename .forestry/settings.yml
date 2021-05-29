@@ -16,15 +16,22 @@ sections:
   path: content/apply/_index.md
   label: Application info page header
 - type: heading
+  label: Archive
+- type: directory
+  path: content/archive
+  label: Past years
+  create: all
+  match: "**/*"
+  exclude: _index.md
+- type: document
+  path: content/archive/_index.md
+  label: Archive page header
+  match: "**/*"
+- type: heading
   label: Other
 - type: document
   path: data/faculty.yml
   label: Faculty
-- type: directory
-  path: content/archive
-  label: Archive
-  create: all
-  match: "**/*"
 - type: directory
   path: content/contact
   label: Contact

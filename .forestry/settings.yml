@@ -26,7 +26,6 @@ sections:
 - type: document
   path: content/archive/_index.md
   label: Archive page header
-  match: "**/*"
 - type: heading
   label: Other
 - type: document

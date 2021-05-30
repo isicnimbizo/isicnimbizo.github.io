@@ -28,17 +28,17 @@ target_applicants:
   preamble: Example backgrounds
   item:
   - title: MSc Physics student
-    icon: ti-vector
+    icon: images/icons/icon-1.png
     content: Has a bachelors in physical sciences (e.g. physics / statistics / mathematics
       / computer science). Has taken 1st-year level courses in biology / electives
       in psychology, etc.
   - title: PhD Neuroscience candidate
-    icon: ti-palette
+    icon: images/icons/icon-2.png
     content: Has a bachelors in biological science, has completed 2nd-year level courses
       in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has
       some experience writing code.
   - title: Post-doctoral researcher in Machine Learning
-    icon: ti-panel
+    icon: images/icons/icon-3.png
     content: This school will be most beneficial for postgraduate students and postdocs
       who want to fast track their education in the quantitative aspects of neuroscience.
       If you already have a strong background in Computational Neuroscience or Machine

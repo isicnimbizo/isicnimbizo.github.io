@@ -27,10 +27,16 @@ sections:
   path: content/archive/_index.md
   label: Archive page header
 - type: heading
-  label: Other
+  label: People
 - type: document
   path: data/faculty.yml
   label: Faculty
+- type: document
+  path: content/faculty/_index.md
+  label: Faculty page header
+  match: "**/*"
+- type: heading
+  label: Other
 - type: directory
   path: content/contact
   label: Contact

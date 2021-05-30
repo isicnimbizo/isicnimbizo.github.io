@@ -34,7 +34,6 @@ sections:
 - type: document
   path: content/faculty/_index.md
   label: Faculty page header
-  match: "**/*"
 - type: heading
   label: Other
 - type: directory

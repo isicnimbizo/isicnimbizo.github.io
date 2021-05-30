@@ -1,6 +1,7 @@
 ---
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
+  min_header_height: 60em
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
@@ -48,56 +49,9 @@ school:
       and what this is revealing about how brains work.
     progress: 25%
     color: "#FA6F1E"
-service:
-  enable: true
-  title: Services
-  item:
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: true
-  - title: Interaction Design
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
 faculty:
   enable: true
   title: Faculty
-testimonials:
-  enable: false
-  title: Testimonials
-  item:
-  - name: Jesica Gomez
-    image: images/slideshow/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Shirley Scot
-    image: images/slideshow/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Jessica Julie
-    image: images/slideshow/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-blog:
+news:
   enable: false
   title: In the news

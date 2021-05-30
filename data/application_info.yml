@@ -13,7 +13,7 @@ info_link_label: Application info
 URL: about
 dates:
   applications_open_date: June 2021
-  applications_close_date: 2021-07-03T22:00:00+00:00
+  applications_close_date: 2021-07-16T22:00:00+02:00
   acceptance_date: Late August (approximately)
 target_applicants:
   enable: true
@@ -28,17 +28,17 @@ target_applicants:
   preamble: Example backgrounds
   item:
   - title: MSc Physics student
-    icon: images/icons/plan.png
+    icon: ti-vector
     content: Has a bachelors in physical sciences (e.g. physics / statistics / mathematics
       / computer science). Has taken 1st-year level courses in biology / electives
       in psychology, etc.
   - title: PhD Neuroscience candidate
-    icon: images/icons/print.png
+    icon: ti-palette
     content: Has a bachelors in biological science, has completed 2nd-year level courses
       in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has
       some experience writing code.
   - title: Post-doctoral researcher in Machine Learning
-    icon: images/icons/design.png
+    icon: ti-panel
     content: This school will be most beneficial for postgraduate students and postdocs
       who want to fast track their education in the quantitative aspects of neuroscience.
       If you already have a strong background in Computational Neuroscience or Machine

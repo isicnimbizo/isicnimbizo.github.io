@@ -51,7 +51,6 @@ school:
     color: "#FA6F1E"
 faculty:
   enable: true
-  title: Faculty
 news:
   enable: false
   title: In the news

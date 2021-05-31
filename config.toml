@@ -9,8 +9,8 @@ identifier = "apply"
 name = "Apply"
 weight = 2
 [[menu.main]]
-URL = "faculty"
-name = "Faculty"
+URL = "people"
+name = "People"
 weight = 3
 [[menu.main]]
 URL = "archive"
@@ -27,7 +27,7 @@ URL = "contact"
 name = "Contact"
 weight = 9
 [params]
-address = "Cape Town, South Africa"
+address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"
 copyright = "Copyright &copy; Imbizo"
 decor = false
@@ -50,11 +50,7 @@ enable = true
 expire_days = 20
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
-map_latitude = "-34.109293"
-map_location = "Muizenberg, Cape Town"
-map_longitude = "18.465399"
-map_marker = "images/marker.png"
+map_embed_html = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26430.512733909145!2d18.3637978908445!3d-34.09990270793313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6bcd11adcb1f%3A0x4c80ccbf8b40e799!2sNoordhoek%2C%20Cape%20Town%2C%207979%2C%20South%20Africa!5e0!3m2!1sen!2sat!4v1622470761948!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>'
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]

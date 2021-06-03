@@ -17,14 +17,9 @@ identifier = "news"
 name = "News"
 weight = 4
 [[menu.main]]
-URL = "archive"
-identifier = "archive"
-name = "Archive"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 8
+weight = 7
 [params]
 address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"

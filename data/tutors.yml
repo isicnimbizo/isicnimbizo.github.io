@@ -40,20 +40,20 @@ item:
   years:
   - '2017'
   affiliation: University College London
-  link: ''
-  image: images/people/vertes.jpg
+  link: https://twitter.com/esztervertes
+  image: "/images/vertes.jpg"
 - name: Katharina Wilmes
   years:
   - '2018'
   affiliation: Imperial College London
-  link: ''
-  image: ''
+  link: https://twitter.com/k47h4
+  image: "/images/wilmes.jpg"
 - name: Friedemann Zenke
   years:
   - '2018'
   affiliation: University of Oxford
-  link: ''
-  image: ''
+  link: https://zenkelab.org/
+  image: "/images/zenke.jpg"
 - name: Agostina Palmigiano
   years:
   - '2018'

@@ -59,8 +59,8 @@ item:
   - '2018'
   - '2019'
   affiliation: Columbia University
-  link: ''
-  image: ''
+  link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
+  image: "/images/palmigiano.jpg"
 - name: Callie Federer
   years:
   - '2019'

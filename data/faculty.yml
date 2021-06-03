@@ -1,5 +1,5 @@
 ---
-title: "Faculty"
+title: Faculty
 item:
 - name: Eve Marder
   years:
@@ -43,7 +43,7 @@ item:
   - '2018'
   image: images/people/abbott.jpg
   affiliation: Columbia University
-  link: ''
+  link: https://ntc.columbia.edu/larry-abbott/
 - name: Dora Angelaki
   affiliation: Baylor College of Medicine
   link: https://www.bcm.edu/research/labs/dora-angelaki

@@ -32,8 +32,12 @@ sections:
   path: data/faculty.yml
   label: Faculty
 - type: document
-  path: content/faculty/_index.md
+  path: content/people/_index.md
   label: Faculty page header
+- type: document
+  path: data/tas.yml
+  label: Teaching assistants
+  match: "**/*"
 - type: heading
   label: Other
 - type: directory

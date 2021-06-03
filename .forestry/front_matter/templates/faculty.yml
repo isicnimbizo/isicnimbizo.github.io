@@ -2,6 +2,11 @@
 label: People
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
 - type: field_group_list
   name: item
   label: item

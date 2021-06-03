@@ -7,8 +7,8 @@ item:
   - '2018'
   - '2019'
   affiliation: University College London
-  link: ''
-  image: ''
+  link: https://twitter.com/adantro
+  image: "/images/antrobus.jpeg"
 - name: William Podlaski
   years:
   - '2017'

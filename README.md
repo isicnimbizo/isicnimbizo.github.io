@@ -8,5 +8,6 @@ Website of the best\* neuroscience summer school.
 developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurrin) | [🌍website](https://chriscurrin.com)]
 
 ## LICENSE
-based on [Kross Hugo theme](https://github.com/themefisher/kross-hugo/) is developed by Themefisher.
-[MIT](https://github.com/themefisher/kross-hugo/blob/master/LICENSE)
+based on [Kross Hugo theme](https://github.com/themefisher/kross-hugo/) developed by Themefisher.
+
+licensed using [MIT](https://github.com/themefisher/kross-hugo/blob/master/LICENSE)

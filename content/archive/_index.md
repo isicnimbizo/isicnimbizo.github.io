@@ -7,6 +7,6 @@ image: https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?ixid=MnwxMjA
 menu:
   main:
     identifier: archive
-    weight: 5
+    weight: 3
 
 ---

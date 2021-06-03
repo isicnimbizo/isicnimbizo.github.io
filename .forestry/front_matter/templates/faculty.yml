@@ -27,7 +27,7 @@ fields:
     name: link
     label: link
     config:
-      required: true
+      required: false
   - name: image
     type: file
     config:

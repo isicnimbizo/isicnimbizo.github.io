@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistants"
+title: Teaching assistants
 item:
 - name: Alex Antrobus
   years:
@@ -8,6 +8,7 @@ item:
   - '2019'
   affiliation: University College London
   link: ''
+  image: ''
 - name: William Podlaski
   years:
   - '2017'
@@ -15,22 +16,26 @@ item:
   - '2019'
   affiliation: University of Oxford
   link: ''
+  image: ''
 - name: Athanasia Papoutsi
   years:
   - '2017'
   - '2018'
   affiliation: IMBB-FORTH
   link: ''
+  image: ''
 - name: Merav Stern
   years:
   - '2017'
   affiliation: University of Washington
   link: ''
+  image: ''
 - name: Sina Tootoonian
   years:
   - '2017'
   affiliation: University College London
   link: ''
+  image: ''
 - name: Eszter Vértes
   years:
   - '2017'
@@ -42,48 +47,57 @@ item:
   - '2018'
   affiliation: Imperial College London
   link: ''
+  image: ''
 - name: Friedemann Zenke
   years:
   - '2018'
   affiliation: University of Oxford
   link: ''
+  image: ''
 - name: Agostina Palmigiano
   years:
   - '2018'
   - '2019'
   affiliation: Columbia University
   link: ''
+  image: ''
 - name: Callie Federer
   years:
   - '2019'
   - '2020'
   affiliation: RadiaSoft, LLC
   link: ''
+  image: ''
 - name: Grace Lindsay
   years:
   - '2019'
   - '2020'
   affiliation: Columbia University
   link: ''
+  image: ''
 - name: Rich Pang
   years:
   - '2019'
   - '2020'
   affiliation: University of Washington
   link: ''
+  image: ''
 - name: Chris Currin
   years:
   - '2019'
   - '2020'
   affiliation: University of Cape Town, Institute of Science and Technology Austria
   link: https://twitter.com/chriscurrin
+  image: ''
 - name: Annik Carson
   years:
   - '2020'
   affiliation: McGill University
   link: https://twitter.com/wagonspeedracer
+  image: ''
 - name: Everton Agnes
   years:
   - '2020'
   affiliation: University of Oxford
   link: ''
+  image: ''

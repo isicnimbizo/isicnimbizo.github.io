@@ -4,12 +4,12 @@ summaryLength = "10"
 theme = "imbizo-website-base"
 title = "#isiCNI - Computational Neuroscience Imbizo"
 [[menu.main]]
-URL = "people"
-name = "People"
-weight = 1
-[[menu.main]]
 identifier = "news"
 name = "In the news"
+weight = 3
+[[menu.main]]
+URL = "people"
+name = "People"
 weight = 2
 [[menu.main]]
 URL = "news"
@@ -24,7 +24,7 @@ weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 9
+weight = 8
 [params]
 address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"

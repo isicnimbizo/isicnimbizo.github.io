@@ -30,7 +30,7 @@ sections:
   label: People
 - type: document
   path: content/people/_index.md
-  label: Faculty page header
+  label: People page header
 - type: document
   path: data/faculty.yml
   label: Faculty

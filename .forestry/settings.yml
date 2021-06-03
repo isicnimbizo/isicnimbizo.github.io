@@ -37,7 +37,6 @@ sections:
 - type: document
   path: data/tas.yml
   label: Teaching assistants
-  match: "**/*"
 - type: heading
   label: Other
 - type: directory

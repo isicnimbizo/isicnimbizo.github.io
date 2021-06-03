@@ -28,8 +28,8 @@ item:
   years:
   - '2017'
   affiliation: University of Washington
-  link: ''
-  image: ''
+  link: https://pages.uoregon.edu/meravs/
+  image: "/images/stern.jpg"
 - name: Sina Tootoonian
   years:
   - '2017'

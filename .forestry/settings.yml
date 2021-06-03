@@ -10,49 +10,35 @@ sections:
 - type: heading
   label: Application
 - type: document
-  path: data/application_info.yml
-  label: Application info
-- type: document
   path: content/apply/_index.md
   label: Application info page header
+- type: document
+  path: data/application_info.yml
+  label: Application info
 - type: heading
   label: Archive
+- type: document
+  path: content/archive/_index.md
+  label: Archive page header
 - type: directory
   path: content/archive
   label: Past years
   create: all
   match: "**/*"
   exclude: _index.md
-- type: document
-  path: content/archive/_index.md
-  label: Archive page header
 - type: heading
   label: People
-- type: document
-  path: data/faculty.yml
-  label: Faculty
 - type: document
   path: content/people/_index.md
   label: Faculty page header
 - type: document
-  path: data/tas.yml
+  path: data/faculty.yml
+  label: Faculty
+- type: document
+  path: data/tutors.yml
   label: Teaching assistants
 - type: heading
   label: Other
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
-- type: directory
-  path: data
-  label: Data
-  create: documents
-  match: "*"
-  new_doc_ext: yml
-- type: document
-  path: config.toml
-  label: Configuration
 - type: directory
   path: content/news
   label: News
@@ -61,6 +47,20 @@ sections:
   exclude: _index.md
   templates:
   - post
+- type: directory
+  path: content/contact
+  label: Contact
+  create: none
+  match: "*"
+- type: document
+  path: config.toml
+  label: Configuration
+- type: directory
+  path: data
+  label: Data
+  create: documents
+  match: "*"
+  new_doc_ext: yml
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

@@ -8,3 +8,4 @@ thumbnail = "/images/imbizo2019.png"
 title = "isiCNI2019"
 
 +++
+past students can find the school material available [here](***REMOVED*** "2019 material")

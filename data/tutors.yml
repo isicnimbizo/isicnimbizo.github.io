@@ -34,8 +34,8 @@ item:
   years:
   - '2017'
   affiliation: University College London
-  link: ''
-  image: ''
+  link: https://www.linkedin.com/in/sina-tootoonian-99668838
+  image: "/images/tootoonian.jpg"
 - name: Eszter Vértes
   years:
   - '2017'

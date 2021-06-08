@@ -52,5 +52,5 @@ school:
 faculty:
   enable: true
 news:
-  enable: true
+  enable: false
   title: In the news

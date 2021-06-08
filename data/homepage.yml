@@ -27,7 +27,7 @@ school:
       will guide the first part of week 1 at the Imbizo. We will also learn about
       cutting-edge techniques used for large-scale neural data recording from world
       experts in patch-clamping techniques and from the NEUROPIXEL project.
-    progress: 25%
+    height: 25%
     color: "#AD2F8C"
   - title: Network Dynamics & Machine Learning
     content: The functioning of the brain is ultimately an emergent phenomenon; a
@@ -37,7 +37,7 @@ school:
       We will also learn what the modern field of machine learning can teach us about
       learning in network architectures and how these artificial systems are similar
       and different to biological neural systems.
-    progress: 30%
+    height: 30%
     color: "#26AE60"
   - title: Higher Level Function, Motor Control & Decision Making
     faculty: Peter Latham
@@ -47,7 +47,7 @@ school:
       some of the ML algorithms and dynamics from week two a lot more challenging.
       We will also learn about cutting-edge research in brain-computer interfacing
       and what this is revealing about how brains work.
-    progress: 25%
+    height: 25%
     color: "#FA6F1E"
 faculty:
   enable: true

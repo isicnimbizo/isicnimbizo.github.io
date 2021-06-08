@@ -7,6 +7,19 @@ Website of the best\* neuroscience summer school.
 
 developed by Christopher Brian Currin [[🔗GitHub](https://github.com/ChrisCurrin) | [🌍website](https://chriscurrin.com)]
 
+## Getting started with development
+
+1. clone project to local directory
+    ```bash
+    git clone --recurse-submodules <url>
+    cd isicnimbizo.github.io
+    ```
+
+1. start server
+    ```bash
+    hugo server -D -d public  
+    ```
+
 ## LICENSE
 based on [Kross Hugo theme](https://github.com/themefisher/kross-hugo/) developed by Themefisher.
 

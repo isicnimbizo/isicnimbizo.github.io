@@ -6,6 +6,9 @@ end_date = 2019-01-26T23:00:00Z
 image = "/images/archive/imbizo2019header.jpg"
 thumbnail = "/images/imbizo2019.png"
 title = "isiCNI2019"
+[menu.main]
+parent = ""
+weight = "2"
 
 +++
 past students can find the school material available [here](***REMOVED*** "2019 material")

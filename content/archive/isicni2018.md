@@ -8,7 +8,10 @@ thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
 [main]
 parent = "archive"
-weight = 8
+weight = "8"
+[menu.main]
+parent = ""
+weight = "3"
 
 +++
 past students can find the school material available [here](http://isicni.gatsby.ucl.ac.uk/2018 "2018 material")

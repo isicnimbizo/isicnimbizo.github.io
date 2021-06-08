@@ -11,3 +11,5 @@ parent = "archive"
 weight = 1
 
 +++
+
+past students can find the school material available [here](http://isicni.gatsby.ucl.ac.uk/2017 "2017 material")

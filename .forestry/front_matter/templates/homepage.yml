@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group
   name: banner
-  label: banner
+  label: Banner
   fields:
   - type: text
     name: title
@@ -14,7 +14,7 @@ fields:
     label: min_header_height
 - type: field_group
   name: about
-  label: about
+  label: About
   fields:
   - type: boolean
     name: enable
@@ -27,7 +27,7 @@ fields:
     label: show_application_info
 - type: field_group
   name: school
-  label: school
+  label: School section
   fields:
   - type: text
     name: title

@@ -23,6 +23,11 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: menu
+  type: include
+  config: {}
+  template: submenu
+  label: menu
 pages:
 - content/archive/isicni2018.md
 - content/archive/isicni2019.md

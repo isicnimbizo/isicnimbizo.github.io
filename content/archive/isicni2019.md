@@ -7,7 +7,7 @@ image = "/images/archive/imbizo2019header.jpg"
 thumbnail = "/images/imbizo2019.png"
 title = "isiCNI2019"
 [menu.main]
-parent = ""
+parent = "archive"
 weight = "2"
 
 +++

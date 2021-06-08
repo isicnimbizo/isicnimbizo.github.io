@@ -7,6 +7,10 @@ sections:
 - type: document
   path: data/homepage.yml
   label: Homepage
+- type: document
+  path: data/sponsors.yml
+  label: Sponsors
+  match: "**/*"
 - type: heading
   label: Application
 - type: document

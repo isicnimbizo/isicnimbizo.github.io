@@ -3,7 +3,7 @@ applications_open: true
 label: Apply now
 closed_message: Applications closed
 info_link_label: Application info
-URL: apply
+URL: apply/
 dates:
   applications_open_date: June 2021
   applications_close_date: 2021-07-16T22:00:00.000+00:00

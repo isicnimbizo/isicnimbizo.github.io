@@ -1,64 +1,80 @@
+---
 title: Sponsors
-sponsors: 
-  - tier: "Partners"
-    size: 100
-    item:
-    - name: "Simons Foundation"
-      image: "images/partners/simons.jpg"
-      link: https://simonsfoundation.org/
-      background_color: "#fff"
-      current: true
-    - name: "International Brain Research Organization"
-      image: "images/partners/logo_ibro.jpg"
-      link: https://ibro.org/
-      background_color: "#fff"
-      current: true 
-  - tier: "Donors"
-    size: 80
-    item:
-    - name: "Google"
-      image: "images/partners/google_logo_small.png"
-      link: https://google.com/
-      current: true
-    - name: "Wellcome"
-      image: "images/partners/wellcome-logo-white.png"
-      link: https://wellcome.org/
-      current: true 
-  - tier: "Supporters"
-    size: 50
-    item:
-    - name: "CoE-MaSS"
-      image: "images/partners/coe-mass.jpg"
-      link: https://www.wits.ac.za/coe-mass/
-      current: false
-    - name: "eLife"
-      image: "images/partners/elife-full-color-horizontal-2020.png"
-      link: https://elifesciences.org/
-      current: false
-  - tier: "Affiliates"
-    size: 70
-    item:
-    - name: "University of Cape Town"
-      image: "images/partners/uctlogo.gif"
-      link: https://uct.ac.za
-      current: true 
-    - name: "University College London"
-      image: "images/partners/ucllogo.jpg"
-      link: https://www.ucl.ac.uk
-      current: true 
-    - name: "Insitute of Science and Technology Austria"
-      link: https://ist.ac.at
-      current: true 
-    - name: "Gastby Institute"
-      image: "images/partners/gatsby.png"
-      link: https://www.ucl.ac.uk/gatsby/
-      current: true 
-    - name: "Neuroscience Institute"
-      image: "images/partners/neuroscience-institute-logo.png"
-      link: https://neuroscience.uct.ac.za
-      current: true 
-    - name: "TReND in Africa"
-      image: "images/partners/trend.png"
-      current: true 
-    - name: "IBRO African Center for Advanced Training in Neurosciences at UCT"
-      current: true 
+sponsors:
+- tier: Partners
+  size: 100
+  item:
+  - name: Simons Foundation
+    image: images/partners/simons.jpg
+    link: https://simonsfoundation.org/
+    background_color: "#fff"
+    current: true
+  - name: International Brain Research Organization
+    image: images/partners/logo_ibro.jpg
+    link: https://ibro.org/
+    background_color: "#fff"
+    current: true
+- tier: Donors
+  size: 80
+  item:
+  - name: Google
+    image: images/partners/google_logo_small.png
+    link: https://google.com/
+    current: true
+    background_color: ''
+  - name: Wellcome
+    image: images/partners/wellcome-logo-white.png
+    link: https://wellcome.org/
+    current: true
+    background_color: ''
+- tier: Supporters
+  size: 50
+  item:
+  - name: CoE-MaSS
+    image: images/partners/coe-mass.jpg
+    link: https://www.wits.ac.za/coe-mass/
+    current: false
+    background_color: ''
+  - name: eLife
+    image: images/partners/elife-full-color-horizontal-2020.png
+    link: https://elifesciences.org/
+    current: false
+    background_color: ''
+- tier: Affiliates
+  size: 70
+  item:
+  - name: University of Cape Town
+    image: images/partners/uctlogo.gif
+    link: https://uct.ac.za
+    current: true
+    background_color: ''
+  - name: University College London
+    image: images/partners/ucllogo.jpg
+    link: https://www.ucl.ac.uk
+    current: true
+    background_color: ''
+  - name: Insitute of Science and Technology Austria
+    link: https://ist.ac.at
+    current: true
+    image: ''
+    background_color: ''
+  - name: Gastby Institute
+    image: images/partners/gatsby.png
+    link: https://www.ucl.ac.uk/gatsby/
+    current: true
+    background_color: ''
+  - name: Neuroscience Institute
+    image: images/partners/neuroscience-institute-logo.png
+    link: https://neuroscience.uct.ac.za
+    current: true
+    background_color: ''
+  - name: TReND in Africa
+    image: images/partners/trend.png
+    current: true
+    link: ''
+    background_color: ''
+  - name: IBRO African Center for Advanced Training in Neurosciences at UCT
+    current: true
+    image: ''
+    link: ''
+    background_color: ''

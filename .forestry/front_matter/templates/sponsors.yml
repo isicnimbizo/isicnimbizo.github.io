@@ -29,9 +29,13 @@ fields:
     - type: text
       name: link
       label: link
-    - type: text
-      name: background_color
-      label: background_color
+    - name: background_color
+      type: color
+      label: background color
+      config:
+        required: false
+        color_format: Hex
+      default: 
     - type: boolean
       name: current
       label: current

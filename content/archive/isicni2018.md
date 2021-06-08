@@ -10,7 +10,7 @@ title = "isiCNI2018"
 parent = "archive"
 weight = "8"
 [menu.main]
-parent = ""
+parent = "archive"
 weight = "3"
 
 +++

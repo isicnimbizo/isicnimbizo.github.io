@@ -1,0 +1,83 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: min_header_height
+    label: min_header_height
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: textarea
+    name: content
+    label: content
+  - type: boolean
+    name: show_application_info
+    label: show_application_info
+- type: field_group
+  name: school
+  label: school
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: dates
+    label: dates
+    fields:
+    - type: datetime
+      name: school_start_date
+      label: school_start_date
+    - type: datetime
+      name: school_end_date
+      label: school_end_date
+  - type: boolean
+    name: show_faculty
+    label: show_faculty
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: height
+      label: height
+    - type: text
+      name: color
+      label: color
+- type: field_group
+  name: faculty
+  label: faculty
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: news
+  label: news
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title

@@ -19,7 +19,7 @@ fields:
   label: URL
 - type: field_group
   name: dates
-  label: dates
+  label: Application Dates
   fields:
   - type: text
     name: applications_open_date
@@ -32,7 +32,7 @@ fields:
     label: acceptance_date
 - type: field_group
   name: target_applicants
-  label: target_applicants
+  label: Target applicants
   fields:
   - type: boolean
     name: enable
@@ -61,7 +61,7 @@ fields:
       label: content
 - type: field_group
   name: team
-  label: team
+  label: Organisers
   fields:
   - type: boolean
     name: enable
@@ -84,7 +84,7 @@ fields:
       label: designation
 - type: field_group
   name: faq
-  label: faq
+  label: FAQ
   fields:
   - type: boolean
     name: enable

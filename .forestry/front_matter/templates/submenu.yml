@@ -6,7 +6,7 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: menu
+  - name: main
     type: field_group
     config: {}
     fields:
@@ -28,5 +28,5 @@ fields:
         min: 
         max: 
         step: 
-    label: menu
+    label: main
   label: menu

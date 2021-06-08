@@ -1,5 +1,5 @@
 ---
-applications_open: false
+applications_open: true
 label: Apply now
 closed_message: Applications closed
 info_link_label: Application info
@@ -59,13 +59,13 @@ faq:
   enable: true
   title: Frequently asked questions
   item:
-  - question: "What is computational neuroscience?"
+  - question: What is computational neuroscience?
     answer: Computational neuroscience is a rapidly expanding subject focussed on
       understanding and modeling the brain, while helping to designing and interpret
       future experiments. This school aims to promote computational neuroscience in
       Africa by bringing together international and local students under the tutelage
       of world-leading experts in the field.
-  - question: "I am a resident of Cape Town, do I need to pay the full fee?"
+  - question: I am a resident of Cape Town, do I need to pay the full fee?
     answer: Yes, all students will be working hard on their projects and taking part
       in many social activities with each other and the faculty. For this reason,
       all students will be required to stay in the student accommodation, attend all

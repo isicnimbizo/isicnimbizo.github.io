@@ -24,7 +24,8 @@ fields:
     label: content
   - type: boolean
     name: show_application_info
-    label: show_application_info
+    label: Show application info
+    description: See "Application info" for more
 - type: field_group
   name: school
   label: School section

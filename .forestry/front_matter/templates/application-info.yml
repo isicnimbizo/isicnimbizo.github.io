@@ -102,3 +102,5 @@ fields:
     - type: textarea
       name: answer
       label: answer
+pages:
+- data/application_info.yml

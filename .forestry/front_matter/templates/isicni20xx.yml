@@ -23,6 +23,12 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: material_link
+  type: text
+  config:
+    required: false
+  label: material link
+  description: Link to the content for the school
 - name: menu
   type: include
   config: {}

@@ -8,7 +8,7 @@ thumbnail = "/images/imbizo2020.png"
 title = "isiCNI2020"
 [menu.main]
 parent = "archive"
-weight = "4"
+weight = 4
 
 +++
 past students can find the school material available [here](https://drive.google.com/drive/folders/1jEeJqIlKMZiGFSOSFQkRhVCsjDDJDg8b?usp=sharing "2020 material")

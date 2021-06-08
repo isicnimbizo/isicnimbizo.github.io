@@ -30,6 +30,7 @@ fields:
   label: menu
 pages:
 - content/archive/2017.md
+- content/archive/isicni2017.md
 - content/archive/isicni2018.md
 - content/archive/isicni2019.md
 - content/archive/isicni2020.md

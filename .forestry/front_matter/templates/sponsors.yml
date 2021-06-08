@@ -39,3 +39,5 @@ fields:
     - type: boolean
       name: current
       label: current
+pages:
+- data/sponsors.yml

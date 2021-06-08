@@ -2,7 +2,6 @@
 categories = []
 date = 2020-01-05T23:00:00Z
 description = "IBRO-Simons Computational Neuroscience Imbizo 2020"
-draft = true
 end_date = 2020-01-25T23:00:00Z
 image = "/images/headerisicni2020.jpg"
 thumbnail = "/images/imbizo2020.png"

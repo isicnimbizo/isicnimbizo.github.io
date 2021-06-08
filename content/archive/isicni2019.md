@@ -8,7 +8,7 @@ thumbnail = "/images/imbizo2019.png"
 title = "isiCNI2019"
 [menu.main]
 parent = "archive"
-weight = 2
+weight = 3
 
 +++
 past students can find the school material available [here](***REMOVED*** "2019 material")

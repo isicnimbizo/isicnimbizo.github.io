@@ -2,9 +2,8 @@
 categories = []
 date = 2021-01-10T23:00:00Z
 description = "IBRO-Simons Computational Neuroscience Imbizo 2021: Eyabantu, Ngabantu"
-draft = true
 end_date = 2021-01-14T23:00:00Z
-image = "https://images.unsplash.com/photo-1436914228390-c080778dd589?auto=format&fit=crop&w=1500&q=95"
+image = ""
 material_link = "https://trello.com/b/53ubE587"
 thumbnail = ""
 title = "isiCNI2021"
@@ -23,7 +22,7 @@ January 11th, 2021
 
 ## Strengthening connections
 
-### ![image_guitar.jpg](https://lh6.googleusercontent.com/pjxMSqn_A7o6oCSCgpRTAwnAB8oc9j2ahUMQUL8xJzpeSamdC2xq0x-I2MsuNdO_Jlc5SlgpbG-dDaQxWKrvSnBEsAlzFEq9MlVEG5wK2DWr-ARJgxrj2_kGqFy3Mr7vbVlFV9G- "Placeholder image" =824x548.8)
+![Hout Bay, Cape Town, South Africa](/images/backgrounds/carolinie-cavalli-fymPCbDLGj8-unsplash-large.jpg "Hout Bay, Cape Town, South Africa")
 
 The COVID-19 pandemic has forced us to re-evaluate how we learn and connect with each other.
 

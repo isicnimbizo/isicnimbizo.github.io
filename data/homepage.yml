@@ -12,8 +12,8 @@ about:
 school:
   title: The school
   dates:
-    school_start_date: 2022-01-09T00:00:00.000+02:00
-    school_end_date: 2022-01-30T00:00:00.000+02:00
+    school_start_date: 
+    school_end_date: 
   show_faculty: true
   content: The school will consist of a 5 working day week with 1 day off. Each week
     will be focused on one of the themes appearing below. Your day off will be spent

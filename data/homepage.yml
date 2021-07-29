@@ -15,11 +15,11 @@ school:
     school_start_date: 2022-01-09T00:00:00.000+02:00
     school_end_date: 2022-01-30T00:00:00.000+02:00
   show_faculty: true
-  content: The school will consist of a 6 working day week. Each week will be focused
-    on one of the themes appearing below. Days off will be spent exploring some of
-    the beautiful wonders around Cape Town. Each workday will consist of lectures
-    in the morning, followed by either further lectures/practical tutorials in the
-    afternoons.
+  content: The school will consist of a 5 working day week with 1 day off. Each week
+    will be focused on one of the themes appearing below. Your day off will be spent
+    exploring some of the beautiful wonders around Cape Town. Each workday will consist
+    of lectures in the morning, followed by either further lectures/practical tutorials
+    in the afternoons.
   item:
   - title: Biophysics, Plasticity and Neural Recordings
     content: What makes a neurons special? How do we model them mathematically? How

@@ -1,7 +1,6 @@
 +++
 date = 2021-09-21T22:00:00Z
 description = "We are looking for teaching assistants for the IBRO-Simons Computational Neuroscience Imbizo (#isiCNI), a computational neuroscience summer school held in Cape Town, South Africa."
-draft = true
 image = ""
 min_header_height = ""
 title = "Call for Teaching Assistants for the Cape Town Imbizo"

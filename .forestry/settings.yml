@@ -59,6 +59,13 @@ sections:
   path: config.toml
   label: Configuration
 - type: directory
+  path: content
+  label: Content
+  create: all
+  match: "**/*"
+  templates:
+  - page-header-and-content
+- type: directory
   path: data
   label: Data
   create: documents

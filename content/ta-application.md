@@ -40,7 +40,7 @@ In addition, TAs will receive a cash budget for 'hosting purposes' during the sc
 
 **I'm interested, how do I apply:**
 
-If you think you would like to join us for this amazing experience, please send us a brief CV (2 or 3 pages is fine) to  [isicn.imbizo@gmail.com](mailto:isicn.imbizo@gmail.com "isicn.imbizo@gmail.com"). Please include (as a cover letter or in your email) a short motivational statement for why you would be a good fit, and what your favourite topics would be for teaching tutorials and supervising student projects.
+If you think you would like to join us for this amazing experience, please send us a brief CV (2 or 3 pages is fine) to [isicn.imbizo@gmail.com](mailto:isicn.imbizo@gmail.com "isicn.imbizo@gmail.com"). Please include (as a cover letter or in your email) a short motivational statement for why you would be a good fit, and what your favourite topics would be for teaching tutorials and supervising student projects.
 
 **We will start assessing applications on 11 October 2021.**
 

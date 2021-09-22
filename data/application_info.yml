@@ -5,9 +5,9 @@ closed_message: Students Applications closed
 info_link_label: Application info
 URL: apply/
 dates:
-  applications_open_date: '"To be announced"'
+  applications_open_date: October 2021
   applications_close_date: 2022-01-31T22:00:00+00:00
-  acceptance_date: Late October (approximately)
+  acceptance_date: April 2022 (approx)
 target_applicants:
   enable: true
   title: Who should apply?

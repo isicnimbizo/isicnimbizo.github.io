@@ -62,7 +62,7 @@ sections:
   path: content
   label: Content
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - page-header-and-content
 - type: directory

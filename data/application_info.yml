@@ -40,6 +40,9 @@ team:
   enable: true
   title: Organising committee
   team_member:
+  - title: Demba Ba
+    image: "/images/people/ba.jpg"
+    designation: Harvard University
   - title: Joseph Raimondo
     image: images/people/raimondo2.jpg
     designation: University of Cape Town

@@ -1,12 +1,12 @@
 ---
 applications_open: false
 label: Apply now
-closed_message: Applications closed
+closed_message: Students Applications closed
 info_link_label: Application info
 URL: apply/
 dates:
   applications_open_date: '"To be announced"'
-  applications_close_date: 2021-08-30T22:00:00+00:00
+  applications_close_date: 2021-08-30T22:00:00.000+00:00
   acceptance_date: Late October (approximately)
 target_applicants:
   enable: true

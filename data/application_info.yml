@@ -43,18 +43,18 @@ team:
   - title: Demba Ba
     image: "/images/people/ba.jpg"
     designation: Harvard University
-  - title: Joseph Raimondo
-    image: images/people/raimondo2.jpg
-    designation: University of Cape Town
-  - title: Tim Vogels
-    image: images/people/vogels2.jpg
-    designation: Institute of Science and Technology Austria
   - title: Peter Latham
     image: images/people/latham3.png
     designation: University College London
+  - title: Joseph Raimondo
+    image: images/people/raimondo2.jpg
+    designation: University of Cape Town
   - title: Emma Vaughan
     image: images/people/emma.jpg
     designation: Imbizo Logistics
+  - title: Tim Vogels
+    image: images/people/vogels2.jpg
+    designation: Institute of Science and Technology Austria
   - title: Christopher Currin
     image: images/people/currin2.png
     designation: Institute of Science and Technology Austria

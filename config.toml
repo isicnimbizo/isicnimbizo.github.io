@@ -13,6 +13,10 @@ identifier = "news"
 name = "News"
 weight = 5
 [[menu.main]]
+URL = "covid-policy"
+name = "COVID Policy"
+weight = ""
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6

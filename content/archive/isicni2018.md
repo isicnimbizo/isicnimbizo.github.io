@@ -8,7 +8,7 @@ material_link = "***REMOVED***"
 thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
 [menu.main]
-parent = ""
-weight = nil
+parent = "archive"
+weight = "2"
 
 +++

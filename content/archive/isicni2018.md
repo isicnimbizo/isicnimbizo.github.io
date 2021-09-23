@@ -8,7 +8,7 @@ material_link = "https://drive.google.com/drive/folders/1GGG_gzSa5KDqUgZer4PBuj8
 thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
 [menu.main]
-parent = ""
-weight = nil
+parent = "archive"
+weight = "2"
 
 +++

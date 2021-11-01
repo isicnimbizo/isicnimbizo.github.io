@@ -15,9 +15,6 @@ sections:
 - type: document
   path: content/apply/_index.md
   label: Application info page header
-- type: document
-  path: data/application_info.yml
-  label: Application info
 - type: heading
   label: Archive
 - type: document

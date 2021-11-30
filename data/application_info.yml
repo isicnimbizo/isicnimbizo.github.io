@@ -5,8 +5,8 @@ closed_message: Student Applications closed
 info_link_label: Application info
 URL: apply/
 dates:
-  applications_open_date: November 2021
-  applications_close_date: 2022-01-31T22:00:00.000+00:00
+  applications_open_date: December 2021
+  applications_close_date: 2022-02-01T22:00:00+00:00
   acceptance_date: April 2022 (approx)
 target_applicants:
   enable: true

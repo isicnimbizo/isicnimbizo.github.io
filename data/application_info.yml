@@ -3,7 +3,7 @@ applications_open: false
 label: Apply now
 closed_message: Student Applications opening soon
 info_link_label: Application info
-URL: apply/
+URL: https://docs.google.com/forms/d/e/1FAIpQLSePQ2Ah1-05WrPAw4ZsTESIux2A5Ls8dUobCKCUff6pJw1VZA/viewform?usp=sf_link
 dates:
   applications_open_date: December 2021
   applications_close_date: 2022-02-01T22:00:00+00:00

@@ -4,10 +4,10 @@ banner:
   min_header_height: 60vh
 about:
   enable: true
-  content: |-
-    _Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that: an opportunity for African and international students to learn about cutting edge research techniques in [computational neuroscience](/apply#faq).
-
-    [*Apply now to be teaching assistant*](/ta-application)
+  content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
+    *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
+    an opportunity for African and international students to learn about cutting edge
+    research techniques in [computational neuroscience](/apply#faq).'
   show_application_info: true
 school:
   title: The school

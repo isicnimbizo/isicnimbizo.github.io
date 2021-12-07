@@ -56,7 +56,7 @@ sponsors:
   - name: Insitute of Science and Technology Austria
     link: https://ist.ac.at
     current: true
-    image: ''
+    image: "/images/institute_of_science_and_technology_austria_logo.svg"
     background_color: ''
   - name: Gastby Institute
     image: images/partners/gatsby.png

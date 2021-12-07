@@ -57,7 +57,7 @@ sponsors:
     link: https://ist.ac.at
     current: true
     image: "/images/institute_of_science_and_technology_austria_logo.svg"
-    background_color: ''
+    background_color: "#FFFFFF"
   - name: Gastby Institute
     image: images/partners/gatsby.png
     link: https://www.ucl.ac.uk/gatsby/

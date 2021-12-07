@@ -1,6 +1,66 @@
 ---
 title: Teaching assistants
 item:
+- name: Annik Carson
+  years:
+  - '2020'
+  - '2022'
+  affiliation: Montreal Institute for Learning Algorithms
+  link: https://twitter.com/wagonspeedracer
+  image: ''
+- name: Spiros Chavlis
+  years:
+  - '2022'
+  affiliation: IMBB-FORTH
+  link: http://www.dendrites.gr
+  image: ''
+- name: Chris Currin
+  years:
+  - '2019'
+  - '2020'
+  - '2022'
+  affiliation: University of Cape Town, Institute of Science and Technology Austria
+  link: https://twitter.com/chriscurrin
+  image: ''
+- name: Sanjukta Krishnagopal
+  years:
+  - '2022'
+  affiliation: University College London
+  link: https://chimeraki.weebly.com/scientificresearch.html
+  image: ''
+- name: Marjorie Xie
+  years:
+  - '2022'
+  affiliation: Columbia University
+  link: https://www.linkedin.com/in/marjoriexie
+  image: ''
+- name: Grace Lindsay
+  years:
+  - '2019'
+  - '2020'
+  affiliation: Columbia University
+  link: ''
+  image: ''
+- name: Rich Pang
+  years:
+  - '2019'
+  - '2020'
+  affiliation: University of Washington
+  link: ''
+  image: ''
+- name: Callie Federer
+  years:
+  - '2019'
+  - '2020'
+  affiliation: RadiaSoft, LLC
+  link: ''
+  image: ''
+- name: Everton Agnes
+  years:
+  - '2020'
+  affiliation: University of Oxford
+  link: ''
+  image: ''
 - name: Alex Antrobus
   years:
   - '2017'
@@ -17,6 +77,13 @@ item:
   affiliation: University of Oxford
   link: https://twitter.com/Bill_P_
   image: "/images/podlaski.jpg"
+- name: Agostina Palmigiano
+  years:
+  - '2018'
+  - '2019'
+  affiliation: Columbia University
+  link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
+  image: "/images/palmigiano.jpg"
 - name: Athanasia Papoutsi
   years:
   - '2017'
@@ -24,46 +91,18 @@ item:
   affiliation: IMBB-FORTH
   link: https://scholar.google.com/citations?user=fpzwGC8AAAAJ
   image: ''
-- name: Grace Lindsay
-  years:
-  - '2019'
-  - '2020'
-  affiliation: Columbia University
-  link: ''
-  image: ''
-- name: Rich Pang
-  years:
-  - '2019'
-  - '2020'
-  affiliation: University of Washington
-  link: ''
-  image: ''
-- name: Annik Carson
-  years:
-  - '2020'
-  affiliation: McGill University
-  link: https://twitter.com/wagonspeedracer
-  image: ''
-- name: Chris Currin
-  years:
-  - '2019'
-  - '2020'
-  affiliation: University of Cape Town, Institute of Science and Technology Austria
-  link: https://twitter.com/chriscurrin
-  image: ''
 - name: Friedemann Zenke
   years:
   - '2018'
   affiliation: University of Oxford
   link: https://zenkelab.org/
   image: "/images/zenke.jpg"
-- name: Callie Federer
+- name: Katharina Wilmes
   years:
-  - '2019'
-  - '2020'
-  affiliation: RadiaSoft, LLC
-  link: ''
-  image: ''
+  - '2018'
+  affiliation: Imperial College London
+  link: https://twitter.com/k47h4
+  image: "/images/wilmes.jpg"
 - name: Sina Tootoonian
   years:
   - '2017'
@@ -76,25 +115,6 @@ item:
   affiliation: University College London
   link: https://twitter.com/esztervertes
   image: "/images/vertes.jpg"
-- name: Everton Agnes
-  years:
-  - '2020'
-  affiliation: University of Oxford
-  link: ''
-  image: ''
-- name: Katharina Wilmes
-  years:
-  - '2018'
-  affiliation: Imperial College London
-  link: https://twitter.com/k47h4
-  image: "/images/wilmes.jpg"
-- name: Agostina Palmigiano
-  years:
-  - '2018'
-  - '2019'
-  affiliation: Columbia University
-  link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
-  image: "/images/palmigiano.jpg"
 - name: Merav Stern
   years:
   - '2017'

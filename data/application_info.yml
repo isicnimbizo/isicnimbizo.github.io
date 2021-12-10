@@ -43,6 +43,9 @@ team:
   - title: Demba Ba
     image: "/images/people/ba2.jpg"
     designation: Harvard University
+  - title: Christopher Currin
+    image: images/people/currin2.png
+    designation: Institute of Science and Technology Austria
   - title: Peter Latham
     image: images/people/latham3.png
     designation: University College London
@@ -54,9 +57,6 @@ team:
     designation: Imbizo Logistics
   - title: Tim Vogels
     image: images/people/vogels2.jpg
-    designation: Institute of Science and Technology Austria
-  - title: Christopher Currin
-    image: images/people/currin2.png
     designation: Institute of Science and Technology Austria
 faq:
   enable: true

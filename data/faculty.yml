@@ -80,6 +80,13 @@ item:
   affiliation: University of Cape Town
   link: http://raimondolab.com/
   image: ''
+- name: Henning Sprekeler
+  years:
+  - '2020'
+  - '2022'
+  affiliation: Technical University Berlin
+  link: http://sprekelerlab.org
+  image: ''
 - name: Blake Richards
   years:
   - '2018'
@@ -133,13 +140,6 @@ item:
   - '2020'
   affiliation: Weizmann Institute of Science
   link: http://www.weizmann.ac.il/home/bnmisha/
-  image: ''
-- name: Henning Sprekeler
-  years:
-  - '2020'
-  - '2022'
-  affiliation: Technical University Berlin
-  link: http://sprekelerlab.org
   image: ''
 - name: Dora Angelaki
   affiliation: Baylor College of Medicine

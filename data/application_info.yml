@@ -6,7 +6,7 @@ info_link_label: Application info
 URL: https://docs.google.com/forms/d/e/1FAIpQLSePQ2Ah1-05WrPAw4ZsTESIux2A5Ls8dUobCKCUff6pJw1VZA/viewform?usp=sf_link
 dates:
   applications_open_date: December 2021
-  applications_close_date: 2022-02-04T23:00:00+00:00
+  applications_close_date: 2022-02-04T23:00:00.000+00:00
   acceptance_date: April 2022 (approx)
 target_applicants:
   enable: true
@@ -41,7 +41,7 @@ team:
   title: Organising committee
   team_member:
   - title: Demba Ba
-    image: "/images/people/ba.jpg"
+    image: "/images/people/ba2.jpg"
     designation: Harvard University
   - title: Peter Latham
     image: images/people/latham3.png

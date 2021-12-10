@@ -34,7 +34,7 @@ To fulfil these roles, TAs need to be at all school meals and activities.
 
 **What we provide:**
 
-We cover a direct as possible, economy class ticket to Cape Town, as well as all board and lodging during the school.
+We cover a direct-as-possible, economy class ticket to Cape Town, as well as all board and lodging during the school.
 
 In addition, TAs will receive a cash budget for 'hosting purposes' during the school (e.g. for buying some beverages/ice-creams for students, train tickets, etc.). We also provide you with life-long memories of one of the most beautiful places on earth.
 

@@ -26,7 +26,7 @@ Each TA will teach a different topic, which the TA's choose among themselves, to
 
 Each TA is also assigned 5 students to supervise for project work during the last 2 weeks of the school.
 
-TAs will be asked to help processing student applications.
+TAs will be asked to help process student applications.
 
 **TAs are integral in helping run the school**_._ In addition to academic support, they foster good social interactions and academic discussions among students, and they help 'shy' students meet faculty. They also act as 'social glue’, helping to notice and support students who may be feeling ill, not fitting in socially, or generally having difficulties.
 

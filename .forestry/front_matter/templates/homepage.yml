@@ -12,6 +12,16 @@ fields:
   - type: text
     name: min_header_height
     label: min_header_height
+  - name: opacity
+    type: number
+    label: opacity
+    description: ''
+    default: 100
+    required: true
+    config:
+      min: 0
+      max: 100
+      step: 5
 - type: field_group
   name: about
   label: About

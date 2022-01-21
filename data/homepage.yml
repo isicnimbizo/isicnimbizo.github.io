@@ -2,7 +2,7 @@
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
   min_header_height: ''
-  opacity: 80%
+  opacity: 80
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The

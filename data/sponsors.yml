@@ -33,7 +33,7 @@ sponsors:
   - name: CoE-MaSS
     image: images/partners/coe-mass.jpg
     link: https://www.wits.ac.za/coe-mass/
-    current: false
+    current: true
     background_color: ''
   - name: eLife
     image: images/partners/elife-full-color-horizontal-2020.png

@@ -6,7 +6,7 @@ info_link_label: Application info
 URL: https://docs.google.com/forms/d/e/1FAIpQLSePQ2Ah1-05WrPAw4ZsTESIux2A5Ls8dUobCKCUff6pJw1VZA/viewform?usp=sf_link
 dates:
   applications_open_date: January 2021
-  applications_close_date: 2022-02-15T22:00:00+00:00
+  applications_close_date: 2022-02-15T22:00:00.000+00:00
   acceptance_date: April 2022 (approx)
 target_applicants:
   enable: true
@@ -62,6 +62,10 @@ faq:
   enable: true
   title: Frequently asked questions
   item:
+  - question: I'm not sure if I'm a good fit for the school, should I still apply?
+    answer: |-
+      **Yes!**
+      The Imbizo is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
   - question: What is computational neuroscience?
     answer: Computational neuroscience is a rapidly expanding subject focussed on
       understanding and modeling the brain, while helping to designing and interpret

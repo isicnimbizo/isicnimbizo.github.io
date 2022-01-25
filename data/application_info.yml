@@ -62,6 +62,12 @@ faq:
   enable: true
   title: Frequently asked questions
   item:
+  - question: What is computational neuroscience?
+    answer: Computational neuroscience is a rapidly expanding subject focussed on
+      understanding and modeling the brain, while helping to designing and interpret
+      future experiments. This school aims to promote computational neuroscience in
+      Africa by bringing together international and local students under the tutelage
+      of world-leading experts in the field.
   - question: I am very introverted and the Imbizo is an intensive social experience,
       will I cope?
     answer: The social interactions and community ethos define the Imbizo (it's in
@@ -72,14 +78,9 @@ faq:
       the planned social activities which occur 3-4 times per week.
   - question: I'm not sure if I'm a good fit for the school, should I still apply?
     answer: |-
-      **Yes!**
+      **Yes!** Give yourself every opportunity to succeed by applying in the first place and getting good references about your character.
+
       The Imbizo is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
-  - question: What is computational neuroscience?
-    answer: Computational neuroscience is a rapidly expanding subject focussed on
-      understanding and modeling the brain, while helping to designing and interpret
-      future experiments. This school aims to promote computational neuroscience in
-      Africa by bringing together international and local students under the tutelage
-      of world-leading experts in the field.
   - question: I am a resident of Cape Town, do I need to pay the full fee?
     answer: Yes, all students will be working hard on their projects and taking part
       in many social activities with each other and the faculty. For this reason,

@@ -5,22 +5,22 @@ description = "IBRO-Simons Computational Neuroscience Imbizo 2021: Eyabantu, Nga
 end_date = 2021-01-14T23:00:00Z
 image = "https://images.unsplash.com/photo-1436914228390-c080778dd589?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=95"
 material_link = "https://trello.com/b/53ubE587"
-thumbnail = ""
+thumbnail = "/images/night_cities.jpg"
 title = "isiCNI2021"
 [menu.main]
-parent = "archive"
-weight = 9
+parent = ""
+weight = nil
 
 +++
 # #isiCNI2021
 
-# IBRO-Simons Computational Neuroscience Imbizo: Eyabantu, Ngabantu
+## IBRO-Simons Computational Neuroscience Imbizo: Eyabantu, Ngabantu
 
 January 11th, 2021
 
 ***
 
-## Strengthening connections
+### Strengthening connections
 
 ![Hout Bay, Cape Town, South Africa](/images/backgrounds/carolinie-cavalli-fymPCbDLGj8-unsplash-large.jpg "Hout Bay, Cape Town, South Africa")
 

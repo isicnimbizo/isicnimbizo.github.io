@@ -8,8 +8,8 @@ material_link = "https://trello.com/b/53ubE587"
 thumbnail = "/images/night_cities.jpg"
 title = "isiCNI2021"
 [menu.main]
-parent = ""
-weight = nil
+parent = "archive"
+weight = "9"
 
 +++
 # #isiCNI2021

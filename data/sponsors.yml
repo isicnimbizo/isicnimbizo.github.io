@@ -71,7 +71,7 @@ sponsors:
   - name: TReND in Africa
     image: images/partners/trend.png
     current: true
-    link: ''
+    link: https://trendinafrica.org
     background_color: ''
   - name: IBRO African Center for Advanced Training in Neurosciences at UCT
     current: true

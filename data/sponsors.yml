@@ -65,7 +65,7 @@ sponsors:
     background_color: ''
   - name: Neuroscience Institute
     image: images/partners/neuroscience-institute-logo.png
-    link: neuroscience.uct.ac.za
+    link: https://neuroscience.uct.ac.za
     current: true
     background_color: ''
   - name: TReND in Africa

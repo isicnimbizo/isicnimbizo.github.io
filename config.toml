@@ -26,13 +26,13 @@ author = "Christopher Currin"
 copyright = "Copyright &copy; Imbizo"
 decor = false
 description = "IBRO Simons Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
-short_title = "#isiCNI"
 email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 home_bg = "https://source.unsplash.com/rWDuqOAlV68/1920x1080"
 logo = "images/imbizo2017.png"
 phone = ""
+short_title = "#isiCNI"
 theme_color = "#26AE60"
 theme_color_secondary = "#2C3E50"
 [params.contact]
@@ -46,6 +46,12 @@ expire_days = 20
 [params.map]
 enable = true
 map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26430.512733909145!2d18.3637978908445!3d-34.09990270793313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6bcd11adcb1f%3A0x4c80ccbf8b40e799!2sNoordhoek%2C%20Cape%20Town%2C%207979%2C%20South%20Africa!5e0!3m2!1sen!2sat!4v1622470761948!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>"
+[[params.footermenu.about]]
+link = "code-of-conduct"
+name = "Code of Conduct"
+[[params.footermenu.about]]
+link = "covid-policy"
+name = "COVID Policy"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
@@ -62,7 +68,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = ""
 [[params.social]]
-URL = ""
+URL = "facebook"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"

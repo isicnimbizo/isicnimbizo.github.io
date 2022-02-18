@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Code of Conduct"
-draft = true
 image = ""
 min_header_height = ""
 title = "Code of Conduct"

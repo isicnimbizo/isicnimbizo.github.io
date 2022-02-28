@@ -1,11 +1,12 @@
 ---
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
-  min_header_height: ''
+  min_header_height: "80vh"
   opacity: 80
 about:
   enable: true
-  content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
+  content:
+    '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
     *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
     an opportunity for African and international students to learn about cutting edge
     research techniques in [computational neuroscience](/apply#faq).'
@@ -16,43 +17,48 @@ school:
     school_start_date: 2022-08-12T07:00:00.000+00:00
     school_end_date: 2022-09-04T07:00:00.000+00:00
   show_faculty: true
-  content: The school will consist of four 5-day work weeks with 1 day off in-between.
+  content:
+    The school will consist of four 5-day work weeks with 1 day off in-between.
     Each week will be focused on one of the themes appearing below. Your day off will
     be spent exploring some of the beautiful wonders around Cape Town. Each workday
     will consist of lectures in the morning, followed by either further lectures/practical
     tutorials in the afternoons.
   item:
-  - title: Biophysics, Plasticity and Neural Recordings
-    content: What makes a neurons special? How do we model them mathematically? How
-      do we model synapses and why are they important for neural function? These questions
-      will guide the first part of week 1 at the Imbizo. We will also learn about
-      cutting-edge techniques used for large-scale neural data recording from world
-      experts in patch-clamping techniques and from the NEUROPIXEL project.
-    height: 15%
-    color: "#AD2F8C"
-  - title: Network Dynamics
-    content: The functioning of the brain is ultimately an emergent phenomenon; a
-      result of the complex interactions between billions of neurons. In week two
-      we will learn how to model and analyse these dynamic networks, and how biological
-      trends like Dale's Law make understanding these system more difficult and fascinating.
-    height: 50%
-    color: "#26AE60"
-  - title: Machine Learning
-    content: We will also learn what the modern field of machine learning can teach
-      us about learning in network architectures and how these artificial systems
-      are similar and different to biological neural systems.
-    height: 50%
-    color: "#50E3C2"
-  - title: Higher Level Function, Motor Control & Decision Making
-    faculty: Peter Latham
-    content: The final week will try to bridge the gap from what we have learnt about
-      the biology and dynamics of brains to what we observe in behaviour. We will
-      also explore how the phenomenon of spiking in neural networks makes implementing
-      some of the ML algorithms and dynamics from week two a lot more challenging.
-      We will also learn about cutting-edge research in brain-computer interfacing
-      and what this is revealing about how brains work.
-    height: 10%
-    color: "#FA6F1E"
+    - title: Biophysics, Plasticity and Neural Recordings
+      content:
+        What makes a neurons special? How do we model them mathematically? How
+        do we model synapses and why are they important for neural function? These questions
+        will guide the first part of week 1 at the Imbizo. We will also learn about
+        cutting-edge techniques used for large-scale neural data recording from world
+        experts in patch-clamping techniques and from the NEUROPIXEL project.
+      height: 15%
+      color: "#AD2F8C"
+    - title: Network Dynamics
+      content:
+        The functioning of the brain is ultimately an emergent phenomenon; a
+        result of the complex interactions between billions of neurons. In week two
+        we will learn how to model and analyse these dynamic networks, and how biological
+        trends like Dale's Law make understanding these system more difficult and fascinating.
+      height: 50%
+      color: "#26AE60"
+    - title: Machine Learning
+      content:
+        We will also learn what the modern field of machine learning can teach
+        us about learning in network architectures and how these artificial systems
+        are similar and different to biological neural systems.
+      height: 50%
+      color: "#50E3C2"
+    - title: Higher Level Function, Motor Control & Decision Making
+      faculty: Peter Latham
+      content:
+        The final week will try to bridge the gap from what we have learnt about
+        the biology and dynamics of brains to what we observe in behaviour. We will
+        also explore how the phenomenon of spiking in neural networks makes implementing
+        some of the ML algorithms and dynamics from week two a lot more challenging.
+        We will also learn about cutting-edge research in brain-computer interfacing
+        and what this is revealing about how brains work.
+      height: 10%
+      color: "#FA6F1E"
 faculty:
   enable: true
 news:

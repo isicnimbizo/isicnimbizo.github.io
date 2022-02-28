@@ -12,14 +12,6 @@ URL = "news"
 identifier = "news"
 name = "News"
 weight = 5
-[[menu.main]]
-URL = "covid-policy"
-name = "COVID Policy"
-weight = ""
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [params]
 address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"
@@ -29,7 +21,7 @@ description = "IBRO Simons Computational Neuroscience Imbizo summer school in Ca
 email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-home_bg = "https://source.unsplash.com/rWDuqOAlV68/1920x1080"
+home_bg = "https://source.unsplash.com/XF6QJlYXQG8/1920x1200"
 logo = "images/imbizo2017.png"
 phone = ""
 short_title = "#isiCNI"

@@ -4,7 +4,9 @@ description = "COVID Policy"
 image = "/images/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg"
 min_header_height = ""
 title = "COVID Policy"
-
+[menu.main]
+parent = "about"
+weight = "3"
 +++
 Reading Resource: [https://www.gov.za/coronavirus](https://www.gov.za/coronavirus "https://www.gov.za/coronavirus")
 

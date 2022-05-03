@@ -67,5 +67,6 @@ URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://twitter.com/isiCNI"
+embed_url = "https://twitter.com/isiCNI?ref_src=twsrc%5Etfw"
 embed = "<a href=\"https://twitter.com/isiCNI?ref_src=twsrc%5Etfw\" class=\"twitter-follow-button\" data-size=\"large\"  data-show-screen-name=\"false\" data-show-count=\"false\">Follow @isiCNI</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
 icon = "ti-twitter-alt"

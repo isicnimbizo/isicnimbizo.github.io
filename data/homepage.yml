@@ -2,6 +2,8 @@
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
   min_header_height: "80vh"
+  show_date: true
+  show_address: true
   opacity: 80
 about:
   enable: true
@@ -61,6 +63,7 @@ school:
       color: "#FA6F1E"
 faculty:
   enable: true
+  link_text: "view all"
 news:
   enable: false
   title: In the news

@@ -4,14 +4,45 @@ summaryLength = "10"
 theme = "imbizo-website-base"
 title = "#isiCNI - Computational Neuroscience Imbizo"
 [[menu.main]]
+URL = "apply"
+name = "Apply"
+identifier = "apply"
+weight = 1
+[[menu.main]]
+URL = "apply"
+name = "Imbizo"
+parent = "apply"
+weight = 1
+[[menu.main]]
+URL = "apply/stifug"
+name = "STIFUG"
+parent = "apply"
+weight = 9
+[[menu.main]]
 URL = "people"
 name = "People"
 weight = 2
+[[menu.main]]
+URL = "archive"
+identifier = "archive"
+name = "Archive"
+weight = 8
 [[menu.main]]
 URL = "news"
 identifier = "news"
 name = "News"
 weight = 5
+[[menu.main]]
+URL = "about"
+identifier = "about"
+name = "About"
+weight = 9
+[[menu.main]]
+URL = "contact"
+identifier = "contact"
+name = "Contact us"
+weight = 1
+parent = "about"
 [params]
 address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"
@@ -69,4 +100,5 @@ icon = "ti-instagram"
 URL = "https://twitter.com/isiCNI"
 embed_url = "https://twitter.com/isiCNI?ref_src=twsrc%5Etfw"
 embed = "<a href=\"https://twitter.com/isiCNI?ref_src=twsrc%5Etfw\" class=\"twitter-follow-button\" data-size=\"large\"  data-show-screen-name=\"false\" data-show-count=\"false\">Follow @isiCNI</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+embed_url = "https://twitter.com/isiCNI?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"

@@ -65,6 +65,7 @@ team:
 faq:
   enable: true
   title: Frequently asked questions
+  gapsize: 5
   item:
     - question: What is computational neuroscience?
       answer:

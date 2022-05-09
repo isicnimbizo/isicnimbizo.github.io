@@ -9,16 +9,6 @@ name = "Apply"
 identifier = "apply"
 weight = 1
 [[menu.main]]
-URL = "apply"
-name = "Imbizo"
-parent = "apply"
-weight = 1
-[[menu.main]]
-URL = "apply/stifug"
-name = "STIFUG"
-parent = "apply"
-weight = 9
-[[menu.main]]
 URL = "people"
 name = "People"
 weight = 2

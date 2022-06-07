@@ -28,11 +28,17 @@ item:
   image: ''
 - name: Tor Stensola
   years:
-  - '2020'
-  - '2022'
-  affiliation: Champalimaud Foundation
+    - "2020"
+    - "2022"
+  affiliation: University of Agder
   link: https://www.linkedin.com/in/tor-stensola-a8b4b494
-  image: ''
+  image: ""
+- name: Hanne Stensola
+  years:
+    - "2022"
+  affiliation: University of Agder
+  link: https://www.uia.no/en/kk/profile/hannesten
+  image: "images/people/stensola_hanne.jpg"
 - name: Adrienne Fairhall
   years:
   - '2018'
@@ -58,6 +64,12 @@ item:
   - '2022'
   affiliation: University College London
   link: http://www.gatsby.ucl.ac.uk/~pel/
+  image: ''
+- name: Éric Plourde
+  years:
+  - '2022'
+  affiliation: Université de Sherbrooke
+  link: https://www.usherbrooke.ca/recherche/specialistes/details/eric.plourde
   image: ''
 - name: Timothy Lillicrap
   years:

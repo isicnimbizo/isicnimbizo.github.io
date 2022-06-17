@@ -1,6 +1,12 @@
 ---
 title: Faculty
 item:
+- name: Elizabeth	Buffalo
+  years:
+  - '2022'
+  affiliation: University of Washington
+  link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
+  image: "images/people/buffalo.jpg"
 - name: Jonathan Pillow
   years:
   - '2022'

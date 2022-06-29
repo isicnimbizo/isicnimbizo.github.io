@@ -2,7 +2,7 @@
 date = 2022-06-24T09:00:00Z
 description = "COVID Policy"
 image = "/images/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg"
-min_header_height = ""
+min_header_height = "20em"
 title = "COVID Policy"
 [menu.main]
 parent = "about"

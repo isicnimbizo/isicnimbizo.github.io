@@ -19,18 +19,18 @@ item:
   affiliation: University of Geneva
   link: https://neurocenter-unige.ch/research-groups/daphne-bavelier/
   image: ''
-- name: Alex Pouget
-  years:
-  - '2022'
-  affiliation: University of Geneva
-  link: https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/
-  image: ''
 - name: Thomas Tagoe
   affiliation: University of Ghana
   link: https://www.linkedin.com/in/thomas-tagoe-8a341837
   years:
   - '2020'
   - '2022'
+  image: ''
+- name: Alex Pouget
+  years:
+  - '2022'
+  affiliation: University of Geneva
+  link: https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/
   image: ''
 - name: Tor Stensola
   years:
@@ -45,6 +45,18 @@ item:
   affiliation: University of Agder
   link: https://www.uia.no/en/kk/profile/hannesten
   image: "images/people/stensola_hanne.jpg"
+- name: Xaq Pitkow
+  years:
+  - '2022'
+  affiliation: Baylor College of Medicine | Rice University
+  link: https://xaqlab.com/
+  image: ""
+- name: Mackenzie Mathis
+  years:
+  - '2022'
+  affiliation: EPFL
+  link: http://www.mackenziemathislab.org/
+  image: ''
 - name: Adrienne Fairhall
   years:
   - '2018'

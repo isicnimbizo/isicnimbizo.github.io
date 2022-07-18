@@ -26,6 +26,12 @@ item:
   - '2020'
   - '2022'
   image: ''
+- name: Dorit Hockman
+  affiliation: University of Cape Town
+  link: http://www.neuroscience.uct.ac.za/dorit_hockman
+  years:
+  - '2022'
+  image: ''
 - name: Alex Pouget
   years:
   - '2022'

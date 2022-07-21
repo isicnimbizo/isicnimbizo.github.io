@@ -2,7 +2,8 @@
 title: Faculty
 item:
 - name: Aza Allsop
-  years: []
+  years:
+  - '2022'
   affiliation: Yale University
   link: https://medicine.yale.edu/psychiatry/education/residency/research/nrtp/residents/allsop/
   image: "/images/azaphoto.jpeg"
@@ -272,8 +273,7 @@ item:
   link: https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/
   image: ''
 - name: Emery Brown
-  years:
-  - '2017'
+  years: []
   affiliation: Harvard University / MIT
   link: http://www.neurostat.mit.edu/home
   image: ''

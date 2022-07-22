@@ -1,6 +1,12 @@
 ---
 title: Faculty
 item:
+- name: Daniela Vallentin
+  years:
+  - '2022'
+  affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
+  link: https://www.bi.mpg.de/vallentin
+  image: "/images/daniela-6-1.jpg"
 - name: Aza Allsop
   years:
   - '2022'

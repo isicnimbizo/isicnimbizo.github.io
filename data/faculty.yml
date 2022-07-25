@@ -7,12 +7,6 @@ item:
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
   image: "/images/daniela-6-1.jpg"
-- name: Aza Allsop
-  years:
-  - '2022'
-  affiliation: Yale University
-  link: https://medicine.yale.edu/psychiatry/education/residency/research/nrtp/residents/allsop/
-  image: "/images/azaphoto.jpeg"
 - name: "Elizabeth\tBuffalo"
   years:
   - '2022'
@@ -68,12 +62,6 @@ item:
   - '2022'
   affiliation: Baylor College of Medicine | Rice University
   link: https://xaqlab.com/
-  image: ''
-- name: Mackenzie Mathis
-  years:
-  - '2022'
-  affiliation: EPFL
-  link: http://www.mackenziemathislab.org/
   image: ''
 - name: Adrienne Fairhall
   years:

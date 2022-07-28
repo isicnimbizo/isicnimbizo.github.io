@@ -1,6 +1,12 @@
 ---
 title: Faculty
 item:
+- name: Sonja Hofer
+  years:
+  - '2022'
+  affiliation: Sainsbury Wellcome Centre, University College London
+  link: https://www.sainsburywellcome.org/web/
+  image: "/images/hofer_portrait2022-2.jpg"
 - name: Daniela Vallentin
   years:
   - '2022'

@@ -1,6 +1,12 @@
 ---
 title: Faculty
 item:
+- name: Cengiz Pehlevan
+  years:
+  - '2022'
+  affiliation: SEAS, Harvard University,
+  link: pehlevan.seas.harvard.edu
+  image: "/images/cengiz_highres_cropped_rsz.jpeg"
 - name: Tom Mrsic-Flogel
   years:
   - '2022'

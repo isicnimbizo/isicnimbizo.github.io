@@ -11,15 +11,15 @@ weight = 3
 +++
 As is the nature of COVID19, regulations within each country change all the time, sometimes with short notice. The onus is on the attendee to ensure that they have all the correct passport, health and visa requirements as required by their home country and South Africa.
 
-All information we provide is subject to change at a moment’s notice. Please check again a week before your departure if anything has changed. For information on health, passport, visa requirements, the passenger can check on [www.traveldoc.aero](www.traveldoc.aero%20) or [https://www.joinsherpa.com/](https://www.joinsherpa.com/ "https://www.joinsherpa.com/") or the airline website or the relevant country’s government website.
+All information we provide is subject to change at a moment’s notice. Please check again a week before your departure if anything has changed. For information on health, passport, visa requirements, the passenger can check on [www.traveldoc.aero](www.traveldoc.aero) or [https://www.joinsherpa.com/](https://www.joinsherpa.com/ "https://www.joinsherpa.com/") or the airline website or the relevant country’s government website.
 
 **South Africa Government links to COVID information:**
 
-[https://www.gov.za/coronavirus](https://www.joinsherpa.com/ "https://www.joinsherpa.com/")
+[https://www.gov.za/coronavirus](https://www.gov.za/coronavirus "https://www.gov.za/coronavirus")
 
 **Update to legislation 22 June 2022:**
 
-[https://www.gov.za/speeches/statement-minister-phaahla-repeal-regulations-covid](https://www.joinsherpa.com/ "https://www.joinsherpa.com/")
+[https://www.gov.za/speeches/statement-minister-phaahla-repeal-regulations-covid](https://www.gov.za/speeches/statement-minister-phaahla-repeal-regulations-covid "https://www.gov.za/speeches/statement-minister-phaahla-repeal-regulations-covid")
 
 _Imbizo policy revised in line with new SA Government regulations as of 22 June_
 

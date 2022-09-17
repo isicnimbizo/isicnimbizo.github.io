@@ -55,6 +55,9 @@ school:
       are similar and different to biological neural systems.
     height: 50%
     color: "#50E3C2"
+sponsors:
+  enable: true
+  link_text: view all
 faculty:
   enable: true
   link_text: view all

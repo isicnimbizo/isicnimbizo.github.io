@@ -15,8 +15,8 @@ about:
 school:
   title: The school
   dates:
-    school_start_date: 2022-08-12T07:00:00.000+00:00
-    school_end_date: 2022-09-04T07:00:00.000+00:00
+    school_start_date: 2023-04-13T07:00:00+00:00
+    school_end_date: 2023-05-07T07:00:00+00:00
   show_faculty: true
   content: The school will consist of four 5-day work weeks with 1 day off in-between.
     Each week will be focused on one of the themes appearing below. Your day off will

@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "imbizo-website-base"
-title = "#Imbizo - IBRO-Simons Computational Neuroscience Imbizo"
+title = "#Imbizo - Computational Neuroscience Imbizo"
 [[menu.main]]
 URL = "apply"
 identifier = "apply"

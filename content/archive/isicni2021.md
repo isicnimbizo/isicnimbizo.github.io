@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Virtual"]
 date = 2021-01-10T23:00:00Z
 description = "IBRO-Simons Computational Neuroscience Imbizo 2021: Eyabantu, Ngabantu"
 end_date = 2021-01-14T23:00:00Z

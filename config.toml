@@ -2,11 +2,11 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "imbizo-website-base"
-title = "#isiCNI - Computational Neuroscience Imbizo"
+title = "#Imbizo - IBRO-Simons Computational Neuroscience Imbizo"
 [[menu.main]]
 URL = "apply"
-name = "Apply"
 identifier = "apply"
+name = "Apply"
 weight = 1
 [[menu.main]]
 URL = "people"
@@ -31,21 +31,21 @@ weight = 9
 URL = "contact"
 identifier = "contact"
 name = "Contact us"
-weight = 1
 parent = "about"
+weight = 1
 [params]
 address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"
 copyright = "Copyright &copy; Imbizo"
 decor = false
-description = "IBRO Simons Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
+description = "IBRO-Simons Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
 email = "isicn.imbizo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 home_bg = "https://source.unsplash.com/XF6QJlYXQG8/1920x1200"
 logo = "images/imbizo2017.png"
 phone = ""
-short_title = "#isiCNI"
+short_title = "#Imbizo"
 theme_color = "#26AE60"
 theme_color_secondary = "#2C3E50"
 [params.contact]
@@ -56,15 +56,15 @@ homepage = true
 [params.cookies]
 enable = true
 expire_days = 20
-[params.map]
-enable = true
-map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26430.512733909145!2d18.3637978908445!3d-34.09990270793313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6bcd11adcb1f%3A0x4c80ccbf8b40e799!2sNoordhoek%2C%20Cape%20Town%2C%207979%2C%20South%20Africa!5e0!3m2!1sen!2sat!4v1622470761948!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>"
 [[params.footermenu.about]]
 link = "about/code-of-conduct"
 name = "Code of Conduct"
 [[params.footermenu.about]]
 link = "about/covid-policy"
 name = "COVID Policy"
+[params.map]
+enable = true
+map_embed_html = "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26430.512733909145!2d18.3637978908445!3d-34.09990270793313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6bcd11adcb1f%3A0x4c80ccbf8b40e799!2sNoordhoek%2C%20Cape%20Town%2C%207979%2C%20South%20Africa!5e0!3m2!1sen!2sat!4v1622470761948!5m2!1sen!2sat\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
@@ -88,6 +88,6 @@ URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://twitter.com/isiCNI"
-embed_url = "https://twitter.com/isiCNI?ref_src=twsrc%5Etfw"
 embed = "<a href=\"https://twitter.com/isiCNI?ref_src=twsrc%5Etfw\" class=\"twitter-follow-button\" data-size=\"large\"  data-show-screen-name=\"false\" data-show-count=\"false\">Follow @isiCNI</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+embed_url = "https://twitter.com/isiCNI?ref_src=twsrc%5Etfw"
 icon = "ti-twitter-alt"

@@ -69,7 +69,7 @@ _STIFUG awards are supported by the Simons Foundation_
 
 * Application round 1:    1 June 2022 (closed)
 * Application round 2:    20 October 2022
-* Application round 3:    1 November 2022
+* Application round 3:    around mid November 2022
 
 <!--  -->
 

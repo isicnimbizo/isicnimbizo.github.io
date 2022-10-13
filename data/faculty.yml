@@ -1,9 +1,10 @@
 ---
 title: Faculty
-item:
+people:
 - name: Cengiz Pehlevan
   years:
   - '2022'
+  - '2023'
   affiliation: SEAS, Harvard University,
   link: pehlevan.seas.harvard.edu
   image: "/images/cengiz_highres_cropped_rsz.jpeg"
@@ -23,12 +24,14 @@ item:
 - name: Daniela Vallentin
   years:
   - '2022'
+  - '2023'
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
   image: "/images/daniela-6-1.jpg"
 - name: "Elizabeth\tBuffalo"
   years:
   - '2022'
+  - '2023'
   affiliation: University of Washington
   link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
   image: images/people/buffalo.jpg
@@ -50,12 +53,14 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   image: ''
 - name: Dorit Hockman
   affiliation: University of Cape Town
   link: http://www.neuroscience.uct.ac.za/dorit_hockman
   years:
   - '2022'
+  - '2023'
   image: ''
 - name: Alex Pouget
   years:
@@ -67,18 +72,21 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   affiliation: University of Agder
   link: https://www.linkedin.com/in/tor-stensola-a8b4b494
   image: ''
 - name: Hanne Stensola
   years:
   - '2022'
+  - '2023'
   affiliation: University of Agder
   link: https://www.uia.no/en/kk/profile/hannesten
   image: images/people/stensola_hanne.jpg
 - name: Xaq Pitkow
   years:
   - '2022'
+  - '2023'
   affiliation: Baylor College of Medicine | Rice University
   link: https://xaqlab.com/
   image: ''
@@ -87,6 +95,7 @@ item:
   - '2018'
   - '2019'
   - '2020'
+  - '2023'
   affiliation: University of Washington
   link: https://fairhalllab.com/
   image: ''
@@ -95,6 +104,7 @@ item:
   - '2019'
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Harvard University
   link: https://crisp.seas.harvard.edu/
   image: images/people/ba.jpg
@@ -105,12 +115,14 @@ item:
   - '2019'
   - '2020'
   - '2022'
+  - '2023'
   affiliation: University College London
   link: http://www.gatsby.ucl.ac.uk/~pel/
   image: ''
 - name: Éric Plourde
   years:
   - '2022'
+  - '2023'
   affiliation: Université de Sherbrooke
   link: https://www.usherbrooke.ca/recherche/specialistes/details/eric.plourde
   image: ''
@@ -120,6 +132,7 @@ item:
   - '2018'
   - '2019'
   - '2020'
+  - '2023'
   affiliation: Google Deep Mind
   link: http://contrastiveconvergence.net/~timothylillicrap/index.php
   image: ''
@@ -130,6 +143,7 @@ item:
   - '2019'
   - '2020'
   - '2022'
+  - '2023'
   affiliation: University of Cape Town
   link: http://raimondolab.com/
   image: ''
@@ -137,6 +151,7 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Technical University Berlin
   link: http://sprekelerlab.org
   image: ''
@@ -145,6 +160,7 @@ item:
   - '2018'
   - '2019'
   - '2020'
+  - '2023'
   affiliation: MILA
   link: http://linclab.org/
   image: ''
@@ -155,6 +171,7 @@ item:
   - '2019'
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Institute of Science and Technology Austria
   link: https://vogelslab.org
   image: ''
@@ -162,6 +179,7 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Simons Foundation
   link: https://www.simonsfoundation.org/team/alyssa-picchini-schaffer-ph-d/
   image: images/people/picchini-schaffer.jpg
@@ -169,6 +187,7 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Columbia University
   link: http://www.evanschaffer.com
   image: ''

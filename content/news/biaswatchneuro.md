@@ -3,7 +3,7 @@ title: "The 2020 BiasWatchNeuro Award for Equity and Inclusivity"
 date: 2020-11-02T20:15:56+00:00
 image: "/images/backgrounds/arno-smit-141735-unsplash.jpg"
 thumbnail: "/images/news/BWN-logo.jpg"
-description: "Think: Theory for Africa"
+description: "The 2020 BiasWatchNeuro Award for Equity and Inclusivity"
 # author: "Christopher B. Currin, Phumlani N. Khoza, Alexander D. Antrobus, Peter E. Latham, Tim P. Vogels, Joseph V. Raimondo"
 link: https://biaswatchneuro.com/bwn-award/
 ---

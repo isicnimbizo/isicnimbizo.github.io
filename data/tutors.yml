@@ -1,9 +1,10 @@
 ---
 title: Teaching assistants
-item:
+people:
 - name: Mohamed Abdelhack
   years:
   - '2022'
+  - '2023'
   affiliation: Krembil Centre for Neuroinformatics
   link: https://orcid.org/0000-0002-6753-3237
   image: ''
@@ -11,12 +12,14 @@ item:
   years:
   - '2020'
   - '2022'
+  - '2023'
   affiliation: Montreal Institute for Learning Algorithms
   link: annikc.github.io
   image: ''
 - name: Spiros Chavlis
   years:
   - '2022'
+  - '2023'
   affiliation: IMBB-FORTH
   link: http://www.dendrites.gr
   image: ''
@@ -25,6 +28,7 @@ item:
   - '2019'
   - '2020'
   - '2022'
+  - '2023'
   affiliation: "Institute of Science and Technology Austria | Deep Learning Indaba\U0001D54F
     South Africa"
   link: https://chriscurrin.com
@@ -32,12 +36,14 @@ item:
 - name: Nina Kudryashova
   years:
   - '2022'
+  - '2023'
   affiliation: University of Edinburgh
   link: https://www.research.ed.ac.uk/en/persons/nina-kudryashova
   image: ''
 - name: Marjorie Xie
   years:
   - '2022'
+  - '2023'
   affiliation: Columbia University
   link: https://www.linkedin.com/in/marjoriexie
   image: ''

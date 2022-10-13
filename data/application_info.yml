@@ -1,13 +1,19 @@
 ---
-applications_open: true
-label: Apply now
-closed_message: Applications are now closed
+link: "/apply"
 info_link_label: Application info
-URL: https://forms.gle/4sx9gFu2n54TCPmD6
-dates:
-  applications_open_date: September 2022
-  applications_close_date: 2022-10-20T21:00:00+00:00
+applications:
+- label: Apply now
+  open: true
+  closed_message: Applications are closed
+  URL: https://forms.gle/4sx9gFu2n54TCPmD6
+  open_date: Sept 2022
+  close_date: 2022-10-20T21:00:00+00:00
   acceptance_date: December 2022 (approx)
+show_period: false
+period_text: Application period
+applications_open_date: September 2022
+applications_close_date: 2022-10-20T21:00:00+00:00
+acceptance_date: December 2022 (approx)
 target_applicants:
   enable: true
   title: Who should apply?

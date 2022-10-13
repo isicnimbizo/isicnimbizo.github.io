@@ -66,7 +66,11 @@ sponsors:
   link_text: view all
 faculty:
   enable: true
-  link_text: view all
+  title: Faculty
+  show_all: false
+  show_track: false
+  slider: true
+  link_text: view past
 news:
   enable: false
   title: In the news

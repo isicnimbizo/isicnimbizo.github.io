@@ -5,6 +5,7 @@ description: STIFUG
 image: https://images.unsplash.com/photo-1645217925673-b36ba69814ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=95
 thumbnail: "/images/partners/simons.jpg"
 min_header_height: 40em
+type: hidden
 faq:
   enable: true
   title: Frequently asked questions

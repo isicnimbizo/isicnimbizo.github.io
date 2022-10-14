@@ -1,33 +1,51 @@
 ---
 title: Faculty
 people:
+- name: Bianca Jones Marlin
+  years: 
+  - "2023"
+  affiliation: Columbia University
+  link: https://www.biancajonesmarlin.com
+  image: images/people/jonesmarlin.jpg
+- name: David	Sussillo
+  years: 
+  - "2023"
+  affiliation: Google Brain, Stanford University
+  link: https://www.linkedin.com/in/david-sussillo-736a1290/
+  image: images/people/sussillo2.jpg
+- name: Aza Allsop
+  years: 
+  - "2023"
+  affiliation: Yale School of Medicine
+  link: https://medicine.yale.edu/profile/aza_allsop/
+- name: Mackenzie Mathis
+  years: 
+  - "2023"
+  affiliation: EPFL
+  link: https://www.mackenziemathislab.org/
 - name: Cengiz Pehlevan
   years:
   - '2022'
   - '2023'
   affiliation: SEAS, Harvard University,
   link: pehlevan.seas.harvard.edu
-  image: "/images/cengiz_highres_cropped_rsz.jpeg"
 - name: Tom Mrsic-Flogel
   years:
   - '2022'
   affiliation: 'Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
     College London '
   link: https://www.sainsburywellcome.org/web/people/tom-mrsic-flogel
-  image: "/images/tom.JPG"
 - name: Sonja Hofer
   years:
   - '2022'
   affiliation: Sainsbury Wellcome Centre, University College London
   link: https://www.sainsburywellcome.org/web/
-  image: "/images/hofer_portrait2022-2.jpg"
 - name: Daniela Vallentin
   years:
   - '2022'
   - '2023'
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
-  image: "/images/daniela-6-1.jpg"
 - name: "Elizabeth\tBuffalo"
   years:
   - '2022'
@@ -108,17 +126,6 @@ people:
   affiliation: Harvard University
   link: https://crisp.seas.harvard.edu/
   image: images/people/ba.jpg
-- name: Peter Latham
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: University College London
-  link: http://www.gatsby.ucl.ac.uk/~pel/
-  image: ''
 - name: Éric Plourde
   years:
   - '2022'
@@ -155,6 +162,16 @@ people:
   affiliation: Technical University Berlin
   link: http://sprekelerlab.org
   image: ''
+- name: Peter Latham
+  years:
+  - '2017'
+  - '2018'
+  - '2019'
+  - '2020'
+  - '2022'
+  - '2023'
+  affiliation: University College London
+  link: http://www.gatsby.ucl.ac.uk/~pel/
 - name: Blake Richards
   years:
   - '2018'

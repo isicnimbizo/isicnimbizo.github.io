@@ -14,7 +14,7 @@ people:
   - '2022'
   - '2023'
   affiliation: Montreal Institute for Learning Algorithms
-  link: annikc.github.io
+  link: https://annikc.github.io
   image: ''
 - name: Spiros Chavlis
   years:
@@ -52,27 +52,27 @@ people:
   - '2019'
   - '2020'
   affiliation: Columbia University
-  link: ''
+  link: 'https://gracewlindsay.com/'
   image: ''
 - name: Rich Pang
   years:
   - '2019'
   - '2020'
   affiliation: University of Washington
-  link: ''
+  link: 'https://rkp.science/'
   image: ''
 - name: Callie Federer
   years:
   - '2019'
   - '2020'
   affiliation: RadiaSoft, LLC
-  link: ''
+  link: 'https://www.linkedin.com/in/callie-federer'
   image: ''
 - name: Everton Agnes
   years:
   - '2020'
   affiliation: University of Oxford
-  link: ''
+  link: 'https://scholar.google.com/citations?user=-jI6Om0AAAAJ&hl=de'
   image: ''
 - name: Alex Antrobus
   years:
@@ -81,7 +81,7 @@ people:
   - '2019'
   affiliation: University College London
   link: https://twitter.com/adantro
-  image: "/images/antrobus.jpeg"
+  image: "/images/people/antrobus.jpg"
 - name: William Podlaski
   years:
   - '2017'
@@ -89,14 +89,14 @@ people:
   - '2019'
   affiliation: University of Oxford
   link: https://twitter.com/Bill_P_
-  image: "/images/podlaski.jpg"
+  image: "/images/people/podlaski.jpg"
 - name: Agostina Palmigiano
   years:
   - '2018'
   - '2019'
   affiliation: Columbia University
   link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
-  image: "/images/palmigiano.jpg"
+  image: "/images/people/palmigiano.jpg"
 - name: Athanasia Papoutsi
   years:
   - '2017'
@@ -109,28 +109,28 @@ people:
   - '2018'
   affiliation: University of Oxford
   link: https://zenkelab.org/
-  image: "/images/zenke.jpg"
+  image: "/images/people/zenke.jpg"
 - name: Katharina Wilmes
   years:
   - '2018'
   affiliation: Imperial College London
   link: https://twitter.com/k47h4
-  image: "/images/wilmes.jpg"
+  image: "/images/people/wilmes.jpg"
 - name: Sina Tootoonian
   years:
   - '2017'
   affiliation: University College London
   link: https://www.linkedin.com/in/sina-tootoonian-99668838
-  image: "/images/tootoonian.jpg"
+  image: "/images/people/tootoonian.jpg"
 - name: Eszter Vértes
   years:
   - '2017'
   affiliation: University College London
   link: https://twitter.com/esztervertes
-  image: "/images/vertes.jpg"
+  image: "/images/people/vertes.jpg"
 - name: Merav Stern
   years:
   - '2017'
   affiliation: University of Washington
   link: https://pages.uoregon.edu/meravs/
-  image: "/images/stern.jpg"
+  image: "/images/people/stern.jpg"

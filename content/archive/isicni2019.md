@@ -5,6 +5,7 @@ description = "IBRO-Simons Computational Neuroscience Imbizo 2019"
 end_date = 2019-01-26T23:00:00Z
 image = "/images/archive/imbizo2019header.jpg"
 material_link = "https://drive.google.com/drive/folders/1nbqzDx3s72V9Nzc0RTJrNU7G8CjkrTnt"
+schedule_link= "https://docs.google.com/document/d/1qeZ4Q7LxELylKQ2sBWB91pQX6XKZqUcvCzib7RwiSuE/edit?usp=sharing"
 thumbnail = "/images/imbizo2019.png"
 title = "isiCNI2019"
 [menu.main]
@@ -108,4 +109,5 @@ image = "/images/archive/2019/students/Wambui.jpg"
 
 +++
 
+<!--more-->
 {{< people >}}

@@ -5,7 +5,7 @@ description = "IBRO-Simons Computational Neuroscience Imbizo 2021: Eyabantu, Nga
 end_date = 2021-01-14T23:00:00Z
 image = "https://images.unsplash.com/photo-1436914228390-c080778dd589?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=95"
 material_link = "https://trello.com/b/53ubE587"
-thumbnail = "/images/covid.jpg"
+thumbnail = "/images/archive/covid.jpg"
 title = "isiCNI2021"
 [menu.main]
 parent = "archive"

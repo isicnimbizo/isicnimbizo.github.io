@@ -1,0 +1,30 @@
+---
+title: Organising committee
+item:
+item:
+  - name: Demba Ba
+    image: "/images/people/ba2.jpg"
+    affiliation: Harvard University
+    link: https://crisp.seas.harvard.edu/
+  - name: Christopher Currin
+    link: https://chriscurrin.com
+    image: images/people/currin2.png
+    affiliation: "Institute of Science and Technology Austria & [Deep Learning Indaba\U0001D54F
+    South Africa](https://indabax.co.za)"
+  - name: Peter Latham
+    image: images/people/latham3.png
+    affiliation: University College London
+    link: http://www.gatsby.ucl.ac.uk/~pel/
+  - name: Joseph Raimondo
+    image: images/people/raimondo2.jpg
+    affiliation: University of Cape Town
+    link: http://raimondolab.com/
+  - name: Emma Vaughan
+    image: images/people/emma.jpg
+    affiliation: Imbizo Logistics
+    link: https://imbizo.africa
+  - name: Tim Vogels
+    image: images/people/vogels2.jpg
+    affiliation: Institute of Science and Technology Austria
+    link: https://vogelslab.org
+

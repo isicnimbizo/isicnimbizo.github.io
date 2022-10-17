@@ -15,7 +15,7 @@ applications_open_date: September 2022
 applications_close_date: 2022-10-20T21:00:00+00:00
 acceptance_date: December 2022 (approx)
 target_applicants:
-  enable: true
+  enable: false
   title: Who should apply?
   content: 'The school is aimed at students who are completing their masters or beginning
     their doctoral studies, though well motivated and advanced undergraduates or postdoctoral
@@ -43,7 +43,7 @@ target_applicants:
       If you already have a strong background in Computational Neuroscience or Machine
       Learning, perhaps you would be better suited as a Teaching Assistant?
 team:
-  enable: true
+  enable: false
   title: Organising committee
   team_member:
   - title: Demba Ba
@@ -65,7 +65,7 @@ team:
     image: images/people/vogels2.jpg
     designation: Institute of Science and Technology Austria
 faq:
-  enable: true
+  enable: false
   title: Frequently asked questions
   gapsize: 5
   item:

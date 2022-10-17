@@ -74,3 +74,5 @@ faculty:
 news:
   enable: false
   title: In the news
+experience:
+  enable: true

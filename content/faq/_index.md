@@ -159,7 +159,7 @@ faq_travel:
       A laundry service will be provided for all students once a week at no additional cost.
 
 ---
-
+{{< partial "faq" "faq_general">}}
 {{< partial "faq" "faq_costs">}}
-{_< partial "faq" "faq_location">}_}
+{{< partial "faq" "faq_location">}}
 {{< partial "faq" "faq_travel">}}

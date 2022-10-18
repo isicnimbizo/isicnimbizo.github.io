@@ -7,12 +7,12 @@ applications:
   closed_message: Applications are closed
   URL: https://forms.gle/4sx9gFu2n54TCPmD6
   open_date: Sept 2022
-  close_date: 2022-10-20T21:00:00+00:00
+  close_date: '2022-10-20T21:00:00.000+00:00'
   acceptance_date: December 2022 (approx)
 show_period: false
 period_text: Application period
 applications_open_date: September 2022
-applications_close_date: 2022-10-20T21:00:00+00:00
+applications_close_date: '2022-10-20T21:00:00.000+00:00'
 acceptance_date: December 2022 (approx)
 target_applicants:
   enable: false
@@ -65,7 +65,7 @@ team:
     image: images/people/vogels2.jpg
     designation: Institute of Science and Technology Austria
 faq:
-  enable: false
+  enable: true
   title: Frequently asked questions
   gapsize: 5
   item:
@@ -97,3 +97,11 @@ faq:
       to as many students as possible, on a basis of need and merit. In your application,
       specify what financial contribution you can make and be sure to request financial
       assistance where asked.
+applications_open: false
+label: ''
+closed_message: ''
+URL: ''
+dates:
+  applications_open_date: ''
+  applications_close_date: 
+  acceptance_date: ''

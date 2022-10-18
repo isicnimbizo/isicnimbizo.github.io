@@ -1,0 +1,99 @@
+---
+label: FAQ page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: image
+  label: image
+- type: text
+  name: min_header_height
+  label: min_header_height
+- type: field_group
+  name: faq_general
+  label: faq_general
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: answer
+      label: answer
+- type: field_group
+  name: faq_costs
+  label: faq_costs
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: answer
+      label: answer
+- type: field_group
+  name: faq_location
+  label: faq_location
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: answer
+      label: answer
+- type: field_group
+  name: faq_travel
+  label: faq_travel
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: answer
+      label: answer

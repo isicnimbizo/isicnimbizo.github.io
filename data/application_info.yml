@@ -65,7 +65,7 @@ team:
     image: images/people/vogels2.jpg
     designation: Institute of Science and Technology Austria
 faq:
-  enable: true
+  enable: false
   title: Frequently asked questions
   gapsize: 5
   item:

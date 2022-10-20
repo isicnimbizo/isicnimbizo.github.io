@@ -1,0 +1,150 @@
+---
+label: Application Info data
+hide_body: true
+fields:
+- type: text
+  name: link
+  label: link
+- type: text
+  name: info_link_label
+  label: info_link_label
+- type: field_group_list
+  name: applications
+  label: applications
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: boolean
+    name: open
+    label: open
+  - type: text
+    name: closed_message
+    label: closed_message
+  - type: text
+    name: URL
+    label: URL
+  - type: text
+    name: open_date
+    label: open_date
+  - type: datetime
+    name: close_date
+    label: close_date
+  - type: text
+    name: acceptance_date
+    label: acceptance_date
+- type: boolean
+  name: show_period
+  label: show_period
+- type: text
+  name: period_text
+  label: period_text
+- type: text
+  name: applications_open_date
+  label: applications_open_date
+- type: datetime
+  name: applications_close_date
+  label: applications_close_date
+- type: text
+  name: acceptance_date
+  label: acceptance_date
+- type: field_group
+  name: target_applicants
+  label: target_applicants
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: preamble
+    label: preamble
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: team
+  label: team
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: team_member
+    label: team_member
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+- type: field_group
+  name: faq
+  label: faq
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: number
+    name: gapsize
+    label: gapsize
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: textarea
+      name: answer
+      label: answer
+- type: boolean
+  name: applications_open
+  label: applications_open
+- type: text
+  name: label
+  label: label
+- type: text
+  name: closed_message
+  label: closed_message
+- type: text
+  name: URL
+  label: URL
+- type: field_group
+  name: dates
+  label: dates
+  fields:
+  - type: text
+    name: applications_open_date
+    label: applications_open_date
+  - type: datetime
+    name: applications_close_date
+    label: applications_close_date
+  - type: text
+    name: acceptance_date
+    label: acceptance_date

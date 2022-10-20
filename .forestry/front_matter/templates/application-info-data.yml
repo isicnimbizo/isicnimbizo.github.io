@@ -5,49 +5,82 @@ fields:
 - type: text
   name: link
   label: link
+  default: "/apply"
+  description: link to application page. default /apply
 - type: text
   name: info_link_label
-  label: info_link_label
+  label: info link label
+  description: e.g. Application info
 - type: field_group_list
   name: applications
   label: applications
   fields:
+  - name: heading
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: heading
+    description: text to go above the button
   - type: text
     name: label
-    label: label
+    label: Button label
   - type: boolean
     name: open
     label: open
   - type: text
     name: closed_message
-    label: closed_message
+    label: closed message
+    description: only appears when closed
   - type: text
     name: URL
     label: URL
+    description: add link to a form here
   - type: text
     name: open_date
-    label: open_date
+    label: open date
+    description: rough estimate (hence text field) on when application will open
   - type: datetime
     name: close_date
-    label: close_date
+    label: close date
+    description: exact expected date for which this application should be closed
+  - type: text
+    name: acceptance_date
+    label: acceptance date
+    description: when acceptances will be announced...
+  description: All possible applications (e.g. students, TAs, abstract submissions)
+    go here.<br>Each application can be independently open and have unique close dates.
+  config:
+    labelField: label
+- type: field_group
+  name: all_applications_period
+  label: all applications period
+  fields:
+  - name: show_period
+    type: boolean
+    label: show application period
+    description: whether to show a broad application period. useful when there are
+      multiple applications. False otherwise
+  - name: period_text
+    type: text
+    config:
+      required: false
+    label: application period heading
+    description: Heading for application period<br>e.g. Registration period
+  - type: text
+    name: applications_open_date
+    label: applications_open_date
+  - type: datetime
+    name: applications_close_date
+    label: applications_close_date
   - type: text
     name: acceptance_date
     label: acceptance_date
-- type: boolean
-  name: show_period
-  label: show_period
-- type: text
-  name: period_text
-  label: period_text
-- type: text
-  name: applications_open_date
-  label: applications_open_date
-- type: datetime
-  name: applications_close_date
-  label: applications_close_date
-- type: text
-  name: acceptance_date
-  label: acceptance_date
+  description: display application period for all applications. <br>disable when there
+    is only one application
 - type: field_group
   name: target_applicants
   label: target_applicants
@@ -123,28 +156,3 @@ fields:
     - type: textarea
       name: answer
       label: answer
-- type: boolean
-  name: applications_open
-  label: applications_open
-- type: text
-  name: label
-  label: label
-- type: text
-  name: closed_message
-  label: closed_message
-- type: text
-  name: URL
-  label: URL
-- type: field_group
-  name: dates
-  label: dates
-  fields:
-  - type: text
-    name: applications_open_date
-    label: applications_open_date
-  - type: datetime
-    name: applications_close_date
-    label: applications_close_date
-  - type: text
-    name: acceptance_date
-    label: acceptance_date

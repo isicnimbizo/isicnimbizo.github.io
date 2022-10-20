@@ -7,8 +7,9 @@ applications:
   closed_message: Applications are closed
   URL: https://forms.gle/4sx9gFu2n54TCPmD6
   open_date: Sept 2022
-  close_date: '2022-10-20T21:00:00.000+00:00'
+  close_date: 2022-10-31T19:00:00+00:00
   acceptance_date: December 2022 (approx)
+  heading: ''
 show_period: false
 period_text: Application period
 applications_open_date: September 2022
@@ -65,7 +66,7 @@ team:
     image: images/people/vogels2.jpg
     designation: Institute of Science and Technology Austria
 faq:
-  enable: false
+  enable: true
   title: Frequently asked questions
   gapsize: 5
   item:
@@ -103,5 +104,11 @@ closed_message: ''
 URL: ''
 dates:
   applications_open_date: ''
-  applications_close_date: 2022-10-30T22:00:00+00:00
+  applications_close_date: '2022-10-30T22:00:00+00:00'
+  acceptance_date: ''
+all_applications_period:
+  show_period: false
+  period_text: ''
+  applications_open_date: ''
+  applications_close_date: 
   acceptance_date: ''

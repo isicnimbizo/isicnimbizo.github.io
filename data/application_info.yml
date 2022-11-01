@@ -3,7 +3,7 @@ link: "/apply"
 info_link_label: Application info
 applications:
 - label: Apply now
-  open: true
+  open: false
   closed_message: Applications are closed
   URL: https://forms.gle/4sx9gFu2n54TCPmD6
   open_date: Sept 2022

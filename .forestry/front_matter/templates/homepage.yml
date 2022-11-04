@@ -65,7 +65,7 @@ fields:
         min: 
         max: 
         labelField: 
-      label: action
+      label: button
     label: call to action
     description: prominent buttons in the banner
 - type: field_group

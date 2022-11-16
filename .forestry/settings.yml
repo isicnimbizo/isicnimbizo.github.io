@@ -10,6 +10,10 @@ sections:
 - type: document
   path: data/sponsors.yml
   label: Sponsors
+- type: document
+  path: content/faq.md
+  label: FAQ
+  match: "**/*"
 - type: heading
   label: Application
 - type: document

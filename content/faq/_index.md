@@ -8,7 +8,7 @@ min_header_height: 40em
 ---
 ## {{<icon "ti-info">}}  General {.project-meta}
 
-**What is Computational Neuroscience?**
+### {{<icon "ti-info">}}**What is Computational Neuroscience?**{.faq-item}
 
 Computational neuroscience is a rapidly expanding subject focused on understanding and modeling the brain, while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.
 
@@ -40,7 +40,7 @@ Post-doctoral researcher in Machine Learning
 
 This school will be most beneficial for postgraduate students and postdocs who want to fast track their education in the quantitative aspects of neuroscience.
 
-### {{<icon "ti-info">}}  Dates, Location and Schedule {.project-meta}
+## {{<icon "ti-info">}}  Dates, Location and Schedule {.project-meta}
 
 ### {{<icon "ti-info">}}**When is Imbizo 2023?**
 
@@ -50,7 +50,7 @@ Imbizo: Thursday 13 April to Saturday 6 May
 
 Departure day: Sunday 7 May
 
-### {{<icon "ti-info">}}**Where does Imbizo take place?**
+### {{<icon "ti-info">}}**Where does Imbizo take place?**{.ti-location-pin}
 
 At “The Team House’ in Noordhoek, Cape Town, South Africa. Noordhoek lies on the Atlantic seaboard, below Chapman’s Peak on the west coast of the Peninsula, some 35 kilometres from the City Centre. The Team House is a 13 bedroom guesthouse that acts as ‘Imbizo headquarters’ where students stay, lectures take place and most meals are eaten.
 
@@ -62,7 +62,7 @@ The Imbizo is a full-on, totally immersive experience with a FULL schedule. You 
 
 Students are required to attend and actively participate in the entire course, including all scientific sessions and excursions/off days. Please do not make any personal plans for the time of your stay. If you have an emergency or need to leave the Imbizo please do come and speak to the Organisers.
 
-### Costs and Scholarships
+## {{<icon "ti-info">}}Costs and Scholarships{.project-meta}
 
 ### {{<icon "ti-info">}}**How much is the course fee?**
 

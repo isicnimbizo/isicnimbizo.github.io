@@ -16,37 +16,29 @@ Computational neuroscience is a rapidly expanding subject focused on understandi
 
 Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The IBRO-Simons Computational Neuroscience Imbizo, or isiCNI is exactly that: an opportunity for African and international students to learn about cutting edge research techniques in computational neuroscience
 
-### {{<icon "ti-info">}}**How long has Imbizo been running?**{.ti-pencil-alt2}
+#### {{<icon "ti-info">}}**How long has Imbizo been running?**{.ti-pencil-alt2}
 
-The first Imbizo was held in January 2017 in Muizenberg, Cape Town.
+The first Imbizo was held in January 2017 in Muizenberg, Cape Town.  2023 will be the 6th Imbizo, as the 2021 Imbizo was postponed during the COVID19 global shutdown.
 
-2023 will be the 6th Imbizo, as the 2021 Imbizo was postponed during the COVID19 global shutdown.
-
-### {{<icon "ti-info">}}**Who should apply?**{.ti-clip}
+#### {{<icon "ti-info">}}**Who should apply?**{.ti-clip}
 
 The school is aimed at students who are completing their masters or beginning their doctoral studies, though well motivated and advanced undergraduates or postdoctoral students should also apply. Students should have a good quantitative background: e.g. 2nd year university level experience in physics, engineering, statistics or computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the imbizo will strengthen these skills should also apply. All students should have some experience writing code.
 
-### {{<icon "ti-info">}}**What level of students can apply?**{ti-crown}
+#### {{<icon "ti-info">}}**What level of students can apply?**{.ti-crown}
 
-MSc Physics student
+MSc Physics student: Has a bachelors in physical sciences (e.g. physics / statistics / mathematics / computer science). Has taken 1st-year level courses in biology / electives in psychology, etc.
 
-Has a bachelors in physical sciences (e.g. physics / statistics / mathematics / computer science). Has taken 1st-year level courses in biology / electives in psychology, etc.
+PhD Neuroscience candidate: Has a bachelors in biological science, has completed 2nd-year level courses in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has some experience writing code.
 
-PhD Neuroscience candidate
-
-Has a bachelors in biological science, has completed 2nd-year level courses in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has some experience writing code.
-
-Post-doctoral researcher in Machine Learning
-
-This school will be most beneficial for postgraduate students and postdocs who want to fast track their education in the quantitative aspects of neuroscience.
+Post-doctoral researcher in Machine Learning: This school will be most beneficial for postgraduate students and postdocs who want to fast track their education in the quantitative aspects of neuroscience.
 
 ## {{<icon "ti-info">}}  Dates, Location and Schedule {.project-meta}
 
-### {{<icon "ti-info">}}**When is Imbizo 2023?**
+#### {{<icon "ti-info">}}**When is Imbizo 2023?**{.ti-alarm-clock}
 
 Arrival day: Wednesday 12 April
 
-Imbizo: Thursday 13 April to Saturday 6 May
+Imbizo dates: Thursday 13 April to Saturday 6 May
 
 Departure day: Sunday 7 May
 
@@ -54,25 +46,25 @@ Departure day: Sunday 7 May
 
 At “The Team House’ in Noordhoek, Cape Town, South Africa. Noordhoek lies on the Atlantic seaboard, below Chapman’s Peak on the west coast of the Peninsula, some 35 kilometres from the City Centre. The Team House is a 13 bedroom guesthouse that acts as ‘Imbizo headquarters’ where students stay, lectures take place and most meals are eaten.
 
-### {{<icon "ti-info">}}**How busy is the schedule?**
+#### {{<icon "ti-info">}}**How busy is the schedule?**{.ti-rocket}
 
 The Imbizo is a full-on, totally immersive experience with a FULL schedule. You will be required to be onsite at Imbizo for the duration and no personal off-campus activities are permitted. We do appreciate that everyone has their own ’social energy’ quota and as such understand that some personal time is very important too. Whether on the beach or in your shared room, there will be moments for reflection. We do expect, however, for you to engage in the planned social activities which occur 3-4 times per week.  By applying, you commit to twenty-five subsequent days of intense science, socialising, and fun.
 
-### {{<icon "ti-info">}}**I have friends in Cape Town and want to see them on our off days. Can I do this?**
+### {{<icon "ti-info">}}**I have friends in Cape Town and want to see them on our off days. Can I do this?**{.ti-comments-smiley}
 
 Students are required to attend and actively participate in the entire course, including all scientific sessions and excursions/off days. Please do not make any personal plans for the time of your stay. If you have an emergency or need to leave the Imbizo please do come and speak to the Organisers.
 
 ## {{<icon "ti-info">}}Costs and Scholarships{.project-meta}
 
-### {{<icon "ti-info">}}**How much is the course fee?**
+### {{<icon "ti-info">}}**How much is the course fee?**{.ti-credit-card}
 
 Course fee for 2023 is **€ 1200.** The actual cost of a single course fee amounts to approx €5000 per person
 
-### {{<icon "ti-info">}}**What does the course fee include?**
+### {{<icon "ti-info">}}**What does the course fee include?**{.ti-folder}
 
 All accommodation, meals, social activities and ground transport in Cape Town
 
-### {{<icon "ti-info">}}**What does the course fee exclude?**
+### {{<icon "ti-info">}}**What does the course fee exclude?**{.ti-money}
 
 You will be responsible for covering the cost of your travel to and from Cape Town
 
@@ -82,19 +74,19 @@ All travel vaccinations costs (if required)
 
 Travel & medical insurance
 
-### {{<icon "ti-info">}}**Are there any scholarships?**
+### {{<icon "ti-info">}}**Are there any scholarships?**{ti-gift}
 
 Yes! Thanks to our generous sponsors, significant financial assistance is available to reduce and waive fees for students, as well as to provide some travel bursaries. If you need financial assistance to attend the Imbizo, please state so clearly in the relevant section of your application. Scholarships are distributed on the basis of merit and need.
 
-### {{<icon "ti-info">}}**What do the different scholarships include?**
+### {{<icon "ti-info">}}**What types of scholarships are there?**{ti-game}
 
 1. _Full Scholarship_ includes a waived course fee (€ 1200) and your economy class travel to Cape Town, which will be booked by the Imbizo
 2. _Partial Scholarship_ includes a waived course fee and a set financial contribution towards your travel costs. The amount will vary on a case by case basis.
 3. _Course Scholarship_ include a waived course fee but you will be responsible to book and pay for your own travel costs to Cape Town
 
-### {{<icon "ti-info">}}Travel
+## {{<icon "ti-info">}}Travel{.project-meta}
 
-**Who books my flight to Cape Town?**
+### {{<icon "ti-info">}}**Who books my flight to Cape Town?**{.ti-map-alt}
 
 For students who are awarded a full scholarship, the Imbizo will book and pay for your economy class trip to Cape Town. 
 

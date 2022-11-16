@@ -11,7 +11,7 @@ sections:
   path: data/sponsors.yml
   label: Sponsors
 - type: document
-  path: content/faq.md
+  path: content/faq/_index.md
   label: FAQ
   match: "**/*"
 - type: heading

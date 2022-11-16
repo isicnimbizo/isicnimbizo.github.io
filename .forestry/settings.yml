@@ -8,7 +8,7 @@ sections:
   path: content/faq
   label: FAQ
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - page-header-and-content
 - type: document

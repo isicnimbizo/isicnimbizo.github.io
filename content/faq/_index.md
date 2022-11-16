@@ -12,11 +12,11 @@ min_header_height: 40em
 
 Computational neuroscience is a rapidly expanding subject focused on understanding and modeling the brain, while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.
 
-### **What is Imbizo?** {.faq-item}
+### {{<icon "ti-info">}}**What is Imbizo?** {.faq-item}
 
 Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The IBRO-Simons Computational Neuroscience Imbizo, or isiCNI is exactly that: an opportunity for African and international students to learn about cutting edge research techniques in computational neuroscience
 
-### **How long has Imbizo been running?**{.ti-pencil-alt2}
+### {{<icon "ti-info">}}**How long has Imbizo been running?**{.ti-pencil-alt2}
 
 The first Imbizo was held in January 2017 in Muizenberg, Cape Town.
 
@@ -26,7 +26,7 @@ The first Imbizo was held in January 2017 in Muizenberg, Cape Town.
 
 The school is aimed at students who are completing their masters or beginning their doctoral studies, though well motivated and advanced undergraduates or postdoctoral students should also apply. Students should have a good quantitative background: e.g. 2nd year university level experience in physics, engineering, statistics or computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the imbizo will strengthen these skills should also apply. All students should have some experience writing code.
 
-### {{<icon "ti-info">}}**What level of students can apply?**
+### {{<icon "ti-info">}}**What level of students can apply?**{ti-crown}
 
 MSc Physics student
 

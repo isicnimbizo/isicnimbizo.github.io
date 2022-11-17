@@ -8,7 +8,7 @@ min_header_height: 40em
 ---
 ## {{<icon "ti-info">}}  General {.project-meta}
 
-#### **What is Computational Neuroscience?** {.faq-item}
+#### {{<icon "ti-info">}} **What is Computational Neuroscience?** {.faq-item}
 
 Computational neuroscience is a rapidly expanding subject focused on understanding and modeling the brain, while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.
 
@@ -66,7 +66,7 @@ All accommodation, meals, social activities and ground transport in Cape Town
 
 #### **What does the course fee exclude?** {.ti-money}
 
-You will be responsible for covering the cost of your travel to and from Cape Town 
+You will be responsible for covering the cost of your travel to and from Cape Town
 
 All visa costs and related admin to apply(see below for more information)
 

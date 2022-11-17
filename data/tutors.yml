@@ -1,6 +1,16 @@
 ---
 title: Teaching assistants
 people:
+- name: Ilenna Jones
+  years:
+  - '2023'
+  affiliation: University of Pennsylvania
+  link: https://kordinglab.com/people/ilenna_jones/index.html
+- name: Roy Eyono
+  years:
+  - '2023'
+  affiliation: Montreal Institute for Learning Algorithms
+  link: https://mila.quebec/en/person/roy-eyono/
 - name: Mohamed Abdelhack
   years:
   - '2022'
@@ -13,7 +23,7 @@ people:
   - '2020'
   - '2022'
   - '2023'
-  affiliation: Montreal Institute for Learning Algorithms
+  affiliation: AI Redefined
   link: https://annikc.github.io
   image: ''
 - name: Spiros Chavlis

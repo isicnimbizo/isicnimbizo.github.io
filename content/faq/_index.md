@@ -118,6 +118,6 @@ Delicious and nutritious breakfasts, lunch and dinner will be served each day, s
 
 In the spirit of Imbizo and togetherness, accommodation is in shared dorm rooms where you may be sharing with up to 3 other people of the same gender. Most of the bedrooms are en suite but two rooms make use of a general shared bathroom in the corridor. Bedding and towels are provided by the venue. Sleeping in dorm style accommodation can take some getting used to and you may find your sleep patterns will need some tweaking. Some students have benefitted from bringing ear plugs with them
 
-#### **What facilities are available at or close to the venue?** {.ti-car}
+#### **What facilities are available at/close to the venue?** {.ti-car}
 
 The Team House is a large basic guesthouse with fast internet, multiple outdoor areas including a sea facing terrace and garden and quiet lounge areas where you can relax. Noordhoek is a quiet suburb with no shops within walking distance. The Imbizo will provide a regular shuttle service (2-3 times per week) to the nearby shopping mall so you will be able to buy or replace anything you run out of or forgot to bring. The mall has a pharmacy/drugstore, a huge grocery store, clothing shops, cellular network shops, ATMs etc. A complimentary laundry service will be provided for all students and TAs once a week.

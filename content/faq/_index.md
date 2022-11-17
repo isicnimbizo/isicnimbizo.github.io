@@ -92,7 +92,7 @@ Flights for students who are awarded a full scholarship will be booked and paid 
 
 #### **What about visas?** {.ti-wand}
 
-The Imbizo acknowledges that a visa can be a tricky process and we will provide supporting documents to make the process easier where we can. The documents we can provide are only:
+The Imbizo acknowledges that the visa application process can be a tricky one and we will provide supporting documents to make the process easier where we can. The documents we can provide are only:
 
 * Invitation letter (incl. scholarship award if applicable)
 * Proof of accommodation

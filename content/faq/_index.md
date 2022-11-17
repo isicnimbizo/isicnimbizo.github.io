@@ -66,7 +66,7 @@ All accommodation, meals, social activities and ground transport in Cape Town
 
 #### **What does the course fee exclude?** {.ti-money}
 
-You will be responsible for covering the cost of your travel to and from Cape Town
+You will be responsible for covering the cost of your travel to and from Cape Town 
 
 All visa costs and related admin to apply(see below for more information)
 
@@ -88,9 +88,7 @@ Yes! Thanks to our generous sponsors, significant financial assistance is availa
 
 #### **Who books my flight to Cape Town?** {.ti-map-alt}
 
-For students who are awarded a full scholarship, the Imbizo will book and pay for your economy class trip to Cape Town.
-
-All other students are required to book, manage and pay for their own travel exoenses. For students booking their own travel we suggest booking flights early as availability to Cape Town can be limited. Students booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town
+Flights for students who are awarded a full scholarship will be booked and paid for by the Imbizo.  All other students are required to book, manage and pay for their own travel expenses. For students booking their own travel we suggest booking flights early as availability to Cape Town can be limited. Students booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town
 
 #### **What about visas?** {.ti-wand}
 
@@ -104,7 +102,7 @@ The Imbizo acknowledges that a visa can be a tricky process and we will provide 
 
 The Imbizo is not a visa or travel agency and does not have connections with SA Embassies in the various countries. Responsibility remains on the student to find out their individual visa requirements by contacting the SA Embassy in the country they live in. Students must keep the Imbizo Committee up to date of the status of their visa application at all times.
 
-The Imbizo is aware that some countries are part of the new e-visa program rolled out by the SA Dept Home Affairs. Unfortunately this system **does not work**, and we must request that all students apply in person at the SA Embassy in the country they live in. If you have any questions please contact us directly to discuss.
+The Imbizo is aware that some countries are part of the new e-visa program rolled out by the SA Dept Home Affairs. Unfortunately this system **does not work**, and we must request that _all students apply in person_ at the SA Embassy in the country they live in. If you have any questions please contact us directly to discuss.
 
 ## {{<icon "ti-info">}}Accommodation, food and venue{.project-meta}
 
@@ -114,9 +112,7 @@ At The Team House
 
 #### **What kind of food will we eat?** {.ti-bag}
 
-Delicious and nutritious breakfasts, lunch and dinner will be served each day, starting with dinner on 12 April. Meals will either be at The Team House or at nearby restaurants.
-
-We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
+Delicious and nutritious breakfasts, lunch and dinner will be served each day, starting with dinner on 12 April. Meals will either be at The Team House or at nearby restaurants.  We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
 
 #### **What is the accommodation set up?** {.ti-headphone}
 

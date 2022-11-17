@@ -16,7 +16,7 @@ Computational neuroscience is a rapidly expanding subject focused on understandi
 
 Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The IBRO-Simons Computational Neuroscience Imbizo, or isiCNI is exactly that: an opportunity for African and international students to learn about cutting edge research techniques in computational neuroscience
 
-#### {{<icon "ti-info">}} &nbsp **How long has Imbizo been running?** {.ti-pencil-alt2}
+#### &nbsp **How long has Imbizo been running?** {.ti-pencil-alt2}
 
 The first Imbizo was held in January 2017 in Muizenberg, Cape Town.  2023 will be the 6th Imbizo, as the 2021 Imbizo was postponed during the COVID19 global shutdown.
 

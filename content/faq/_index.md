@@ -112,7 +112,7 @@ At The Team House
 
 #### &nbsp **What kind of food will we eat?** {.ti-bag}
 
-Delicious and nutritious breakfasts, lunch and dinner will be served each day, starting with dinner on 12 April. Meals will either be at The Team House or at nearby restaurants.  We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
+Delicious and nutritious breakfast, lunch and dinner will be served each day, starting with dinner on 12 April. Meals will either be at The Team House or at nearby restaurants.  We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
 
 #### &nbsp **What is the accommodation set up?** {.ti-headphone}
 

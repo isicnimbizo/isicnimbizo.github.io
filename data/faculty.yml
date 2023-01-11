@@ -1,328 +1,354 @@
 ---
 title: Faculty
 people:
-- name: Bianca Jones Marlin
-  years: 
-  - "2023"
-  affiliation: Columbia University
-  link: https://www.biancajonesmarlin.com
-  image: images/people/jonesmarlin.jpg
-- name: David	Sussillo
-  years: 
-  - "2023"
-  affiliation: Google Brain, Stanford University
-  link: https://www.linkedin.com/in/david-sussillo-736a1290/
-  image: images/people/sussillo2.jpg
-- name: Aza Allsop
-  years: 
-  - "2023"
-  affiliation: Yale School of Medicine
-  link: https://medicine.yale.edu/profile/aza_allsop/
-- name: Mackenzie Mathis
-  years: 
-  - "2023"
-  affiliation: EPFL
-  link: https://www.mackenziemathislab.org/
-- name: Cengiz Pehlevan
-  years:
-  - '2022'
-  - '2023'
-  affiliation: SEAS, Harvard University,
-  link: pehlevan.seas.harvard.edu
-- name: Tom Mrsic-Flogel
-  years:
-  - '2022'
-  affiliation: 'Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
-    College London '
-  link: https://www.sainsburywellcome.org/web/people/tom-mrsic-flogel
-- name: Sonja Hofer
-  years:
-  - '2022'
-  affiliation: Sainsbury Wellcome Centre, University College London
-  link: https://www.sainsburywellcome.org/web/
-- name: Daniela Vallentin
-  years:
-  - '2022'
-  - '2023'
-  affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
-  link: https://www.bi.mpg.de/vallentin
-- name: "Elizabeth\tBuffalo"
-  years:
-  - '2022'
-  - '2023'
-  affiliation: University of Washington
-  link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
-  image: images/people/buffalo.jpg
-- name: Jonathan Pillow
-  years:
-  - '2022'
-  affiliation: Princeton University
-  link: https://pillowlab.princeton.edu/
-  image: ''
-- name: Daphne Bavelier
-  years:
-  - '2022'
-  affiliation: University of Geneva
-  link: https://neurocenter-unige.ch/research-groups/daphne-bavelier/
-  image: ''
-- name: Thomas Tagoe
-  affiliation: University of Ghana
-  link: https://www.linkedin.com/in/thomas-tagoe-8a341837
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  image: ''
-- name: Dorit Hockman
-  affiliation: University of Cape Town
-  link: http://www.neuroscience.uct.ac.za/dorit_hockman
-  years:
-  - '2022'
-  - '2023'
-  image: ''
-- name: Alex Pouget
-  years:
-  - '2022'
-  affiliation: University of Geneva
-  link: https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/
-  image: ''
-- name: Tor Stensola
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: University of Agder
-  link: https://www.linkedin.com/in/tor-stensola-a8b4b494
-  image: ''
-- name: Hanne Stensola
-  years:
-  - '2022'
-  - '2023'
-  affiliation: University of Agder
-  link: https://www.uia.no/en/kk/profile/hannesten
-  image: images/people/stensola_hanne.jpg
-- name: Xaq Pitkow
-  years:
-  - '2022'
-  - '2023'
-  affiliation: Baylor College of Medicine | Rice University
-  link: https://xaqlab.com/
-  image: ''
-- name: Adrienne Fairhall
-  years:
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2023'
-  affiliation: University of Washington
-  link: https://fairhalllab.com/
-  image: ''
-- name: Demba Ba
-  years:
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: Harvard University
-  link: https://crisp.seas.harvard.edu/
-  image: images/people/ba.jpg
-- name: Éric Plourde
-  years:
-  - '2022'
-  - '2023'
-  affiliation: Université de Sherbrooke
-  link: https://www.usherbrooke.ca/recherche/specialistes/details/eric.plourde
-  image: ''
-- name: Timothy Lillicrap
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2023'
-  affiliation: Google Deep Mind
-  link: http://contrastiveconvergence.net/~timothylillicrap/index.php
-  image: ''
-- name: Joseph Raimondo
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: University of Cape Town
-  link: http://raimondolab.com/
-  image: ''
-- name: Henning Sprekeler
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: Technical University Berlin
-  link: http://sprekelerlab.org
-  image: ''
-- name: Peter Latham
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: University College London
-  link: http://www.gatsby.ucl.ac.uk/~pel/
-- name: Blake Richards
-  years:
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2023'
-  affiliation: MILA
-  link: http://linclab.org/
-  image: ''
-- name: Tim Vogels
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: Institute of Science and Technology Austria
-  link: https://vogelslab.org
-  image: ''
-- name: Alyssa Picchini Schaffer
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: Simons Foundation
-  link: https://www.simonsfoundation.org/team/alyssa-picchini-schaffer-ph-d/
-  image: images/people/picchini-schaffer.jpg
-- name: Evan Schaffer
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: Columbia University
-  link: http://www.evanschaffer.com
-  image: ''
-- name: Eve Marder
-  years:
-  - '2020'
-  affiliation: Brandeis University
-  link: https://blogs.brandeis.edu/marderlab/
-  image: ''
-- name: Arthur Wingfield
-  years:
-  - '2020'
-  affiliation: Brandeis University
-  link: http://www.bio.brandeis.edu/memlab/
-  image: ''
-- name: Misha Tsodyks
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  - '2020'
-  affiliation: Weizmann Institute of Science
-  link: http://www.weizmann.ac.il/home/bnmisha/
-  image: ''
-- name: Dora Angelaki
-  affiliation: Baylor College of Medicine
-  link: https://www.bcm.edu/research/labs/dora-angelaki
-  years:
-  - '2019'
-  image: ''
-- name: Srikanth Ramaswamy
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  affiliation: EPFL
-  link: http://bluebrain.epfl.ch/page-59360-en.html
-  image: ''
-- name: Athanassia Papoutsi
-  years:
-  - '2019'
-  - '2020'
-  affiliation: IMBB-FORTH
-  link: http://www.dendrites.gr/en/demory-221/people-242
-  image: ''
-- name: Byron Yu
-  years:
-  - '2018'
-  - '2019'
-  affiliation: Carnegie Mellon University
-  link: https://users.ece.cmu.edu/~byronyu/
-  image: ''
-- name: Andrew Trevelyan
-  years:
-  - '2019'
-  affiliation: Newcastle University
-  link: https://www.ncl.ac.uk/ion/staff/profile/andrewtrevelyan.html
-  image: ''
-- name: Larry Abbott
-  years:
-  - '2017'
-  - '2018'
-  image: images/people/abbott.jpg
-  affiliation: Columbia University
-  link: https://ntc.columbia.edu/larry-abbott/
-- name: Ila Fiete
-  years:
-  - '2019'
-  affiliation: University of Texas
-  link: http://clm.utexas.edu/fietelab/
-  image: ''
-- name: Michael Häusser
-  years:
-  - '2018'
-  - '2019'
-  affiliation: University College London
-  link: http://www.dendrites.org/
-  image: ''
-- name: Marlene Behrmann
-  years:
-  - '2018'
-  affiliation: Carnegie Mellon University
-  link: http://www.cmu.edu/dietrich/behrmannlab/
-  image: ''
-- name: Maté Lengyel
-  years:
-  - '2017'
-  - '2018'
-  affiliation: Cambridge University
-  link: http://www3.eng.cam.ac.uk/~ml468/
-  image: ''
-- name: Yiota Poirazi
-  years:
-  - '2017'
-  - '2018'
-  affiliation: IMBB-FORTH
-  link: http://www.imbb.forth.gr/en/research-en/neurosciences/item/73-panayiota-poirazi
-  image: ''
-- name: Daniel Wolpert
-  years:
-  - '2017'
-  affiliation: Cambridge University
-  link: http://learning.eng.cam.ac.uk/Public/Wolpert/
-  image: ''
-- name: Rajnish Ranjan
-  years:
-  - '2017'
-  affiliation: EPFL
-  link: http://bluebrain.epfl.ch/page-59361-en.html
-  image: ''
-- name: Surya Ganguli
-  years:
-  - '2017'
-  affiliation: Stanford University
-  link: https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/
-  image: ''
-- name: Emery Brown
-  years: []
-  affiliation: Harvard University / MIT
-  link: http://www.neurostat.mit.edu/home
-  image: ''
+  - name: Arif Hamid
+    years:
+      - "2023"
+    affiliation: University of Minnesota Medical School
+    link: https://alleninstitute.org/about/advisors/advisor-profiles/arif-hamid/
+  - name: Damian Okaibedi Eke
+    years:
+      - "2023"
+    link: https://www.dmu.ac.uk/about-dmu/academic-staff/technology/damian-okaibedi-eke/damian-okaibedi-eke.aspx
+    affiliation: De Montfort University
+  - name: Guillaume Lajoie
+    years:
+      - "2023"
+    link: https://www.guillaumelajoie.com
+    affiliation: University of Montreal & MILA
+  - name: Ida Momennejad
+    years:
+      - "2023"
+    link: https://www.momen-nejad.org
+    affiliation: Microsoft Research
+  - name: Silke Anders
+    years:
+      - "2023"
+    link: https://www.researchgate.net/profile/Silke-Anders
+    affiliation: Universität zu Lübeck - Clinic for Neurology
+  - name: Bianca Jones Marlin
+    years:
+      - "2023"
+    affiliation: Columbia University
+    link: https://www.biancajonesmarlin.com
+    image: images/people/jonesmarlin.jpg
+  - name: David	Sussillo
+    years:
+      - "2023"
+    affiliation: Google Brain, Stanford University
+    link: https://www.linkedin.com/in/david-sussillo-736a1290/
+    image: images/people/sussillo2.jpg
+  - name: Aza Allsop
+    years:
+      - "2023"
+    affiliation: Yale School of Medicine
+    link: https://medicine.yale.edu/profile/aza_allsop/
+  - name: Mackenzie Mathis
+    years:
+      - "2023"
+    affiliation: EPFL
+    link: https://www.mackenziemathislab.org/
+  - name: Cengiz Pehlevan
+    years:
+      - "2022"
+      - "2023"
+    affiliation: SEAS, Harvard University,
+    link: pehlevan.seas.harvard.edu
+  - name: Tom Mrsic-Flogel
+    years:
+      - "2022"
+    affiliation:
+      "Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University
+      College London "
+    link: https://www.sainsburywellcome.org/web/people/tom-mrsic-flogel
+  - name: Sonja Hofer
+    years:
+      - "2022"
+    affiliation: Sainsbury Wellcome Centre, University College London
+    link: https://www.sainsburywellcome.org/web/
+  - name: Daniela Vallentin
+    years:
+      - "2022"
+      - "2023"
+    affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
+    link: https://www.bi.mpg.de/vallentin
+  - name: "Elizabeth\tBuffalo"
+    years:
+      - "2022"
+      - "2023"
+    affiliation: University of Washington
+    link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
+    image: images/people/buffalo.jpg
+  - name: Jonathan Pillow
+    years:
+      - "2022"
+    affiliation: Princeton University
+    link: https://pillowlab.princeton.edu/
+    image: ""
+  - name: Daphne Bavelier
+    years:
+      - "2022"
+    affiliation: University of Geneva
+    link: https://neurocenter-unige.ch/research-groups/daphne-bavelier/
+    image: ""
+  - name: Thomas Tagoe
+    affiliation: University of Ghana
+    link: https://www.linkedin.com/in/thomas-tagoe-8a341837
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    image: ""
+  - name: Dorit Hockman
+    affiliation: University of Cape Town
+    link: http://www.neuroscience.uct.ac.za/dorit_hockman
+    years:
+      - "2022"
+      - "2023"
+    image: ""
+  - name: Alex Pouget
+    years:
+      - "2022"
+    affiliation: University of Geneva
+    link: https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/
+    image: ""
+  - name: Tor Stensola
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: University of Agder
+    link: https://www.linkedin.com/in/tor-stensola-a8b4b494
+    image: ""
+  - name: Hanne Stensola
+    years:
+      - "2022"
+      - "2023"
+    affiliation: University of Agder
+    link: https://www.uia.no/en/kk/profile/hannesten
+    image: images/people/stensola_hanne.jpg
+  - name: Xaq Pitkow
+    years:
+      - "2022"
+      - "2023"
+    affiliation: Baylor College of Medicine | Rice University
+    link: https://xaqlab.com/
+    image: ""
+  - name: Adrienne Fairhall
+    years:
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2023"
+    affiliation: University of Washington
+    link: https://fairhalllab.com/
+    image: ""
+  - name: Demba Ba
+    years:
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: Harvard University
+    link: https://crisp.seas.harvard.edu/
+    image: images/people/ba.jpg
+  - name: Éric Plourde
+    years:
+      - "2022"
+      - "2023"
+    affiliation: Université de Sherbrooke
+    link: https://www.usherbrooke.ca/recherche/specialistes/details/eric.plourde
+    image: ""
+  - name: Timothy Lillicrap
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2023"
+    affiliation: Google Deep Mind
+    link: http://contrastiveconvergence.net/~timothylillicrap/index.php
+    image: ""
+  - name: Joseph Raimondo
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: University of Cape Town
+    link: http://raimondolab.com/
+    image: ""
+  - name: Henning Sprekeler
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: Technical University Berlin
+    link: http://sprekelerlab.org
+    image: ""
+  - name: Peter Latham
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: University College London
+    link: http://www.gatsby.ucl.ac.uk/~pel/
+  - name: Blake Richards
+    years:
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2023"
+    affiliation: MILA
+    link: https://www.mcgill.ca/neuro/blake-richards-phd
+    image: ""
+  - name: Tim Vogels
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: Institute of Science and Technology Austria
+    link: https://vogelslab.org
+    image: ""
+  - name: Alyssa Picchini Schaffer
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: Simons Foundation
+    link: https://www.simonsfoundation.org/team/alyssa-picchini-schaffer-ph-d/
+    image: images/people/picchini-schaffer.jpg
+  - name: Evan Schaffer
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: Columbia University
+    link: http://www.evanschaffer.com
+    image: ""
+  - name: Eve Marder
+    years:
+      - "2020"
+    affiliation: Brandeis University
+    link: https://blogs.brandeis.edu/marderlab/
+    image: ""
+  - name: Arthur Wingfield
+    years:
+      - "2020"
+    affiliation: Brandeis University
+    link: http://www.bio.brandeis.edu/memlab/
+    image: ""
+  - name: Misha Tsodyks
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+    affiliation: Weizmann Institute of Science
+    link: http://www.weizmann.ac.il/home/bnmisha/
+    image: ""
+  - name: Dora Angelaki
+    affiliation: Baylor College of Medicine
+    link: https://www.bcm.edu/research/labs/dora-angelaki
+    years:
+      - "2019"
+    image: ""
+  - name: Srikanth Ramaswamy
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+    affiliation: EPFL
+    link: http://bluebrain.epfl.ch/page-59360-en.html
+    image: ""
+  - name: Athanassia Papoutsi
+    years:
+      - "2019"
+      - "2020"
+    affiliation: IMBB-FORTH
+    link: http://www.dendrites.gr/en/demory-221/people-242
+    image: ""
+  - name: Byron Yu
+    years:
+      - "2018"
+      - "2019"
+    affiliation: Carnegie Mellon University
+    link: https://users.ece.cmu.edu/~byronyu/
+    image: ""
+  - name: Andrew Trevelyan
+    years:
+      - "2019"
+    affiliation: Newcastle University
+    link: https://www.ncl.ac.uk/ion/staff/profile/andrewtrevelyan.html
+    image: ""
+  - name: Larry Abbott
+    years:
+      - "2017"
+      - "2018"
+    image: images/people/abbott.jpg
+    affiliation: Columbia University
+    link: https://ntc.columbia.edu/larry-abbott/
+  - name: Ila Fiete
+    years:
+      - "2019"
+    affiliation: University of Texas
+    link: http://clm.utexas.edu/fietelab/
+    image: ""
+  - name: Michael Häusser
+    years:
+      - "2018"
+      - "2019"
+    affiliation: University College London
+    link: http://www.dendrites.org/
+    image: ""
+  - name: Marlene Behrmann
+    years:
+      - "2018"
+    affiliation: Carnegie Mellon University
+    link: http://www.cmu.edu/dietrich/behrmannlab/
+    image: ""
+  - name: Maté Lengyel
+    years:
+      - "2017"
+      - "2018"
+    affiliation: Cambridge University
+    link: http://www3.eng.cam.ac.uk/~ml468/
+    image: ""
+  - name: Yiota Poirazi
+    years:
+      - "2017"
+      - "2018"
+    affiliation: IMBB-FORTH
+    link: http://www.imbb.forth.gr/en/research-en/neurosciences/item/73-panayiota-poirazi
+    image: ""
+  - name: Daniel Wolpert
+    years:
+      - "2017"
+    affiliation: Cambridge University
+    link: http://learning.eng.cam.ac.uk/Public/Wolpert/
+    image: ""
+  - name: Rajnish Ranjan
+    years:
+      - "2017"
+    affiliation: EPFL
+    link: http://bluebrain.epfl.ch/page-59361-en.html
+    image: ""
+  - name: Surya Ganguli
+    years:
+      - "2017"
+    affiliation: Stanford University
+    link: https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/
+    image: ""
+  - name: Emery Brown
+    years: []
+    affiliation: Harvard University / MIT
+    link: http://www.neurostat.mit.edu/home
+    image: ""

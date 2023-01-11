@@ -1,146 +1,151 @@
 ---
 title: Teaching assistants
 people:
-- name: Ilenna Jones
-  years:
-  - '2023'
-  affiliation: University of Pennsylvania
-  link: https://kordinglab.com/people/ilenna_jones/index.html
-- name: Roy Eyono
-  years:
-  - '2023'
-  affiliation: Montreal Institute for Learning Algorithms
-  link: https://mila.quebec/en/person/roy-eyono/
-- name: Mohamed Abdelhack
-  years:
-  - '2022'
-  - '2023'
-  affiliation: Krembil Centre for Neuroinformatics
-  link: https://orcid.org/0000-0002-6753-3237
-  image: ''
-- name: Annik Carson
-  years:
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: AI Redefined
-  link: https://annikc.github.io
-  image: ''
-- name: Spiros Chavlis
-  years:
-  - '2022'
-  - '2023'
-  affiliation: IMBB-FORTH
-  link: http://www.dendrites.gr
-  image: ''
-- name: Christopher Currin
-  years:
-  - '2019'
-  - '2020'
-  - '2022'
-  - '2023'
-  affiliation: "Institute of Science and Technology Austria | Deep Learning Indaba\U0001D54F
-    South Africa"
-  link: https://chriscurrin.com
-  image: ''
-- name: Nina Kudryashova
-  years:
-  - '2022'
-  - '2023'
-  affiliation: University of Edinburgh
-  link: https://www.research.ed.ac.uk/en/persons/nina-kudryashova
-  image: ''
-- name: Marjorie Xie
-  years:
-  - '2022'
-  - '2023'
-  affiliation: Columbia University
-  link: https://www.linkedin.com/in/marjoriexie
-  image: ''
-- name: Grace Lindsay
-  years:
-  - '2019'
-  - '2020'
-  affiliation: Columbia University
-  link: 'https://gracewlindsay.com/'
-  image: ''
-- name: Rich Pang
-  years:
-  - '2019'
-  - '2020'
-  affiliation: University of Washington
-  link: 'https://rkp.science/'
-  image: ''
-- name: Callie Federer
-  years:
-  - '2019'
-  - '2020'
-  affiliation: RadiaSoft, LLC
-  link: 'https://www.linkedin.com/in/callie-federer'
-  image: ''
-- name: Everton Agnes
-  years:
-  - '2020'
-  affiliation: University of Oxford
-  link: 'https://scholar.google.com/citations?user=-jI6Om0AAAAJ&hl=de'
-  image: ''
-- name: Alex Antrobus
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  affiliation: University College London
-  link: https://twitter.com/adantro
-  image: "/images/people/antrobus.jpg"
-- name: William Podlaski
-  years:
-  - '2017'
-  - '2018'
-  - '2019'
-  affiliation: University of Oxford
-  link: https://twitter.com/Bill_P_
-  image: "/images/people/podlaski.jpg"
-- name: Agostina Palmigiano
-  years:
-  - '2018'
-  - '2019'
-  affiliation: Columbia University
-  link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
-  image: "/images/people/palmigiano.jpg"
-- name: Athanasia Papoutsi
-  years:
-  - '2017'
-  - '2018'
-  affiliation: IMBB-FORTH
-  link: https://scholar.google.com/citations?user=fpzwGC8AAAAJ
-  image: ''
-- name: Friedemann Zenke
-  years:
-  - '2018'
-  affiliation: University of Oxford
-  link: https://zenkelab.org/
-  image: "/images/people/zenke.jpg"
-- name: Katharina Wilmes
-  years:
-  - '2018'
-  affiliation: Imperial College London
-  link: https://twitter.com/k47h4
-  image: "/images/people/wilmes.jpg"
-- name: Sina Tootoonian
-  years:
-  - '2017'
-  affiliation: University College London
-  link: https://www.linkedin.com/in/sina-tootoonian-99668838
-  image: "/images/people/tootoonian.jpg"
-- name: Eszter Vértes
-  years:
-  - '2017'
-  affiliation: University College London
-  link: https://twitter.com/esztervertes
-  image: "/images/people/vertes.jpg"
-- name: Merav Stern
-  years:
-  - '2017'
-  affiliation: University of Washington
-  link: https://pages.uoregon.edu/meravs/
-  image: "/images/people/stern.jpg"
+  - name: Dongyan Lin
+    years:
+      - "2023"
+    affiliation: McGill University & Montreal Institute for Learning Algorithms
+    link: https://dongyanl1n.github.io
+  - name: Ilenna Jones
+    years:
+      - "2023"
+    affiliation: University of Pennsylvania
+    link: https://kordinglab.com/people/ilenna_jones/index.html
+  - name: Roy Eyono
+    years:
+      - "2023"
+    affiliation: Montreal Institute for Learning Algorithms
+    link: https://mila.quebec/en/person/roy-eyono/
+  - name: Mohamed Abdelhack
+    years:
+      - "2022"
+      - "2023"
+    affiliation: Krembil Centre for Neuroinformatics
+    link: https://orcid.org/0000-0002-6753-3237
+    image: ""
+  - name: Annik Carson
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation: AI Redefined
+    link: https://annikc.github.io
+    image: ""
+  - name: Spiros Chavlis
+    years:
+      - "2022"
+      - "2023"
+    affiliation: IMBB-FORTH
+    link: http://www.dendrites.gr
+    image: ""
+  - name: Christopher Currin
+    years:
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+    affiliation:
+      "Institute of Science and Technology Austria | Deep Learning Indaba\U0001D54F
+      South Africa"
+    link: https://chriscurrin.com
+    image: ""
+  - name: Nina Kudryashova
+    years:
+      - "2022"
+      - "2023"
+    affiliation: University of Edinburgh
+    link: https://www.research.ed.ac.uk/en/persons/nina-kudryashova
+    image: ""
+  - name: Marjorie Xie
+    years:
+      - "2022"
+    affiliation: Columbia University
+    link: https://www.linkedin.com/in/marjoriexie
+    image: ""
+  - name: Grace Lindsay
+    years:
+      - "2019"
+      - "2020"
+    affiliation: Columbia University
+    link: "https://gracewlindsay.com/"
+    image: ""
+  - name: Rich Pang
+    years:
+      - "2019"
+      - "2020"
+    affiliation: University of Washington
+    link: "https://rkp.science/"
+    image: ""
+  - name: Callie Federer
+    years:
+      - "2019"
+      - "2020"
+    affiliation: RadiaSoft, LLC
+    link: "https://www.linkedin.com/in/callie-federer"
+    image: ""
+  - name: Everton Agnes
+    years:
+      - "2020"
+    affiliation: University of Oxford
+    link: "https://scholar.google.com/citations?user=-jI6Om0AAAAJ&hl=de"
+    image: ""
+  - name: Alex Antrobus
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+    affiliation: University College London
+    link: https://twitter.com/adantro
+    image: "/images/people/antrobus.jpg"
+  - name: William Podlaski
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+    affiliation: University of Oxford
+    link: https://twitter.com/Bill_P_
+    image: "/images/people/podlaski.jpg"
+  - name: Agostina Palmigiano
+    years:
+      - "2018"
+      - "2019"
+    affiliation: Columbia University
+    link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
+    image: "/images/people/palmigiano.jpg"
+  - name: Athanasia Papoutsi
+    years:
+      - "2017"
+      - "2018"
+    affiliation: IMBB-FORTH
+    link: https://scholar.google.com/citations?user=fpzwGC8AAAAJ
+    image: ""
+  - name: Friedemann Zenke
+    years:
+      - "2018"
+    affiliation: University of Oxford
+    link: https://zenkelab.org/
+    image: "/images/people/zenke.jpg"
+  - name: Katharina Wilmes
+    years:
+      - "2018"
+    affiliation: Imperial College London
+    link: https://twitter.com/k47h4
+    image: "/images/people/wilmes.jpg"
+  - name: Sina Tootoonian
+    years:
+      - "2017"
+    affiliation: University College London
+    link: https://www.linkedin.com/in/sina-tootoonian-99668838
+    image: "/images/people/tootoonian.jpg"
+  - name: Eszter Vértes
+    years:
+      - "2017"
+    affiliation: University College London
+    link: https://twitter.com/esztervertes
+    image: "/images/people/vertes.jpg"
+  - name: Merav Stern
+    years:
+      - "2017"
+    affiliation: University of Washington
+    link: https://pages.uoregon.edu/meravs/
+    image: "/images/people/stern.jpg"

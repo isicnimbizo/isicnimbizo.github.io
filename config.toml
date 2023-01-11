@@ -52,7 +52,7 @@ logo = "images/imbizo2017.png"
 phone = ""
 short_title = "#Imbizo"
 theme_color = "#26AE60"
-theme_color_secondary = "#2C3E50"
+theme_color_secondary = "#80b4e8"
 [params.contact]
 enable = true
 floating = true
@@ -61,6 +61,11 @@ homepage = true
 [params.cookies]
 enable = true
 expire_days = 20
+[params.faculty]
+badges = true
+sortby = "max_year" # name, max_year, etc.
+order = "desc" # asc, desc
+show_track = true
 [[params.footermenu.about]]
 link = "about/code-of-conduct"
 name = "Code of Conduct"

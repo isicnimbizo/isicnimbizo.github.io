@@ -1,57 +1,99 @@
 ---
 title: Faculty
 people:
+  - name: Rachael Dangarembizi
+    years:
+      - "2023"
+      - "Biophysics"
+    affiliation: University of Cape Town
+    link: http://www.neuroscience.uct.ac.za/rachael.dangarembizi
+    image: ""
+  - name: Franck Kalume
+    years:
+      - "2023"
+      - "Biophysics"
+    affiliation: University of Washington
+    link: https://neurosurgery.uw.edu/bio/franck-k-kalume-phd
+    image: ""
+  - name: Bard Ermentrout
+    years:
+      - "2023"
+      - "Network Dynamics"
+    affiliation: University of Pittsburgh
+    link: https://www.mathematics.pitt.edu/people/g-bard-ermentrout
+    image: ""
+  - name: Athena Akrami
+    years:
+      - "2023"
+      - "Network Dynamics"
+    affiliation: University College London
+    link: https://www.athenaakrami.org
+    image: ""
   - name: Arif Hamid
     years:
       - "2023"
+      - "Higher Level Function"
     affiliation: University of Minnesota Medical School
     link: https://alleninstitute.org/about/advisors/advisor-profiles/arif-hamid/
   - name: Damian Okaibedi Eke
     years:
       - "2023"
+      - "Higher Level Function"
     link: https://www.dmu.ac.uk/about-dmu/academic-staff/technology/damian-okaibedi-eke/damian-okaibedi-eke.aspx
     affiliation: De Montfort University
   - name: Guillaume Lajoie
     years:
       - "2023"
+      - "Higher Level Function"
     link: https://www.guillaumelajoie.com
     affiliation: University of Montreal & MILA
   - name: Ida Momennejad
     years:
       - "2023"
+      - "Higher Level Function"
     link: https://www.momen-nejad.org
     affiliation: Microsoft Research
   - name: Silke Anders
     years:
       - "2023"
+      - "Higher Level Function"
     link: https://www.researchgate.net/profile/Silke-Anders
     affiliation: Universität zu Lübeck - Clinic for Neurology
-  - name: Bianca Jones Marlin
-    years:
-      - "2023"
-    affiliation: Columbia University
-    link: https://www.biancajonesmarlin.com
-    image: images/people/jonesmarlin.jpg
-  - name: David	Sussillo
-    years:
-      - "2023"
-    affiliation: Google Brain, Stanford University
-    link: https://www.linkedin.com/in/david-sussillo-736a1290/
-    image: images/people/sussillo2.jpg
+  # - name: Bianca Jones Marlin
+  #   years:
+  #     - "2023"
+  #   affiliation: Columbia University
+  #   link: https://www.biancajonesmarlin.com
+  #   image: images/people/jonesmarlin.jpg
+  # - name: David	Sussillo
+  #   years:
+  #     - "2023"
+  #   affiliation: Google Brain, Stanford University
+  #   link: https://www.linkedin.com/in/david-sussillo-736a1290/
+  #   image: images/people/sussillo2.jpg
   - name: Aza Allsop
     years:
       - "2023"
+      - "Machine Learning"
     affiliation: Yale School of Medicine
     link: https://medicine.yale.edu/profile/aza_allsop/
-  - name: Mackenzie Mathis
+  - name: Talia Konkle
+    years: 
+      - "2023"
+      - "Machine Learning"
+    affiliation: Harvard University
+    link: https://psychology.fas.harvard.edu/people/talia-konkle
+    image: "images/people/konkle.jpg"
+  - name: SueYeon	Chung
     years:
       - "2023"
-    affiliation: EPFL
-    link: https://www.mackenziemathislab.org/
+      - "Machine Learning"
+    affiliation: New York University
+    link: https://as.nyu.edu/faculty/sueyeon-chung.html
+    image: "images/people/chung.jpg"
   - name: Cengiz Pehlevan
     years:
       - "2022"
-      - "2023"
     affiliation: SEAS, Harvard University,
     link: pehlevan.seas.harvard.edu
   - name: Tom Mrsic-Flogel
@@ -70,12 +112,12 @@ people:
     years:
       - "2022"
       - "2023"
+      - "Network Dynamics"
     affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
     link: https://www.bi.mpg.de/vallentin
   - name: "Elizabeth\tBuffalo"
     years:
       - "2022"
-      - "2023"
     affiliation: University of Washington
     link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
     image: images/people/buffalo.jpg
@@ -97,14 +139,12 @@ people:
     years:
       - "2020"
       - "2022"
-      - "2023"
     image: ""
   - name: Dorit Hockman
     affiliation: University of Cape Town
     link: http://www.neuroscience.uct.ac.za/dorit_hockman
     years:
       - "2022"
-      - "2023"
     image: ""
   - name: Alex Pouget
     years:
@@ -117,6 +157,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Biophysics"
     affiliation: University of Agder
     link: https://www.linkedin.com/in/tor-stensola-a8b4b494
     image: ""
@@ -124,13 +165,13 @@ people:
     years:
       - "2022"
       - "2023"
+      - "Biophysics"
     affiliation: University of Agder
     link: https://www.uia.no/en/kk/profile/hannesten
     image: images/people/stensola_hanne.jpg
   - name: Xaq Pitkow
     years:
       - "2022"
-      - "2023"
     affiliation: Baylor College of Medicine | Rice University
     link: https://xaqlab.com/
     image: ""
@@ -139,7 +180,6 @@ people:
       - "2018"
       - "2019"
       - "2020"
-      - "2023"
     affiliation: University of Washington
     link: https://fairhalllab.com/
     image: ""
@@ -149,13 +189,13 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Machine Learning"
     affiliation: Harvard University
     link: https://crisp.seas.harvard.edu/
     image: images/people/ba.jpg
   - name: Éric Plourde
     years:
       - "2022"
-      - "2023"
     affiliation: Université de Sherbrooke
     link: https://www.usherbrooke.ca/recherche/specialistes/details/eric.plourde
     image: ""
@@ -165,7 +205,6 @@ people:
       - "2018"
       - "2019"
       - "2020"
-      - "2023"
     affiliation: Google Deep Mind
     link: http://contrastiveconvergence.net/~timothylillicrap/index.php
     image: ""
@@ -177,6 +216,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Biophysics"
     affiliation: University of Cape Town
     link: http://raimondolab.com/
     image: ""
@@ -185,6 +225,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Network Dynamics"
     affiliation: Technical University Berlin
     link: http://sprekelerlab.org
     image: ""
@@ -196,6 +237,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Network Dynamics"
     affiliation: University College London
     link: http://www.gatsby.ucl.ac.uk/~pel/
   - name: Blake Richards
@@ -204,6 +246,7 @@ people:
       - "2019"
       - "2020"
       - "2023"
+      - "Higher Level Function"
     affiliation: MILA
     link: https://www.mcgill.ca/neuro/blake-richards-phd
     image: ""
@@ -215,6 +258,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Higher Level Function"
     affiliation: Institute of Science and Technology Austria
     link: https://vogelslab.org
     image: ""
@@ -222,7 +266,6 @@ people:
     years:
       - "2020"
       - "2022"
-      - "2023"
     affiliation: Simons Foundation
     link: https://www.simonsfoundation.org/team/alyssa-picchini-schaffer-ph-d/
     image: images/people/picchini-schaffer.jpg
@@ -230,7 +273,6 @@ people:
     years:
       - "2020"
       - "2022"
-      - "2023"
     affiliation: Columbia University
     link: http://www.evanschaffer.com
     image: ""
@@ -348,7 +390,8 @@ people:
     link: https://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/
     image: ""
   - name: Emery Brown
-    years: []
+    years: 
+      - "2017"
     affiliation: Harvard University / MIT
     link: http://www.neurostat.mit.edu/home
     image: ""

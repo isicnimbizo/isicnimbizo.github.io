@@ -33,24 +33,21 @@ school:
   - title: Biophysics, Plasticity and Neural Recordings
     content: What makes a neurons special? How do we model them mathematically? How
       do we model synapses and why are they important for neural function? These questions
-      will guide the first part of week 1 at the Imbizo. We will also learn about
+      will guide the first part of the Imbizo. We will also learn about
       cutting-edge techniques used for large-scale neural data recording from world
       experts in patch-clamping techniques and from the NEUROPIXEL project.
     height: 15%
     color: "#AD2F8C"
   - title: Network Dynamics
     content: The functioning of the brain is ultimately an emergent phenomenon; a
-      result of the complex interactions between billions of neurons. In week two
-      we will learn how to model and analyse these dynamic networks, and how biological
+      result of the complex interactions between billions of neurons. We will learn how to model and analyse these dynamic networks, and how biological
       trends like Dale's Law make understanding these system more difficult and fascinating.
     height: 50%
     color: "#26AE60"
   - title: Higher Level Function, Motor Control & Decision Making
     faculty: Peter Latham
-    content: The final week will try to bridge the gap from what we have learnt about
-      the biology and dynamics of brains to what we observe in behaviour. We will
-      also explore how the phenomenon of spiking in neural networks makes implementing
-      some of the ML algorithms and dynamics from week two a lot more challenging.
+    content: This cycle will try to bridge the gap from what we have learnt about
+      the biology and dynamics of brains to what we observe in behaviour.
       We will also learn about cutting-edge research in brain-computer interfacing
       and what this is revealing about how brains work.
     height: 10%
@@ -60,7 +57,7 @@ school:
       us about learning in network architectures and how these artificial systems
       are similar and different to biological neural systems.
     height: 50%
-    color: "#50E3C2"
+    color: "#359680"
 sponsors:
   enable: true
   link_text: view all

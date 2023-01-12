@@ -4,22 +4,26 @@ people:
   - name: Dongyan Lin
     years:
       - "2023"
+      - "Machine Learning"
     affiliation: McGill University & Montreal Institute for Learning Algorithms
     link: https://dongyanl1n.github.io
   - name: Ilenna Jones
     years:
       - "2023"
+      - "Biophysics"
     affiliation: University of Pennsylvania
     link: https://kordinglab.com/people/ilenna_jones/index.html
   - name: Roy Eyono
     years:
       - "2023"
+      - "Higher Level Function"
     affiliation: Montreal Institute for Learning Algorithms
     link: https://mila.quebec/en/person/roy-eyono/
   - name: Mohamed Abdelhack
     years:
       - "2022"
       - "2023"
+      - "Higher Level Function"    
     affiliation: Krembil Centre for Neuroinformatics
     link: https://orcid.org/0000-0002-6753-3237
     image: ""
@@ -28,6 +32,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Machine Learning"
     affiliation: AI Redefined
     link: https://annikc.github.io
     image: ""
@@ -35,6 +40,7 @@ people:
     years:
       - "2022"
       - "2023"
+      - "Network Dynamics"
     affiliation: IMBB-FORTH
     link: http://www.dendrites.gr
     image: ""
@@ -44,6 +50,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "Biophysics"
     affiliation:
       "Institute of Science and Technology Austria | Deep Learning Indaba\U0001D54F
       South Africa"
@@ -53,6 +60,7 @@ people:
     years:
       - "2022"
       - "2023"
+      - "Network Dynamics"
     affiliation: University of Edinburgh
     link: https://www.research.ed.ac.uk/en/persons/nina-kudryashova
     image: ""

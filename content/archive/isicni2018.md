@@ -5,7 +5,7 @@ description = "IBRO-Simons Computational Neuroscience Imbizo 2018"
 end_date = 2018-01-28T23:00:00Z
 image = "/images/archive/imbizo2018header.jpg"
 material_link = "***REMOVED***"
-schedule_link ="https://docs.google.com/document/d/1wYvQP4-HaVI1RVHaXjLTaS8tgV0OQBKJfG_gUewn1S0/edit?usp=sharing"
+schedule_link ="***REMOVED***"
 thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
 [people]

@@ -5,7 +5,7 @@ description = "IBRO-Simons Computational Neuroscience Imbizo 2022"
 end_date = 2022-09-05T23:00:00Z
 image = "/images/archive/imbizo2022header.jpg"
 material_link = "https://drive.google.com/drive/folders/1GNen8m0RB4zXib_O9-Cpy_tkYilheVKD?usp=sharing"
-schedule_link= "https://docs.google.com/document/d/19-pIWkcd4AF04RKOGpist5h0C_vMBs2hJaOtBnHYsDI/edit?usp=sharing"
+schedule_link= "https://docs.google.com/document/d/19-pIWkcd4AF04RKOGpist5h0C_vMBs2hJaOtBnHYsDI?usp=sharing"
 thumbnail = "/images/imbizo2022.png"
 report = "/reports/ImbizoReport2022-min.pdf"
 title = "isiCNI2022"

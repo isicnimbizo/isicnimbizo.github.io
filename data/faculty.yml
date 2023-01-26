@@ -183,16 +183,6 @@ people:
     affiliation: University of Washington
     link: https://fairhalllab.com/
     image: ""
-  - name: Demba Ba
-    years:
-      - "2019"
-      - "2020"
-      - "2022"
-      - "2023"
-      - "Machine Learning"
-    affiliation: Harvard University
-    link: https://crisp.seas.harvard.edu/
-    image: images/people/ba.jpg
   - name: Éric Plourde
     years:
       - "2022"
@@ -208,6 +198,48 @@ people:
     affiliation: Google Deep Mind
     link: http://contrastiveconvergence.net/~timothylillicrap/index.php
     image: ""
+  - name: Henning Sprekeler
+    years:
+      - "2020"
+      - "2022"
+      - "2023"
+      - "Network Dynamics"
+    affiliation: Technical University Berlin
+    link: http://sprekelerlab.org
+    image: ""
+  - name: Demba Ba
+    years:
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+      - "Machine Learning"
+    affiliation: Harvard University
+    link: https://crisp.seas.harvard.edu/
+    image: images/people/ba.jpg
+  - name: Peter Latham
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+      - "Network Dynamics"
+    affiliation: University College London
+    link: http://www.gatsby.ucl.ac.uk/~pel/
+  - name: Tim Vogels
+    years:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+      - "2022"
+      - "2023"
+      - "Higher Level Function"
+    affiliation: Institute of Science and Technology Austria
+    link: https://vogelslab.org
+    image: ""
   - name: Joseph Raimondo
     years:
       - "2017"
@@ -220,26 +252,6 @@ people:
     affiliation: University of Cape Town
     link: http://raimondolab.com/
     image: ""
-  - name: Henning Sprekeler
-    years:
-      - "2020"
-      - "2022"
-      - "2023"
-      - "Network Dynamics"
-    affiliation: Technical University Berlin
-    link: http://sprekelerlab.org
-    image: ""
-  - name: Peter Latham
-    years:
-      - "2017"
-      - "2018"
-      - "2019"
-      - "2020"
-      - "2022"
-      - "2023"
-      - "Network Dynamics"
-    affiliation: University College London
-    link: http://www.gatsby.ucl.ac.uk/~pel/
   - name: Blake Richards
     years:
       - "2018"
@@ -249,18 +261,6 @@ people:
       - "Higher Level Function"
     affiliation: MILA
     link: https://www.mcgill.ca/neuro/blake-richards-phd
-    image: ""
-  - name: Tim Vogels
-    years:
-      - "2017"
-      - "2018"
-      - "2019"
-      - "2020"
-      - "2022"
-      - "2023"
-      - "Higher Level Function"
-    affiliation: Institute of Science and Technology Austria
-    link: https://vogelslab.org
     image: ""
   - name: Alyssa Picchini Schaffer
     years:

@@ -7,6 +7,7 @@ image = "/images/archive/imbizo2022header.jpg"
 material_link = "***REMOVED***"
 schedule_link= "https://docs.google.com/document/d/19-pIWkcd4AF04RKOGpist5h0C_vMBs2hJaOtBnHYsDI/edit?usp=sharing"
 thumbnail = "/images/imbizo2022.png"
+report = "/reports/ImbizoReport2022-min.pdf"
 title = "isiCNI2022"
 [menu.main]
 parent = "archive"

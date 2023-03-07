@@ -14,7 +14,7 @@ people:
   - Machine Learning
   affiliation: University of Pittsburgh
   link: https://www.neuroscience.pitt.edu/people/anne-marie-oswald-phd
-  image: ''
+  image: "/images/people/owald.jpg"
 - name: Rachael Dangarembizi
   years:
   - '2023'
@@ -168,7 +168,6 @@ people:
 - name: Hanne Stensola
   years:
   - '2022'
-  - '2023'
   - Biophysics
   affiliation: University of Agder
   link: https://www.uia.no/en/kk/profile/hannesten

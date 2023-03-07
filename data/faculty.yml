@@ -36,13 +36,13 @@ people:
   affiliation: University of Pittsburgh
   link: https://www.mathematics.pitt.edu/people/g-bard-ermentrout
   image: ''
-- name: Athena Akrami
-  years:
-  - '2023'
-  - Network Dynamics
-  affiliation: University College London
-  link: https://www.athenaakrami.org
-  image: ''
+# - name: Athena Akrami
+#   years:
+#   - '2023'
+#   - Network Dynamics
+#   affiliation: University College London
+#   link: https://www.athenaakrami.org
+#   image: ''
 - name: Arif Hamid
   years:
   - '2023'
@@ -64,13 +64,13 @@ people:
   link: https://www.guillaumelajoie.com
   affiliation: University of Montreal & MILA
   image: ''
-- name: Ida Momennejad
-  years:
-  - '2023'
-  - Higher Level Function
-  link: https://www.momen-nejad.org
-  affiliation: Microsoft Research
-  image: ''
+# - name: Ida Momennejad
+#   years:
+#   - '2023'
+#   - Higher Level Function
+#   link: https://www.momen-nejad.org
+#   affiliation: Microsoft Research
+#   image: ''
 - name: Silke Anders
   years:
   - '2023'

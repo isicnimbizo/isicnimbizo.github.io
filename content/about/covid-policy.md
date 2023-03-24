@@ -15,7 +15,7 @@ All information we provide is subject to change at a moment’s notice. Please c
 
 ### ONSITE COVID POLICY FOR ALL ATTENDEES:
 
-# IMBIZO 2023 Covid Policy
+## IMBIZO 2023 Covid Policy
 
 Spending time together and sharing meals are central to the Imbizo experience. However, these close interactions also increase the risk of rapid COVID-19 transmission among attendees. To protect our small community and prevent an outbreak, we will be taking additional precautions to ensure the comfort and safety of all attendees:
 

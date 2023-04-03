@@ -13,17 +13,17 @@ people:
       - "Biophysics"
     affiliation: University of Pennsylvania
     link: https://kordinglab.com/people/ilenna_jones/index.html
-  - name: Roy Eyono
-    years:
-      - "2023"
-      - "Higher Level Function"
-    affiliation: Montreal Institute for Learning Algorithms
-    link: https://mila.quebec/en/person/roy-eyono/
+  # - name: Roy Eyono
+  #   years:
+  #     - "2023"
+  #     - "Higher Level Function"
+  #   affiliation: Montreal Institute for Learning Algorithms
+  #   link: https://mila.quebec/en/person/roy-eyono/
   - name: Mohamed Abdelhack
     years:
       - "2022"
-      - "2023"
-      - "Higher Level Function"    
+      # - "2023"
+      - "Higher Level Function"
     affiliation: Krembil Centre for Neuroinformatics
     link: https://orcid.org/0000-0002-6753-3237
     image: ""

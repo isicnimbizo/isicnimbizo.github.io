@@ -1,6 +1,13 @@
 ---
 title: Faculty
 people:
+- name: Thijs Verhoog
+  years:
+  - '2023'
+  - Biophysics
+  affiliation: University of Cape Town
+  link: https://www.linkedin.com/in/thijs-verhoog-03672713
+  image: ''
 - name: Brent Doiron
   years:
   - '2023'
@@ -119,7 +126,7 @@ people:
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
   image: ''
-- name: "Elizabeth\tBuffalo"
+- name: "Elizabeth Buffalo"
   years:
   - '2022'
   affiliation: University of Washington
@@ -149,6 +156,8 @@ people:
   link: http://www.neuroscience.uct.ac.za/dorit_hockman
   years:
   - '2022'
+  - '2023'
+  - 'Biophysics'
   image: ''
 - name: Alex Pouget
   years:

@@ -5,16 +5,16 @@ applications:
 - label: Apply now
   open: false
   closed_message: Applications are closed
-  URL: https://forms.gle/4sx9gFu2n54TCPmD6
-  open_date: Sept 2022
-  close_date: 2022-10-31T19:00:00+00:00
-  acceptance_date: December 2022 (approx)
+  URL: https://forms.gle/NYihSBawHsRPHjBbA
+  open_date: end June 2023
+  close_date: 2023-08-18T19:00:00+02:00
+  acceptance_date: October 2023 (approx)
   heading: ''
-show_period: false
+show_period: True
 period_text: Application period
-applications_open_date: September 2022
-applications_close_date: '2022-10-20T21:00:00.000+00:00'
-acceptance_date: December 2022 (approx)
+applications_open_date: end June 2023
+applications_close_date: '2023-08-18T19:00:00+02:00'
+acceptance_date: October 2023 (approx)
 target_applicants:
   enable: false
   title: Who should apply?

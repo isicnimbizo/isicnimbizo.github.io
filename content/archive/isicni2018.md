@@ -8,6 +8,8 @@ material_link = "https://drive.google.com/drive/folders/1GGG_gzSa5KDqUgZer4PBuj8
 schedule_link ="https://docs.google.com/document/d/1wYvQP4-HaVI1RVHaXjLTaS8tgV0OQBKJfG_gUewn1S0?usp=sharing"
 thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
+[menu.main]
+parent = "archive"
 [people]
 title = "Students"
 [[people.item]]
@@ -104,9 +106,6 @@ image = "/images/archive/2018/students/stiaan_wiehman.jpg"
 name = "Young Wook Lyoo"
 image = "/images/archive/2018/students/young_wook_lyoo.jpg"
 
-[menu.main]
-parent = "archive"
-weight = "2"
 
 +++
 

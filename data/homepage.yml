@@ -1,7 +1,9 @@
 ---
 banner:
   title: IBRO-Simons Computational Neuroscience Imbizo
-  min_header_height: 80vh
+  logo: "/images/imbizo_invert.png"
+  logo_size: 200rem
+  min_header_height: 0vh
   show_date: true
   show_address: true
   opacity: 80

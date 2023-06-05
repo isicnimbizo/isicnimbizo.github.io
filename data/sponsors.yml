@@ -18,11 +18,11 @@ sponsors:
   - tier: Donors
     size: 80
     item:
-      - name: Google
-        image: images/partners/google_logo_small.png
-        link: https://google.com/
+      - name: Google DeepMind
+        image: images/partners/deepmind.svg
+        link: https://www.deepmind.com
         current: true
-        background_color: ""
+        # background_color: "#0053d6"
       - name: Wellcome
         image: images/partners/wellcome-logo-white.png
         link: https://wellcome.org/

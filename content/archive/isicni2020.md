@@ -10,7 +10,6 @@ thumbnail = "/images/imbizo2020.png"
 title = "isiCNI2020"
 [menu.main]
 parent = "archive"
-weight = 4
 [people]
 title = "students"
 [[people.item]]

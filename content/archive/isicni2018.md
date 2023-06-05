@@ -8,6 +8,8 @@ material_link = "***REMOVED***"
 schedule_link ="***REMOVED***"
 thumbnail = "/images/imbizo2018.png"
 title = "isiCNI2018"
+[menu.main]
+parent = "archive"
 [people]
 title = "Students"
 [[people.item]]
@@ -104,9 +106,6 @@ image = "/images/archive/2018/students/stiaan_wiehman.jpg"
 name = "Young Wook Lyoo"
 image = "/images/archive/2018/students/young_wook_lyoo.jpg"
 
-[menu.main]
-parent = "archive"
-weight = "2"
 
 +++
 

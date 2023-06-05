@@ -9,7 +9,6 @@ thumbnail = "/images/archive/covid.jpg"
 title = "isiCNI2021"
 [menu.main]
 parent = "archive"
-weight = "5"
 
 +++
 # #isiCNI2021

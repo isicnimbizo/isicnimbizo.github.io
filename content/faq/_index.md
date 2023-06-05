@@ -58,7 +58,7 @@ Students are required to attend and actively participate in the entire course, i
 
 #### **How much is the course fee?** {.ti-credit-card}
 
-Course fee for 2023 is **€ 1200.** The actual cost of a single course fee amounts to around €5000 per person
+Course fee for 2023 is **€ 1350.** The actual cost of a single course fee amounts to around €5000 per person
 
 #### **What does the course fee include?** {.ti-folder}
 
@@ -116,7 +116,7 @@ Delicious and nutritious breakfast, lunch and dinner will be served each day, st
 
 #### **What is the accommodation set up?** {.ti-headphone}
 
-In the spirit of Imbizo and togetherness, accommodation is in shared dorm rooms where you may be sharing with up to 3 other people of the same gender. Most of the bedrooms are en suite but two rooms make use of a general shared bathroom in the corridor. Bedding and towels are provided by the venue. Sleeping in dorm style accommodation can take some getting used to and you may find your sleep patterns will need some tweaking. Some students have benefitted from bringing ear plugs with them
+In the spirit of Imbizo and togetherness, accommodation is in shared dorm rooms where you may be sharing with up to 3 other people of the same gender. Most of the bedrooms are en suite but two rooms make use of a general shared bathroom in the corridor. Bedding and towels are provided by the venue. Sleeping in dorm style accommodation can take some getting used to and you may find your sleep patterns will need some tweaking. Some students have benefitted from bringing ear plugs with them. Students are not permitted to stay off site at an Airbnb or Guesthouse or at a family home. Students  who accept their place on Imbizo agree to adhere to these accommodation conditions.
 
 #### **What facilities are available at/close to the venue?** {.ti-car}
 

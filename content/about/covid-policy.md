@@ -1,14 +1,15 @@
-+++
-date = 2022-06-24T09:00:00Z
-description = "COVID Policy"
-image = "/images/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg"
-min_header_height = "20em"
-title = "COVID Policy"
-[menu.main]
-parent = "about"
-weight = 3
+---
+date: 2022-06-24T09:00:00.000Z
+description: COVID Policy
+image: /images/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg
+min_header_height: 20em
+title: COVID Policy
+menu:
+  main:
+    parent: about
+    weight: 3
+---
 
-+++
 As is the nature of COVID19, regulations within each country change all the time, sometimes with short notice. The onus is on the attendee to ensure that they have all the correct passport, health and visa requirements as required by their home country and South Africa.
 
 All information we provide is subject to change at a moment’s notice. Please check again a week before your departure if anything has changed. For information on health, passport, visa requirements, the passenger can check on [www.traveldoc.aero](www.traveldoc.aero) or [https://www.joinsherpa.com/](https://www.joinsherpa.com/ "https://www.joinsherpa.com/") or the airline website or the relevant country’s government website.

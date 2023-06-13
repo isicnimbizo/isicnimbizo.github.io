@@ -3,20 +3,20 @@ link: "/apply"
 info_link_label: Application info
 applications:
 - label: Apply now
-  open: false
+  open: true
   closed_message: Applications are closed
   URL: https://forms.gle/NYihSBawHsRPHjBbA
-  open_date: end June 2023
-  close_date: 2023-08-18T19:00:00+02:00
-  acceptance_date: October 2023 (approx)
+  open_date: mid June 2023
+  close_date: 2023-07-11T19:00:00+02:00
+  acceptance_date: August 2023 (approx)
   heading: ''
 show_period: True
 period_text: Application period
-applications_open_date: end June 2023
-applications_close_date: '2023-08-18T19:00:00+02:00'
-acceptance_date: October 2023 (approx)
+applications_open_date: mid June 2023
+applications_close_date: 2023-07-11T19:00:00+02:00
+acceptance_date: August 2023 (approx)
 target_applicants:
-  enable: false
+  enable: true
   title: Who should apply?
   content: 'The school is aimed at students who are completing their masters or beginning
     their doctoral studies, though well motivated and advanced undergraduates or postdoctoral

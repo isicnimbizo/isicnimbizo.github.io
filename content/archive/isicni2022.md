@@ -2,7 +2,7 @@
 categories:
   - Team House
   - Noordhoek
-date: 2022-08-12T23:00:00.000
+date: 2022-08-12T23:00:00.000Z
 description: IBRO-Simons Computational Neuroscience Imbizo 2022
 end_date: 2022-09-05T23:00:00.000Z
 image: /images/archive/imbizo2022header.jpg

@@ -1,6 +1,6 @@
 ---
 title: Simons Trust Imbizo Follow Up Grant
-date: 2022-05-06
+date: 2023-06-14
 description: STIFUG
 image: https://images.unsplash.com/photo-1645217925673-b36ba69814ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=95
 thumbnail: "/images/partners/simons.jpg"
@@ -14,7 +14,7 @@ faq:
     answer: To help past alumni with any endeavours that will grow African capacity
       in Computational Neuroscience.
   - question: How do I apply?
-    answer: Fill in the [application form](https://forms.gle/K45kPNYuKP5iP3Z36) before
+    answer: Fill in the [application form](https://forms.gle/amx1i9ANhfk3U6ZeA) before
       the deadline date
     icon: ti-marker-alt
   - question: When can I apply?
@@ -60,23 +60,24 @@ faq:
     icon: ti-info
 
 ---
+
 _STIFUG awards are supported by the Simons Foundation_
 
 ***
 
 ### 2022 Application round closing dates
 
-> Applications are open throughout the year, but specific closing dates apply
+> Applications are open throughout the year, but specific closing dates apply. Applications submitted after closing dates will be reviewed in the next cycle.  Applications submitted after 1 December 2023 may only be reviewed in early 2024.
 
-* Application round 1:    1 June 2022 (closed)
-* Application round 2:    30 October 2022 (closed)
-* Application round 3:    30 November 2022
+* Application round 1: 1 August 2023
+* Application round 2: 1 October 2023
+* Application round 3: 1 December 2023
 
 <!--  -->
 
 {{< rawhtml >}}
 <br>
-<a class="btn btn-outline-primary" href="https://forms.gle/K45kPNYuKP5iP3Z36" target="_blank" title="apply now">Application form</a>
+<a class="btn btn-outline-primary" href="https://forms.gle/amx1i9ANhfk3U6ZeA" target="_blank" title="apply now">Application form</a>
 {{< /rawhtml >}}
 
 ***

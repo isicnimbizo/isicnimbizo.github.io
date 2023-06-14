@@ -65,7 +65,7 @@ _STIFUG awards are supported by the Simons Foundation_
 
 ***
 
-### 2022 Application round closing dates
+### Application round closing dates
 
 > Applications are open throughout the year, but specific closing dates apply. Applications submitted after closing dates will be reviewed in the next cycle.  Applications submitted after 1 December 2023 may only be reviewed in early 2024.
 

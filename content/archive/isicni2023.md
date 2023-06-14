@@ -15,13 +15,62 @@ menu:
   main:
     parent: archive
     # weight: 6
-# people:
-#   item:
-#     - name: Amr Farahat
-#       image: /images/archive/2022/students/Amr.jpg
-#     - name: Amr Farahat
-#       image: /images/archive/2022/students/Amr.jpg
-    
+people:
+  item:
+    - name: Abdel
+      image: /images/archive/2023/students/Abdel.png  
+    - name: Alaa
+      image: /images/archive/2023/students/Alaa.png  
+    - name: Baliqis
+      image: /images/archive/2023/students/Baliqis.png  
+    - name: Carlos
+      image: /images/archive/2023/students/Carlos.png  
+    - name: Chinagorom
+      image: /images/archive/2023/students/Chinagorom.png  
+    - name: Cyril
+      image: /images/archive/2023/students/Cyril.png  
+    - name: Fidelis
+      image: /images/archive/2023/students/Fidelis.png  
+    - name: Gertrude
+      image: /images/archive/2023/students/Gertrude.png  
+    - name: Isaac
+      image: /images/archive/2023/students/Isaac.png  
+    - name: Jane
+      image: /images/archive/2023/students/Jane.png 
+    - name: Jesus
+      image: /images/archive/2023/students/Jesus.png  
+    - name: Kyra
+      image: /images/archive/2023/students/Kyra.png  
+    - name: Lisa
+      image: /images/archive/2023/students/Lisa.png  
+    - name: Lucia
+      image: /images/archive/2023/students/Lucia.png  
+    - name: Lukas
+      image: /images/archive/2023/students/Lukas.png  
+    - name: Maria
+      image: /images/archive/2023/students/Maria.png  
+    - name: Mohab
+      image: /images/archive/2023/students/Mohab.png  
+    - name: Mostafa
+      image: /images/archive/2023/students/Mostafa.png  
+    - name: Naoyuki
+      image: /images/archive/2023/students/Naoyuki.png  
+    - name: Nilesh
+      image: /images/archive/2023/students/Nilesh.png  
+    - name: Nischal
+      image: /images/archive/2023/students/Nischal.png  
+    - name: Sagel
+      image: /images/archive/2023/students/Sagel.png  
+    - name: Sam
+      image: /images/archive/2023/students/Sam.png  
+    - name: Shanice
+      image: /images/archive/2023/students/Shanice.png  
+    - name: Siobhan
+      image: /images/archive/2023/students/Siobhan.png  
+    - name: Torick
+      image: /images/archive/2023/students/Torick.png  
+    - name: Zina
+      image: /images/archive/2023/students/Zina.png
 
 ---
 

@@ -62,6 +62,7 @@ school:
     color: "#359680"
 sponsors:
   enable: true
+  show_all: true
   link_text: view all
 faculty:
   enable: true

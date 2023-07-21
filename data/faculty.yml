@@ -92,7 +92,7 @@ people:
   affiliation: Yale School of Medicine
   link: https://medicine.yale.edu/profile/aza_allsop/
   image: ''
-- name: "SueYeon\tChung"
+- name: "SueYeon Chung"
   years:
   - '2023'
   - Machine Learning
@@ -102,7 +102,7 @@ people:
 - name: Cengiz Pehlevan
   years:
   - '2022'
-  affiliation: SEAS, Harvard University,
+  affiliation: SEAS, Harvard University
   link: pehlevan.seas.harvard.edu
   image: ''
 - name: Tom Mrsic-Flogel

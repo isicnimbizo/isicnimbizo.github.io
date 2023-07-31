@@ -1,6 +1,13 @@
 ---
 title: Teaching assistants
 people:
+  - name: Laura Naumann
+    years:
+      - "2024"
+      - "Network Dynamics"
+    affiliation: Institute of Science and Technology Austria
+    link: https://www.linkedin.com/in/laura-bella-naumann-b090a6136/
+    image: ""
   - name: Dongyan Lin
     years:
       - "2023"
@@ -10,6 +17,7 @@ people:
   - name: Ilenna Jones
     years:
       - "2023"
+      - "2024"
       - "Biophysics"
     affiliation: University of Pennsylvania
     link: https://kordinglab.com/people/ilenna_jones/index.html
@@ -22,7 +30,7 @@ people:
   - name: Mohamed Abdelhack
     years:
       - "2022"
-      # - "2023"
+      - "2024"
       - "Higher Level Function"
     affiliation: Krembil Centre for Neuroinformatics
     link: https://orcid.org/0000-0002-6753-3237
@@ -40,6 +48,7 @@ people:
     years:
       - "2022"
       - "2023"
+      - "2024"
       - "Network Dynamics"
     affiliation: IMBB-FORTH
     link: http://www.dendrites.gr
@@ -50,6 +59,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
+      - "2024"
       - "Biophysics"
     affiliation:
       "Institute of Science and Technology Austria | Deep Learning Indaba\U0001D54F
@@ -60,6 +70,7 @@ people:
     years:
       - "2022"
       - "2023"
+      - "2024"
       - "Network Dynamics"
     affiliation: University of Edinburgh
     link: https://www.research.ed.ac.uk/en/persons/nina-kudryashova

@@ -8,11 +8,14 @@ banner:
   show_address: true
   opacity: 80
   cta:
-    enable: false
+    enable: true
     item:
-    - title: Apply now
-      URL: "/apply"
-      color: ''
+    - title: "FAQ"
+      URL: "/faq"
+      color: '#ffffff'
+    # - title: Apply now
+    #   URL: "/apply"
+    #   color: ''
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The

@@ -37,7 +37,8 @@ Imbizo will not be testing attendees.  You are encouraged to bring your own home
 
 We encourage everyone to sanitize and wash hands thoroughly and often.
 
-Access to medical care
+## Access to medical care
+
 Although South Africa has a wide range of living standards, most visitors experience high standard medical care comparable to first world nations. South Africans use both the national public health system and private medical practitioners.
 
 Our onsite team will assist with making doctors appointments and take you to the doctor  should the need arise.

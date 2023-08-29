@@ -50,6 +50,7 @@ All Imbizo attendees are required to have their own travel & medical insurance t
 You can purchase single trip travel insurance policies online prior to departure.  You are required to send proof of your travel insurance to <isicn.imbizo.planning@gmail.com> as soon as possible.
 
 Attendees in the past have bought cover from many different companies, including Allianz Global Insurance and Travel Guard by AIG*
+
 *Please note Imbizo has no affiliation with the above mentioned providers and this is a suggestion.
 
 ## Access to a pharmacy

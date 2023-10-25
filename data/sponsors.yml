@@ -1,6 +1,6 @@
 ---
-title: Sponsors
-show_names: true
+title: "Partners & Funders"
+show_names: false
 sponsors:
   - tier: Partners
     size: 100
@@ -85,7 +85,7 @@ sponsors:
         link: https://trendinafrica.org
         background_color: ""
       - name: IBRO African Center for Advanced Training in Neurosciences at UCT
-        current: true
+        current: false
         image: ""
         link: https://ibro.org/africa-advanced-training/
         background_color: ""

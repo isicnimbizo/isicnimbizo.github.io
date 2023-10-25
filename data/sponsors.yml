@@ -28,8 +28,13 @@ sponsors:
         link: https://wellcome.org/
         current: true
         background_color: ""
+      - name: Meta
+        image: images/partners/meta_logo.png
+        link: https://meta.com/
+        current: true
+        background_color: ""
   - tier: Supporters
-    size: 50
+    size: 75
     item:
       - name: CoE-MaSS
         image: images/partners/coe-mass.jpg
@@ -59,6 +64,11 @@ sponsors:
         current: true
         image: "images/partners/ista.png"
         background_color: ""
+      - name: Harvard University
+        image: images/partners/harvard.png
+        link: https://www.harvard.edu
+        current: true
+        background_color: ""
       - name: Gastby Institute
         image: images/partners/gatsby.png
         link: https://www.ucl.ac.uk/gatsby/
@@ -70,7 +80,7 @@ sponsors:
         current: true
         background_color: ""
       - name: TReND in Africa
-        image: images/partners/trend.png
+        image: images/partners/trend.jpg
         current: true
         link: https://trendinafrica.org
         background_color: ""

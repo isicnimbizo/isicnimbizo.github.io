@@ -1,6 +1,45 @@
 ---
 title: Faculty
 people:
+- name: Annik Carson
+  years:
+  - '2024'
+  - Machine Learning
+  affiliation: AI Redefined
+  link: https://annikc.github.io
+  image: ''
+- name: Pedro Gonçalves 
+  years:
+  - '2024'
+  - Machine Learning
+  link: https://ppjgoncalves.github.io
+  affiliation: Neuro-Electronics Research Flanders (NERF)
+  image: '/images/people/goncalves.jpg'
+- name: Andrew Saxe
+  years: 
+  - '2024'
+  - Machine Learning
+  affiliation: University College London
+  link: https://www.saxelab.org
+- name: Andre Fenton
+  years:
+  - '2024'
+  - Network Dynamics
+  affiliation: New York University
+  link: https://as.nyu.edu/faculty/andre-fenton.html
+- name: Jakob Macke
+  years:
+  - '2024'
+  - Machine Learning
+  affiliation: University of Tübingen
+  link: https://www.mackelab.org
+- name: Athena Akrami
+  years:
+  - '2024'
+  - Higher Level Function
+  affiliation: University College London
+  link: https://www.lim.bio
+  image: ''
 - name: Thijs Verhoog
   years:
   - '2023'
@@ -25,10 +64,12 @@ people:
 - name: Rachael Dangarembizi
   years:
   - '2023'
+  - '2024'
   - Biophysics
   affiliation: University of Cape Town
   link: http://www.neuroscience.uct.ac.za/rachael.dangarembizi
   image: ''
+
 - name: Franck Kalume
   years:
   - '2023'
@@ -39,6 +80,7 @@ people:
 - name: Bard Ermentrout
   years:
   - '2023'
+  - '2024'
   - Network Dynamics
   affiliation: University of Pittsburgh
   link: https://www.mathematics.pitt.edu/people/g-bard-ermentrout
@@ -53,7 +95,8 @@ people:
 - name: Arif Hamid
   years:
   - '2023'
-  - Higher Level Function
+  - '2024'
+  - Biophysics
   affiliation: University of Minnesota Medical School
   link: https://alleninstitute.org/about/advisors/advisor-profiles/arif-hamid/
   image: ''
@@ -122,6 +165,7 @@ people:
   years:
   - '2022'
   - '2023'
+  - '2024'
   - Network Dynamics
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
@@ -150,6 +194,8 @@ people:
   years:
   - '2020'
   - '2022'
+  - '2024'
+  - 'Biophysics'
   image: ''
 - name: Dorit Hockman
   affiliation: University of Cape Town
@@ -184,6 +230,7 @@ people:
 - name: Xaq Pitkow
   years:
   - '2022'
+  - '2024'
   affiliation: Baylor College of Medicine | Rice University
   link: https://xaqlab.com/
   image: ''
@@ -215,6 +262,7 @@ people:
   - '2020'
   - '2022'
   - '2023'
+  - '2024'
   - Network Dynamics
   affiliation: Technical University Berlin
   link: http://sprekelerlab.org
@@ -225,6 +273,7 @@ people:
   - '2020'
   - '2022'
   - '2023'
+  - '2024'
   - Machine Learning
   affiliation: Harvard University
   link: https://crisp.seas.harvard.edu/
@@ -237,7 +286,8 @@ people:
   - '2020'
   - '2022'
   - '2023'
-  - Network Dynamics
+  - '2024'
+  - Higher Level Function
   affiliation: University College London
   link: http://www.gatsby.ucl.ac.uk/~pel/
   image: ''
@@ -249,7 +299,8 @@ people:
   - '2020'
   - '2022'
   - '2023'
-  - Higher Level Function
+  - '2024'
+  - Network Dynamics
   affiliation: Institute of Science and Technology Austria
   link: https://vogelslab.org
   image: ''
@@ -261,6 +312,7 @@ people:
   - '2020'
   - '2022'
   - '2023'
+  - '2024'
   - Biophysics
   affiliation: University of Cape Town
   link: http://raimondolab.com/

@@ -66,6 +66,7 @@ school:
 sponsors:
   enable: true
   show_all: true
+  headings: false
   link_text: view all
 faculty:
   enable: true

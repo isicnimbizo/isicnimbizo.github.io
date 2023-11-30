@@ -12,4 +12,4 @@ link: https://biaswatchneuro.com/bwn-award/
 
 ...
 
-> Two other nominations that we’d like to recognize with honorable mentions are **NeuroMatch Academy (NMA)** and the **IBRO-SIMONS Computational Neuroscience Imbizo**. These summer schools did not fall under this year’s call for nominations, which was intended for programs that support long-term training and research, however, their contribution to increasing diversity in neuroscience is commendable.
+> Two other nominations that we’d like to recognize with honorable mentions are **NeuroMatch Academy (NMA)** and the **Computational Neuroscience Imbizo**. These summer schools did not fall under this year’s call for nominations, which was intended for programs that support long-term training and research, however, their contribution to increasing diversity in neuroscience is commendable.

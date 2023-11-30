@@ -1,23 +1,23 @@
 ---
 date: 2021-09-21T22:00:00.000Z
-description: We are looking for teaching assistants for the IBRO-Simons
-  Computational Neuroscience Imbizo (#isiCNI), a computational neuroscience
+description: We are looking for teaching assistants for the Computational Neuroscience Imbizo (#Imbizo), a computational neuroscience
   summer school held in Cape Town, South Africa.
 image: ""
 min_header_height: ""
 title: Call for Teaching Assistants for the Cape Town Imbizo
+draft: true
 ---
-We are looking for teaching assistants for the IBRO-Simons Computational Neuroscience Imbizo (#isiCNI), a computational neuroscience summer school held in Cape Town, South Africa.
+We are looking for teaching assistants for the Computational Neuroscience Imbizo (#Imbizo), a computational neuroscience summer school held in Cape Town, South Africa.
 
-We are looking for post-doctoral or advanced PhD researchers to join our team as Teaching Assistants (TAs) for the #isiCNI2022 in August 2022.  Please send your application to [isicn.imbizo@gmail.com](mailto:isicn.imbizo@gmail.com "isicn.imbizo@gmail.com"). Include 1) CV and a 2) cover letter with a short motivational statement for why you would be a good fit, and what your favourite topics would be for teaching tutorials and supervising student projects. Additionally, 3) please provide the email address of one reference.
+We are looking for post-doctoral or advanced PhD researchers to join our team as Teaching Assistants (TAs) for the #Imbizo2022 in August 2022.  Please send your application to [isicn.imbizo@gmail.com](mailto:isicn.imbizo@gmail.com "isicn.imbizo@gmail.com"). Include 1) CV and a 2) cover letter with a short motivational statement for why you would be a good fit, and what your favourite topics would be for teaching tutorials and supervising student projects. Additionally, 3) please provide the email address of one reference.
 
 **We will start assessing applications on 11 October 2021.**
 
 **About the Imbizo:**
 
-The school hosts 31 students for an amazing 25 days of lectures, tutorials, projects and parties. All this takes place on Noordhoek beach, between the mountain and the ocean. It's a spectacular location. The dates for the isiCNI2022 are August 11th to September 4th 2022.
+The school hosts 31 students for an amazing 25 days of lectures, tutorials, projects and parties. All this takes place on Noordhoek beach, between the mountain and the ocean. It's a spectacular location. The dates for the Imbizo2022 are August 11th to September 4th 2022.
 
-The Imbizo is a special experience, with students being totally immersed in academic, social, touristic and cultural activities, and has resulted in student and TA groups from previous schools becoming very close, personally and scientifically. This is fantastic, as a major goal of the isiCNI project is to help young African researchers grow their academic peer and friend group.
+The Imbizo is a special experience, with students being totally immersed in academic, social, touristic and cultural activities, and has resulted in student and TA groups from previous schools becoming very close, personally and scientifically. This is fantastic, as a major goal of the Imbizo project is to help young African researchers grow their academic peer and friend group.
 
 **About being a TA:**
 
@@ -49,10 +49,8 @@ A call for student application will follow soon. We hope to hear from you soon! 
 
 Thanks and regards
 
-Demba Ba, Peter E. Latham, Joseph Raimondo, Emma Vaughan, and Tim Vogels
+Computational Neuroscience Imbizo Committee
 
-IBRO-Simons Computational Neuroscience Imbizo Committee 2022
-
-\#isicni2022
+\#Imbizo
 
 Twitter: [@isicni](https://twitter.com/isiCNI)

@@ -1,4 +1,4 @@
-# [IBRO-Simons Computational Neuroscience Imbizo](https://imbizo.africa)
+# [Computational Neuroscience Imbizo](https://imbizo.africa)
 
 Website of the best\* neuroscience summer school.
 

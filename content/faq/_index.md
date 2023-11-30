@@ -9,13 +9,13 @@ min_header_height: 40em
 
 ## {{<icon "ti-info">}}  General {.project-meta}
 
-####  **What is Computational Neuroscience?** {.ti-hand-point-up}
+#### **What is Computational Neuroscience?** {.ti-hand-point-up}
 
 Computational neuroscience is a rapidly expanding subject focused on understanding and modeling the brain, while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local applicants under the tutelage of world-leading experts in the field.
 
 #### **What is Imbizo?** {.ti-bolt-alt}
 
-Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The IBRO-Simons Computational Neuroscience Imbizo, or isiCNI is exactly that: an opportunity for African and international applicants to learn about cutting edge research techniques in computational neuroscience
+Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The Computational Neuroscience Imbizo is exactly that: an opportunity for African and international applicants to learn about cutting edge research techniques in computational neuroscience
 
 #### **How long has Imbizo been running?** {.ti-pencil-alt2}
 

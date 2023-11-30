@@ -26,7 +26,7 @@ faq:
     icon: ti-lock
   - question: How many times can I apply in total?
     answer: You can apply each funding cycle (i.e. once per year).  However preference
-      will be given to isiCNI alumni applying for the first time.
+      will be given to Imbizo alumni applying for the first time.
     icon: ti-reload
   - question: How much can I apply for?
     answer: There is no maximum, but, as the funds are limited, we don’t usually give

@@ -1,6 +1,6 @@
 ---
 banner:
-  title: IBRO-Simons Computational Neuroscience Imbizo
+  title: Computational Neuroscience Imbizo
   logo: "/images/imbizo_invert.png"
   logo_size: 200rem
   min_header_height: 0vh
@@ -19,7 +19,7 @@ banner:
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
-    *IBRO-Simons Computational Neuroscience Imbizo*, or _isiCNI_ is exactly that:
+    *Computational Neuroscience Imbizo* is exactly that:
     an opportunity for African and international students to learn about cutting edge
     research techniques in [computational neuroscience](/faq).'
   show_application_info: true
@@ -29,11 +29,13 @@ school:
     school_start_date: 2024-01-07T07:00:00.000+00:00
     school_end_date: 2024-01-28T07:00:00.000+00:00
   show_faculty: true
-  content: The school will consist of four 5-day work weeks with 1 day off in-between.
-    Each week will be focused on one of the themes appearing below. Your day off will
-    be spent exploring some of the beautiful wonders around Cape Town. Each workday
-    will consist of lectures in the morning, followed by either further lectures/practical
-    tutorials in the afternoons.
+  content: The school will consist of 3 cycles. 
+   Cycle 1 will be 7 days long with 1 day off on day 4 work. 
+   Cycle 2 and 3 will consist of 5 work days with 1 day off in-between. 
+   Each week will be focused on one of the themes appearing below. 
+   Your day off will be spent exploring some of the beautiful wonders around Cape Town. 
+   Each workday will consist of lectures in the morning, 
+   followed by either further lectures/practical tutorials in the afternoons.
   item:
   - title: Biophysics, Plasticity and Neural Recordings
     content: What makes a neurons special? How do we model them mathematically? How

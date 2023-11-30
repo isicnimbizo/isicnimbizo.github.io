@@ -53,4 +53,4 @@ Computational Neuroscience Imbizo Committee
 
 \#Imbizo
 
-Twitter: [@isicni](https://twitter.com/isiCNI)
+Twitter: [@CompNeuroImbizo](https://twitter.com/CompNeuroImbizo)

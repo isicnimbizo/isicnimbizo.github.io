@@ -2,8 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "imbizo-website-base"
-title = "#Imbizo - Computational Neuroscience Imbizo"
 timeZone = "Africa/Johannesburg"
+title = "#Imbizo - Simons Computational Neuroscience Imbizo"
 [[menu.main]]
 URL = "apply"
 identifier = "apply"
@@ -44,7 +44,7 @@ address = "Noordhoek, Cape Town, South Africa"
 author = "Christopher Currin"
 copyright = "Copyright &copy; Imbizo"
 decor = false
-description = "Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
+description = "Simons Computational Neuroscience Imbizo summer school in Cape Town, South Africa"
 email = "isicn.imbizo@gmail.com"
 google_analytics_id = "G-E72QV81MH4"
 home = "Home"
@@ -63,10 +63,10 @@ homepage = true
 enable = true
 expire_days = 20
 [params.faculty]
-badges = true
-sortby = "max_year" # name, max_year, etc.
+badges = true 
 order = "desc" # asc, desc
-show_track = true
+show_track = true 
+sortby = "max_year" # name, max_year, etc.
 [[params.footermenu.about]]
 link = "about/code-of-conduct"
 name = "Code of Conduct"

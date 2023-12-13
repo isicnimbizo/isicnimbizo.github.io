@@ -11,7 +11,7 @@ sponsors:
         background_color: "#fff"
         current: true
       - name: International Brain Research Organization
-        image: images/partners/logo_ibro.jpg
+        image: images/partners/ibro.png
         link: https://ibro.org/
         background_color: "#fff"
         current: true

@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Computational Neuroscience Imbizo
+  title: Simons Computational Neuroscience Imbizo
   logo: "/images/imbizo_invert.png"
   logo_size: 200rem
   min_header_height: 0vh
@@ -19,7 +19,7 @@ banner:
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
-    *Computational Neuroscience Imbizo* is exactly that:
+    *Simons Computational Neuroscience Imbizo* is exactly that:
     an opportunity for African and international students to learn about cutting edge
     research techniques in [computational neuroscience](/faq).'
   show_application_info: true

@@ -1,6 +1,27 @@
 ---
 title: Faculty
 people:
+- name: Paul Amayo
+  years: 
+  - '2024'
+  - Machine Learning
+  affiliation: University of Cape Town
+  link: https://ebe.uct.ac.za/department-electrical-engineering/contacts/paul-amayo
+  image: ''
+- name: Stefanie Liebe
+  years: 
+  - '2024'
+  - Higher Level Function
+  affiliation: Eberhard Karls University Tübingen
+  link: https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2335
+  image: ''
+- name: Ulrich Paquet
+  years: 
+  - '2024'
+  - 'Machine Learning'
+  affiliation: AIMS, DeepMind, Deep Learning Indaba
+  link: https://aims.ac.za/researcher/dr-ulrich-paquet/
+  image: ''
 - name: Annik Carson
   years:
   - '2024'
@@ -231,7 +252,8 @@ people:
   years:
   - '2022'
   - '2024'
-  affiliation: Baylor College of Medicine | Rice University
+  - 'Machine Learning'
+  affiliation: Carnegie Mellon University
   link: https://xaqlab.com/
   image: ''
 - name: Adrienne Fairhall

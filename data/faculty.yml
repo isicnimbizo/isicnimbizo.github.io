@@ -54,13 +54,13 @@ people:
   - Machine Learning
   affiliation: University of Tübingen
   link: https://www.mackelab.org
-- name: Athena Akrami
-  years:
-  - '2024'
-  - Higher Level Function
-  affiliation: University College London
-  link: https://www.lim.bio
-  image: ''
+# - name: Athena Akrami
+#   years:
+#   - '2024'
+#   - Higher Level Function
+#   affiliation: University College London
+#   link: https://www.lim.bio
+#   image: ''
 - name: Thijs Verhoog
   years:
   - '2023'

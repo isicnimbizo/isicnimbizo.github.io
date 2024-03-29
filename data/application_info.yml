@@ -44,7 +44,7 @@ target_applicants:
       If you already have a strong background in Computational Neuroscience or Machine
       Learning, perhaps you would be better suited as a Teaching Assistant?
 team:
-  enable: false
+  enable: true
   title: Organising committee
   team_member:
   - title: Demba Ba

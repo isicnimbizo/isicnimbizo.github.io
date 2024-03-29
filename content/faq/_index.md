@@ -19,7 +19,7 @@ Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The Computa
 
 #### **How long has Imbizo been running?** {.ti-pencil-alt2}
 
-The first Imbizo was held in January 2017 in Muizenberg, Cape Town.  2023 will be the 6th Imbizo, as the 2021 Imbizo was postponed during the COVID19 global shutdown.
+The first Imbizo was held in January 2017 in Muizenberg, Cape Town. 2025 will be the 8th Imbizo, as the 2021 Imbizo was postponed during the COVID19 global shutdown.
 
 #### **Who should apply?** {.ti-clip}
 
@@ -35,13 +35,13 @@ Post-doctoral researcher in Machine Learning: This school will be most beneficia
 
 ## {{<icon "ti-info">}}  Dates, Location and Schedule {.project-meta}
 
-#### **When is Imbizo 2023?** {.ti-alarm-clock}
+#### **When is Imbizo 2025?** {.ti-alarm-clock}
 
-Arrival day: Sunday 7th January 2024
+Arrival day: Sunday 12th January 2025
 
-Imbizo dates: Monday 8th January to Saturday 27th January 2024
+Imbizo dates: Monday 13th January to Saturday 1st February 2025
 
-Departure day: Sunday 28th January
+Departure day: Sunday 2nd February
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 
@@ -59,7 +59,7 @@ Applicants are required to attend and actively participate in the entire course,
 
 #### **How much is the course fee?** {.ti-credit-card}
 
-Course fee for 2023 is **€ 1350.** The actual cost of a single course fee amounts to around €5000 per person
+Course fee for 2025 is **€ 1,450.** The actual cost of a single course fee amounts to around €5000 per person
 
 #### **What does the course fee include?** {.ti-folder}
 
@@ -81,7 +81,7 @@ Yes! Thanks to our generous sponsors, significant financial assistance is availa
 
 #### **What types of scholarships are there?** {.ti-game}
 
-1. _Full Scholarship_ includes a waived course fee (€ 1350) and your economy class travel to Cape Town, which will be booked by the Imbizo
+1. _Full Scholarship_ includes a waived course fee (€ 1,450) and your economy class travel to Cape Town, which will be booked by the Imbizo
 2. _Partial Scholarship_ includes a waived course fee and a set financial contribution towards your travel costs (paid after arrival in Cape Town). The amount will vary on a case by case basis.
 3. _Course Scholarship_ include a waived course fee but you will be responsible to book and pay for your own travel costs to Cape Town
 
@@ -89,7 +89,7 @@ Yes! Thanks to our generous sponsors, significant financial assistance is availa
 
 #### **Who books my flight to Cape Town?** {.ti-map-alt}
 
-Flights for applicants who are awarded a full scholarship will be booked and paid for by the Imbizo.  All other applicants are required to book, manage and pay for their own travel expenses. For applicants booking their own travel we suggest booking flights early as availability to Cape Town can be limited. Applicants booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town
+Flights for applicants who are awarded a full scholarship will be booked and paid for by the Imbizo.  All other applicants are required to book, manage and pay for their own travel expenses. For applicants booking their own travel we suggest booking flights early as availability to Cape Town can be limited. Applicants booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town.
 
 #### **What about visas?** {.ti-wand}
 

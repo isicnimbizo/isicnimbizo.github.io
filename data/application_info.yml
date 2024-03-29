@@ -6,22 +6,22 @@ applications:
   open: false
   closed_message: Applications are closed
   URL: https://forms.gle/NYihSBawHsRPHjBbA
-  open_date: mid June 2023
-  close_date: 2023-07-18T19:00:00+02:00
-  acceptance_date: Sept 2023 (approx)
-  heading: 'Imbizo 2024'
+  open_date: end of April 2024
+  close_date: 2024-06-30T19:00:00+02:00
+  acceptance_date: mid August 2024 (approx)
+  heading: 'Imbizo 2025'
 show_period: false
 period_text: Application period
-applications_open_date: mid June 2023
-applications_close_date: 2023-07-18T19:00:00+02:00
-acceptance_date: Sept 2023 (approx)
+applications_open_date: end of April 2024
+applications_close_date: 2024-06-30T19:00:00+02:00
+acceptance_date: mid August 2024 (approx.)
 target_applicants:
   enable: true
   title: Who should apply?
   content: 'The school is aimed at students who are completing their masters or beginning
     their doctoral studies, though well motivated and advanced undergraduates or postdoctoral
     students should also apply. Students should have a good quantitative background:
-    e.g. 2nd year university level experience in physics, engineering, statistics
+    e.g., 2nd year university level experience in physics, engineering, statistics
     or computer science, etc. Experimental neuroscientists with some quantitative/coding
     experience who think the imbizo with strengthen these skills should also apply.
     All students should have some experience writing code.'
@@ -50,21 +50,18 @@ team:
   - title: Demba Ba
     image: "/images/people/ba2.jpg"
     designation: Harvard University
-  - title: Christopher Currin
-    image: images/people/currin2.png
-    designation: Institute of Science and Technology Austria
+  - title: Arif Hamid
+    image: images/people/hamid.png
+    designation: University of Minnesota
   - title: Peter Latham
     image: images/people/latham3.png
     designation: University College London
-  - title: Joseph Raimondo
-    image: images/people/raimondo2.jpg
-    designation: University of Cape Town
+  - title: Spiros Chavlis
+    image: images/people/chavlis.jpg
+    designation: Foundation for Research and Technology-Hellas
   - title: Emma Vaughan
     image: images/people/emma.jpg
     designation: Imbizo Logistics
-  - title: Tim Vogels
-    image: images/people/vogels2.jpg
-    designation: Institute of Science and Technology Austria
 faq:
   enable: false
   title: Frequently asked questions

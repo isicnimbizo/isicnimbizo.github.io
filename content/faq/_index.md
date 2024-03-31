@@ -15,7 +15,7 @@ Computational neuroscience is a rapidly expanding subject focused on understandi
 
 #### **What is Imbizo?** {.ti-bolt-alt}
 
-Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The Computational Neuroscience Imbizo is exactly that: an opportunity for African and international applicants to learn about cutting edge research techniques in computational neuroscience
+Imbizo is a Xhosa word meaning “a gathering to share knowledge”. The Computational Neuroscience Imbizo is exactly that: an opportunity for African and international applicants to learn about cutting-edge research techniques in computational neuroscience.
 
 #### **How long has Imbizo been running?** {.ti-pencil-alt2}
 
@@ -23,11 +23,11 @@ The first Imbizo was held in January 2017 in Muizenberg, Cape Town. 2025 will be
 
 #### **Who should apply?** {.ti-clip}
 
-The school is aimed at applicants who are completing their masters or beginning their doctoral studies, though well motivated and advanced undergraduates or postdoctoral applicants should also apply. Applicants should have a good quantitative background: e.g. 2nd year university level experience in physics, engineering, statistics or computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the imbizo will strengthen these skills should also apply. All applicants should have some experience writing code.
+The school is aimed at applicants who are completing their masters or beginning their doctoral studies, though well motivated and advanced undergraduates or postdoctoral applicants should also apply. Applicants should have a good quantitative background: e.g., 2nd year university level experience in physics, engineering, statistics or computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the imbizo will strengthen these skills should also apply. All applicants should have some experience writing code.
 
 #### **What level of applicants can apply?** {.ti-crown}
 
-MSc Physics student: Has a bachelors in physical sciences (e.g. physics / statistics / mathematics / computer science). Has taken 1st-year level courses in biology / electives in psychology, etc.
+MSc Physics student: Has a bachelors in physical sciences (e.g., physics / statistics / mathematics / computer science). Has taken 1st-year level courses in biology / electives in psychology, etc.
 
 PhD Neuroscience candidate: Has a bachelors in biological science, has completed 2nd-year level courses in statistics / applied mathematics / bioinformatics. Now in Masters/PhD. Has some experience writing code.
 
@@ -89,7 +89,7 @@ Yes! Thanks to our generous sponsors, significant financial assistance is availa
 
 #### **Who books my flight to Cape Town?** {.ti-map-alt}
 
-Flights for applicants who are awarded a full scholarship will be booked and paid for by the Imbizo.  All other applicants are required to book, manage and pay for their own travel expenses. For applicants booking their own travel we suggest booking flights early as availability to Cape Town can be limited. Applicants booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town.
+Flights for applicants who are awarded a full scholarship will be booked and paid for by the Imbizo.  All other applicants are required to book, manage and pay for their own travel expenses. For applicants booking their own travel, we suggest booking flights early, as availability to Cape Town can be limited. Applicants booking their own travel will be required to send a copy of their e-ticket to the Imbizo Committee no less than 8 weeks prior to arrival in Cape Town.
 
 #### **What about visas?** {.ti-wand}
 
@@ -101,7 +101,7 @@ The Imbizo acknowledges that the visa application process can be a tricky one an
 
 **Be aware that a visa can take a few months to apply for and receive - apply as soon as you are accepted**
 
-The Imbizo is not a visa or travel agency and does not have connections with SA Embassies in the various countries. Responsibility remains on the student to find out their individual visa requirements by contacting the SA Embassy in the country they live in. Applicants must keep the Imbizo Committee up to date of the status of their visa application at all times.
+The Imbizo is not a visa or travel agency and does not have connections with SA Embassies in the various countries. Responsibility remains on the student to find out their individual visa requirements by contacting the SA Embassy in the country they live in. Applicants must keep the Imbizo Committee up to date on the status of their visa application at all times.
 
 The Imbizo is aware that some countries are part of the new e-visa program rolled out by the SA Dept Home Affairs. Unfortunately this system **does not work**, and we must request that _all applicants apply in person_ at the SA Embassy in the country they live in. If you have any questions please contact us directly to discuss.
 
@@ -117,8 +117,8 @@ Delicious and nutritious breakfast, lunch and dinner will be served each day, st
 
 #### **What is the accommodation set up?** {.ti-headphone}
 
-In the spirit of Imbizo and togetherness, accommodation is in shared dorm rooms where you may be sharing with up to 3 other people of the same gender. Most of the bedrooms are en suite but two rooms make use of a general shared bathroom in the corridor. Bedding and towels are provided by the venue. Sleeping in dorm style accommodation can take some getting used to and you may find your sleep patterns will need some tweaking. Some applicants have benefitted from bringing ear plugs with them. Applicants are not permitted to stay off site at an Airbnb or Guesthouse or at a family home. Applicants  who accept their place on Imbizo agree to adhere to these accommodation conditions.
+In the spirit of Imbizo and togetherness, accommodation is in shared dorm rooms where you may be sharing with up to 3 other people of the same gender. Most of the bedrooms are en suite but two rooms make use of a general shared bathroom in the corridor. Bedding and towels are provided by the venue. Sleeping in dorm style accommodation can take some getting used to and you may find your sleep patterns will need some tweaking. Some applicants have benefitted from bringing earplugs with them. Applicants are not permitted to stay off-site at an Airbnb or Guesthouse or at a family home. Applicants  who accept their place on Imbizo agree to adhere to these accommodation conditions.
 
 #### **What facilities are available at/close to the venue?** {.ti-car}
 
-The Team House is a large basic guesthouse with fast internet, multiple outdoor areas including a sea facing terrace and garden and quiet lounge areas where you can relax. Noordhoek is a quiet suburb with no shops within walking distance. The Imbizo provides a regular shuttle service (1-2 times per week) to the nearby shopping mall so you will be able to buy or replace anything you run out of or forgot to bring. The mall has a pharmacy/drugstore, a huge grocery store, clothing shops, cellular network shops, ATMs etc. A complimentary laundry service will be provided for all applicants and TAs once a week.
+The Team House is a large basic guesthouse with fast internet, multiple outdoor areas including a sea-facing terrace and garden, and quiet lounge areas where you can relax. Noordhoek is a quiet suburb with no shops within walking distance. The Imbizo provides a regular shuttle service (1-2 times per week) to the nearby shopping mall so you will be able to buy or replace anything you run out of or forgot to bring. The mall has a pharmacy/drugstore, a huge grocery store, clothing shops, cellular network shops, ATMs, etc. A complimentary laundry service will be provided for all applicants and TAs once a week.

@@ -30,7 +30,7 @@ school:
     school_end_date: 2025-02-02T07:00:00.000+00:00
   show_faculty: true
   content: The school will consist of 3 cycles. 
-   Cycle 1, 2, and 3 will consist of 6 working days with 1 day off in-between. 
+   Cycle 1, 2, and 3 will consist of 6 working days with 1 day off in between. 
    Each week will be focused on one of the themes appearing below. 
    Your day off will be spent exploring some of the beautiful wonders around Cape Town. 
    Each workday will consist of lectures in the morning, 
@@ -52,7 +52,7 @@ school:
     color: "#26AE60"
   - title: Higher Level Function, Motor Control & Decision Making
     faculty: Peter Latham
-    content: This cycle will try to bridge the gap from what we have learnt about
+    content: This cycle will try to bridge the gap from what we have learned about
       the biology and dynamics of brains to what we observe in behaviour.
       We will also learn about cutting-edge research in brain-computer interfacing
       and what this is revealing about how brains work.

@@ -19,9 +19,9 @@ target_applicants:
   enable: true
   title: Who should apply?
   content: 'The school is aimed at students who are completing their masters or beginning
-    their doctoral studies, though well motivated and advanced undergraduates or postdoctoral
+    their doctoral studies, though well-motivated and advanced undergraduates or postdoctoral
     students should also apply. Students should have a good quantitative background:
-    e.g., 2nd year university level experience in physics, engineering, statistics
+    e.g., 2nd year university-level experience in physics, engineering, statistics
     or computer science, etc. Experimental neuroscientists with some quantitative/coding
     experience who think the imbizo with strengthen these skills should also apply.
     All students should have some experience writing code.'
@@ -29,7 +29,7 @@ target_applicants:
   item:
   - title: MSc Physics student
     icon: images/icons/icon-1.png
-    content: Has a bachelors in physical sciences (e.g. physics / statistics / mathematics
+    content: Has a bachelors in physical sciences (e.g., physics / statistics / mathematics
       / computer science). Has taken 1st-year level courses in biology / electives
       in psychology, etc.
   - title: PhD Neuroscience candidate
@@ -40,7 +40,7 @@ target_applicants:
   - title: Post-doctoral researcher in Machine Learning
     icon: images/icons/icon-3.png
     content: This school will be most beneficial for postgraduate students and postdocs
-      who want to fast track their education in the quantitative aspects of neuroscience.
+      who want to fast-track their education in the quantitative aspects of neuroscience.
       If you already have a strong background in Computational Neuroscience or Machine
       Learning, perhaps you would be better suited as a Teaching Assistant?
 team:
@@ -69,7 +69,7 @@ faq:
   item:
   - question: What is computational neuroscience?
     answer: Computational neuroscience is a rapidly expanding subject focussed on
-      understanding and modeling the brain, while helping to designing and interpret
+      understanding and modeling the brain, while helping to design and interpret
       future experiments. This school aims to promote computational neuroscience in
       Africa by bringing together international and local students under the tutelage
       of world-leading experts in the field.
@@ -78,7 +78,7 @@ faq:
     answer: The social interactions and community ethos define the Imbizo (it's in
       the name!), so isolating yourself the entire time will not work. Having said
       that, we all have our own "social energy" quota and as such understand that
-      some personal time is important too. Whether on the beach or in your room, there
+      some personal time is important, too. Whether on the beach or in your room, there
       will be moments for reflection. We do expect, however, for you to engage in
       the planned social activities which occur 3-4 times per week.
   - question: I'm not sure if I'm a good fit for the school, should I still apply?
@@ -90,8 +90,8 @@ faq:
     answer: Yes, all students will be working hard on their projects and taking part
       in many social activities with each other and the faculty. For this reason,
       all students will be required to stay in the student accommodation, attend all
-      meals and activities etc. This also means costs are essentially the same for
+      meals and activities, etc. This also means costs are essentially the same for
       all students. Note though that bursaries and travel grants will be provided
       to as many students as possible, on a basis of need and merit. In your application,
-      specify what financial contribution you can make and be sure to request financial
+      specify what financial contribution you can make, and be sure to request financial
       assistance where asked.

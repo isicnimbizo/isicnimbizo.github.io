@@ -18,14 +18,14 @@ faq:
       the deadline date
     icon: ti-marker-alt
   - question: When can I apply?
-    answer: Applications are open throughout the year but cut off dates for each round
+    answer: Applications are open throughout the year but cut-off dates for each round
       do apply.
     icon: ti-calendar
   - question: How many times can I apply per year?
     answer: Once
     icon: ti-lock
   - question: How many times can I apply in total?
-    answer: You can apply each funding cycle (i.e. once per year).  However preference
+    answer: You can apply each funding cycle (i.e. once per year). However, preference
       will be given to Imbizo alumni applying for the first time.
     icon: ti-reload
   - question: How much can I apply for?
@@ -49,13 +49,13 @@ faq:
     icon: ti-na
   - question: How do I get the funding?
     answer: It will be paid into your bank account once all necessary documents have
-      been provided by you.  These typically include a  copy of passport and a completed
-      invoice (we will give you a template). It can take upto 5 weeks for funding
+      been provided by you.  These typically include a copy of passport and a completed
+      invoice (we will give you a template). It can take up to 5 weeks for funding
       to reach some bank accounts.
     icon: ti-id-badge
-  - question: What is a Post funding report?
+  - question: What is a Post-funding report?
     answer: We ask you to please send us a summary **within 6 months** of receiving
-      the funding.  We use your report to update Simons, who provide the funds for
+      the funding.  We use your report to update Simons, who provides the funds for
       this grant.
     icon: ti-info
 
@@ -67,11 +67,11 @@ _STIFUG awards are supported by the Simons Foundation_
 
 ### Application round closing dates
 
-> Applications are open throughout the year, but specific closing dates apply. Applications submitted after closing dates will be reviewed in the next cycle.  Applications submitted after 1 December 2023 may only be reviewed in early 2024.
+> Applications are open throughout the year, but specific closing dates apply. Applications submitted after closing dates will be reviewed in the next cycle.
 
-* Application round 1: 1 August 2023
-* Application round 2: 1 October 2023
-* Application round 3: 1 December 2023
+* Application round 1: 15 April 2024
+* Application round 2: 15 May 2024
+* Application round 3: 15 June 2024
 
 <!--  -->
 

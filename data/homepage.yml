@@ -20,7 +20,7 @@ about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The
     *Simons Computational Neuroscience Imbizo* is exactly that:
-    an opportunity for African and international students to learn about cutting edge
+    an opportunity for African and international students to learn about cutting-edge
     research techniques in [computational neuroscience](/faq).'
   show_application_info: true
 school:
@@ -37,7 +37,7 @@ school:
    followed by either further lectures/practical tutorials in the afternoons.
   item:
   - title: Biophysics, Plasticity and Neural Recordings
-    content: What makes a neurons special? How do we model them mathematically? How
+    content: What makes neurons special? How do we model them mathematically? How
       do we model synapses and why are they important for neural function? These questions
       will guide the first part of the Imbizo. We will also learn about
       cutting-edge techniques used for large-scale neural data recording from world
@@ -47,7 +47,7 @@ school:
   - title: Network Dynamics
     content: The functioning of the brain is ultimately an emergent phenomenon; a
       result of the complex interactions between billions of neurons. We will learn how to model and analyse these dynamic networks, and how biological
-      trends like Dale's Law make understanding these system more difficult and fascinating.
+      trends like Dale's Law make understanding these systems more difficult and fascinating.
     height: 50%
     color: "#26AE60"
   - title: Higher Level Function, Motor Control & Decision Making

@@ -10,9 +10,11 @@ banner:
   cta:
     enable: true
     item:
-    - title: "FAQ"
-      URL: "/faq"
-      color: '#ffffff'
+    - title: "Apply now to be a TA"
+      URL: "/ta-application"
+    # - title: "FAQ"
+    #   URL: "/faq"
+      # color: '#ffffff'
     # - title: Apply now
     #   URL: "/apply"
     #   color: ''

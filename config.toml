@@ -5,6 +5,11 @@ theme = "imbizo-website-base"
 timeZone = "Africa/Johannesburg"
 title = "#Imbizo - Simons Computational Neuroscience Imbizo"
 [[menu.main]]
+URL = "ta-application"
+identifier = "ta-application"
+name = "TA Applications"
+weight = 1
+[[menu.main]]
 URL = "apply"
 identifier = "apply"
 name = "Apply"

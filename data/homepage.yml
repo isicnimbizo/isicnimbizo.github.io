@@ -61,9 +61,10 @@ school:
     height: 10%
     color: "#FA6F1E"
   - title: Machine Learning
-    content: We will also learn what the modern field of machine learning can teach
-      us about learning in network architectures and how these artificial systems
-      are similar and different to biological neural systems.
+    content: Biological and artificial systems have at least three things in common: 1) They sense "the world", 
+    2) turn data from the senses into representations, 3) useful for accomplishing tasks/goals. 
+    This week will explore guiding principles for how to design modern artificial systems (neural networks, machine learning algorithms), 
+    with an emphasis on how biological/biophysical principles can inform this process.
     height: 50%
     color: "#359680"
 sponsors:

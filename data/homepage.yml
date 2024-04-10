@@ -62,9 +62,9 @@ school:
     color: "#FA6F1E"
   - title: Machine Learning
     content: 'Biological and artificial systems have at least three things in common: 1) They sense "the world", 
-    '2) turn data from the senses into representations, 3) useful for accomplishing tasks/goals. '
-    'This week will explore guiding principles for how to design modern artificial systems (neural networks, machine learning algorithms), '
-    'with an emphasis on how biological/biophysical principles can inform this process.'
+    2) turn data from the senses into representations, 3) useful for accomplishing tasks/goals. 
+    This week will explore guiding principles for how to design modern artificial systems (neural networks, machine learning algorithms), 
+    with an emphasis on how biological/biophysical principles can inform this process.'
     height: 50%
     color: "#359680"
 sponsors:

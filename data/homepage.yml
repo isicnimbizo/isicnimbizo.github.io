@@ -9,9 +9,9 @@ banner:
   opacity: 80
   cta:
     enable: true
-    item:
-    - title: "Apply now to be a TA"
-      URL: "/ta-application"
+    item: []
+    # - title: "Apply now to be a TA"
+    #   URL: "/ta-application"
     # - title: "FAQ"
     #   URL: "/faq"
       # color: '#ffffff'

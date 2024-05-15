@@ -6,15 +6,15 @@ applications:
   open: false
   closed_message: Applications are closed
   URL: https://forms.gle/NYihSBawHsRPHjBbA
-  open_date: end of April 2024
-  close_date: 2024-06-30T19:00:00+02:00
-  acceptance_date: mid August 2024 (approx)
+  open_date: June 2024
+  close_date: 2024-08-30T19:00:00+02:00
+  acceptance_date: mid-September 2024 (approx)
   heading: 'Imbizo 2025'
 show_period: false
 period_text: Application period
-applications_open_date: end of April 2024
-applications_close_date: 2024-06-30T19:00:00+02:00
-acceptance_date: mid August 2024 (approx.)
+applications_open_date: June 2024
+applications_close_date: 2024-08-30T19:00:00+02:00
+acceptance_date: mid-September 2024 (approx)
 target_applicants:
   enable: true
   title: Who should apply?

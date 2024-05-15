@@ -12,7 +12,7 @@ We are looking for teaching assistants for the Simons Computational Neuroscience
 We are looking for post-doctoral or advanced PhD researchers to join our team as Teaching Assistants (TAs) for the Imbizo in January 2025. Please apply by clicking the button below:
 
 {{<rawhtml>}}
-<a href="https://forms.gle/3gtjEbMU7m3muNFa7" target="_blank" class="btn btn-primary btn-lg col-12">Apply to be a Teaching Assistant</a>
+TA applications for 2025 have been closed
 {{< /rawhtml >}}
 
 Before you apply, you should have the following documents/information ready:

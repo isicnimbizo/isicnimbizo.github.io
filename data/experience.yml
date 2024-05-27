@@ -2,10 +2,6 @@
 title: Organising committee
 item:
 item:
-  - name: Demba Ba
-    image: "/images/people/ba2.jpg"
-    affiliation: Harvard University
-    link: https://crisp.seas.harvard.edu/
   - name: Arif Hamid
     image: images/people/hamid.jpg
     affiliation: University of Minnesota
@@ -14,6 +10,9 @@ item:
     image: images/people/latham3.png
     affiliation: University College London
     link: http://www.gatsby.ucl.ac.uk/~pel/
+  - title: Xaq Pitkow
+    image: images/people/pitkow.jpg
+    designation: Carnegie Mellon University
   - name: Spiros Chavlis
     image: images/people/chavlis.jpg
     affiliation: IMBB-FORTH

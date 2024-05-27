@@ -12,7 +12,8 @@ item:
     link: http://www.gatsby.ucl.ac.uk/~pel/
   - title: Xaq Pitkow
     image: images/people/pitkow.jpg
-    designation: Carnegie Mellon University
+    affiliation: Carnegie Mellon University
+    link: https://xaqlab.com/
   - name: Spiros Chavlis
     image: images/people/chavlis.jpg
     affiliation: IMBB-FORTH

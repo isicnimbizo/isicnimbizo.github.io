@@ -10,7 +10,7 @@ item:
     image: images/people/latham3.png
     affiliation: University College London
     link: http://www.gatsby.ucl.ac.uk/~pel/
-  - title: Xaq Pitkow
+  - name: Xaq Pitkow
     image: images/people/pitkow.jpg
     affiliation: Carnegie Mellon University
     link: https://xaqlab.com/

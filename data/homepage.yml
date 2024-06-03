@@ -15,9 +15,9 @@ banner:
     # - title: "FAQ"
     #   URL: "/faq"
       # color: '#ffffff'
-    - title: Apply now
-      URL: "/apply"
-      color: ''
+    # - title: Apply now
+    #   URL: "/apply"
+    #   color: ''
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The

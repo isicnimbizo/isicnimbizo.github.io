@@ -3,8 +3,8 @@ link: "/apply"
 info_link_label: Application info
 applications:
 - label: Apply now
-  open: true
-  closed_message: Student applications are open
+  open: false
+  closed_message: Student applications will open soon
   URL: https://forms.gle/CVZBeABQzkZLj3xR9
   open_date: June 2024
   close_date: 2024-07-24T20:00:00+02:00

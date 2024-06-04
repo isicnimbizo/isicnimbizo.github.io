@@ -16,11 +16,11 @@ people:
     link: https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en
     image: ""
   - name: Will Dorrell
-    years: https://www.williamdorrell.co.uk/
+    years:
       - "2025"
       - "Machine Learning"
     affiliation: University College London, UK
-    link:
+    link: https://www.williamdorrell.co.uk/
     image: ""
   - name: Laura Naumann
     years:

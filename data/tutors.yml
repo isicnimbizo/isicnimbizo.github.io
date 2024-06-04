@@ -1,6 +1,27 @@
 ---
 title: Teaching assistants
 people:
+  - name: Samar Elsheikh
+    years:
+      - "2025"
+      - "Biophysics"
+    affiliation: Center for Addiction and Mental Health, Canada
+    link: https://pgxrc.ca/
+    image: ""
+  - name: Kira Duesterwald
+    years:
+      - "2025"
+      - "Network Dynamics"
+    affiliation: University College London, UK
+    link:
+    image: ""
+  - name: Will Dorrell
+    years:
+      - "2025"
+      - "Machine Learning"
+    affiliation: University College London, UK
+    link:
+    image: ""
   - name: Laura Naumann
     years:
       - "2024"
@@ -54,7 +75,7 @@ people:
       - "2025"
       - "Network Dynamics"
     affiliation: IMBB-FORTH
-    link: http://www.dendrites.gr
+    link: https://www.dendrites.gr
     image: ""
   - name: Christopher Currin
     years:

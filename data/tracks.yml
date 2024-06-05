@@ -1,8 +1,6 @@
 tracks:
-  - name: Biophysics
+  - name: Biophysics & Network Dynamics
     color: "#AD2F8C"
-  - name: Network Dynamics
-    color: "#E2BA40"
   - name: Higher Level Function
     color: "#FA6F1E"
   - name: Neuro AI

@@ -18,7 +18,7 @@ people:
   - name: Will Dorrell
     years:
       - "2025"
-      - "Machine Learning"
+      - "Neuro AI"
     affiliation: University College London, UK
     link: https://www.williamdorrell.co.uk/
     image: ""
@@ -33,7 +33,7 @@ people:
     years:
       - "2023"
       - "2025"
-      - "Machine Learning"
+      - "Neuro AI"
     affiliation: McGill University & Montreal Institute for Learning Algorithms
     link: https://dongyanl1n.github.io
   - name: Ilenna Jones
@@ -44,12 +44,6 @@ people:
       - "Biophysics"
     affiliation: Harvard University
     link: https://kordinglab.com/people/ilenna_jones/index.html
-  # - name: Roy Eyono
-  #   years: 
-  #     - "2023"
-  #     - "Higher Level Function"
-  #   affiliation: Montreal Institute for Learning Algorithms
-  #   link: https://mila.quebec/en/person/roy-eyono/
   - name: Mohamed Abdelhack
     years:
       - "2022"
@@ -63,7 +57,7 @@ people:
       - "2020"
       - "2022"
       - "2023"
-      - "Machine Learning"
+      - "Neuro AI"
     affiliation: AI Redefined
     link: https://annikc.github.io
     image: ""
@@ -159,6 +153,7 @@ people:
     years:
       - "2017"
       - "2018"
+      - "Biophysics"
     affiliation: IMBB-FORTH
     link: https://scholar.google.com/citations?user=fpzwGC8AAAAJ
     image: ""

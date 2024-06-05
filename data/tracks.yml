@@ -1,9 +1,7 @@
 tracks:
-  - name: Biophysics
+  - name: Molecules to Behavior
     color: "#AD2F8C"
-  - name: "Network Dynamics"
-    color: "#156135"
   - name: Higher Level Function
     color: "#FA6F1E"
-  - name: Machine Learning
+  - name: Neuroinspired AI
     color: "#359680"

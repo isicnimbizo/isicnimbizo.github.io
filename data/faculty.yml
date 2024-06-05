@@ -57,7 +57,7 @@ people:
 - name: Thijs Verhoog
   years:
   - "2023"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Cape Town
   link: https://www.linkedin.com/in/thijs-verhoog-03672713
   image: ''
@@ -79,14 +79,14 @@ people:
   years:
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Cape Town
   link: http://www.neuroscience.uct.ac.za/rachael.dangarembizi
   image: ''
 - name: Franck Kalume
   years:
   - "2023"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Washington
   link: https://neurosurgery.uw.edu/bio/franck-k-kalume-phd
   image: ''
@@ -94,7 +94,7 @@ people:
   years:
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: University of Pittsburgh
   link: https://www.mathematics.pitt.edu/people/g-bard-ermentrout
   image: ''
@@ -103,7 +103,7 @@ people:
   - "2023"
   - "2024"
   - '2025'
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Minnesota Medical School
   link: https://alleninstitute.org/about/advisors/advisor-profiles/arif-hamid/
   image: ''
@@ -166,14 +166,14 @@ people:
   - "2022"
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
   link: https://www.bi.mpg.de/vallentin
   image: ''
 - name: Elizabeth Buffalo
   years:
   - "2022"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: University of Washington
   link: https://depts.washington.edu/mbwc/about/profile/elizabeth-buffalo1
   image: images/people/buffalo.jpg
@@ -198,7 +198,7 @@ people:
   - "2020"
   - "2022"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   image: ''
 - name: Dorit Hockman
   affiliation: University of Cape Town
@@ -206,7 +206,7 @@ people:
   years:
   - "2022"
   - "2023"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   image: ''
 - name: Alex Pouget
   years:
@@ -220,14 +220,14 @@ people:
   - "2020"
   - "2022"
   - "2023"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Agder
   link: https://www.linkedin.com/in/tor-stensola-a8b4b494
   image: ''
 - name: Hanne Stensola
   years:
   - "2022"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Agder
   link: https://www.uia.no/en/kk/profile/hannesten
   image: images/people/stensola_hanne.jpg
@@ -272,7 +272,7 @@ people:
   - "2022"
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Technical University Berlin
   link: http://sprekelerlab.org
   image: ''
@@ -310,7 +310,7 @@ people:
   - "2022"
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Institute of Science and Technology Austria
   link: https://vogelslab.org
   image: ''
@@ -323,7 +323,7 @@ people:
   - "2022"
   - "2023"
   - "2024"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Cape Town
   link: http://raimondolab.com/
   image: ''
@@ -355,7 +355,7 @@ people:
 - name: Eve Marder
   years:
   - "2020"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Brandeis University
   link: https://blogs.brandeis.edu/marderlab/
   image: ''
@@ -372,7 +372,7 @@ people:
   - "2018"
   - "2019"
   - "2020"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Weizmann Institute of Science
   link: http://www.weizmann.ac.il/home/bnmisha/
   image: ''
@@ -388,7 +388,7 @@ people:
   - "2017"
   - "2018"
   - "2019"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: EPFL
   link: http://bluebrain.epfl.ch/page-59360-en.html
   image: ''
@@ -396,7 +396,7 @@ people:
   years:
   - "2019"
   - "2020"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: IMBB-FORTH
   link: http://www.dendrites.gr/en/demory-221/people-242
   image: ''
@@ -404,14 +404,14 @@ people:
   years:
   - "2018"
   - "2019"
-  - "Biophysics & Network Dynamics"
+  - "Higher Level Functions"
   affiliation: Carnegie Mellon University
   link: https://users.ece.cmu.edu/~byronyu/
   image: ''
 - name: Andrew Trevelyan
   years:
   - "2019"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Newcastle University
   link: https://www.ncl.ac.uk/ion/staff/profile/andrewtrevelyan.html
   image: ''
@@ -426,7 +426,7 @@ people:
 - name: Ila Fiete
   years:
   - "2019"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University of Texas
   link: http://clm.utexas.edu/fietelab/
   image: ''
@@ -434,14 +434,14 @@ people:
   years:
   - "2018"
   - "2019"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: University College London
   link: http://www.dendrites.org/
   image: ''
 - name: Marlene Behrmann
   years:
   - "2018"
-  - "Biophysics & Network Dynamics"
+  - "Higher Level Functions"
   affiliation: Carnegie Mellon University
   link: http://www.cmu.edu/dietrich/behrmannlab/
   image: ''
@@ -449,7 +449,7 @@ people:
   years:
   - "2017"
   - "2018"
-  - "Biophysics & Network Dynamics"
+  - "Network Dynamics"
   affiliation: Cambridge University
   link: http://www3.eng.cam.ac.uk/~ml468/
   image: ''
@@ -457,7 +457,7 @@ people:
   years:
   - "2017"
   - "2018"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: IMBB-FORTH
   link: http://www.imbb.forth.gr/en/research-en/neurosciences/item/73-panayiota-poirazi
   image: ''
@@ -471,7 +471,7 @@ people:
 - name: Rajnish Ranjan
   years:
   - "2017"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: EPFL
   link: http://bluebrain.epfl.ch/page-59361-en.html
   image: ''
@@ -485,7 +485,7 @@ people:
 - name: Emery Brown
   years:
   - "2017"
-  - "Biophysics & Network Dynamics"
+  - "Biophysics"
   affiliation: Harvard University / MIT
   link: http://www.neurostat.mit.edu/home
   image: ''

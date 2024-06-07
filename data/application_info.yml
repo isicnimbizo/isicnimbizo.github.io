@@ -3,8 +3,8 @@ link: "/apply"
 info_link_label: Application info
 applications:
 - label: Apply now
-  open: false
-  closed_message: Student applications will open soon
+  open: true
+  closed_message: Student applications are open
   URL: https://forms.gle/CVZBeABQzkZLj3xR9
   open_date: June 2024
   close_date: 2024-07-24T20:00:00+02:00
@@ -23,7 +23,7 @@ target_applicants:
     students should also apply. Students should have a good quantitative background:
     e.g., 2nd year university-level experience in physics, engineering, statistics
     or computer science, etc. Experimental neuroscientists with some quantitative/coding
-    experience who think the imbizo with strengthen these skills should also apply.
+    experience who think the imbizo will strengthen these skills should also apply.
     All students should have some experience writing code.'
   preamble: Example backgrounds
   item:
@@ -69,18 +69,17 @@ faq:
   item:
   - question: What is computational neuroscience?
     answer: Computational neuroscience is a rapidly expanding subject focussed on
-      understanding and modeling the brain, while helping to design and interpret
+      understanding and modeling the brain while helping to design and interpret
       future experiments. This school aims to promote computational neuroscience in
       Africa by bringing together international and local students under the tutelage
       of world-leading experts in the field.
-  - question: I am very introverted and the Imbizo is an intensive social experience,
-      will I cope?
+  - question: I am very introverted and the Imbizo is an intensive social experience, will I cope?
     answer: The social interactions and community ethos define the Imbizo (it's in
       the name!), so isolating yourself the entire time will not work. Having said
       that, we all have our own "social energy" quota and as such understand that
       some personal time is important, too. Whether on the beach or in your room, there
       will be moments for reflection. We do expect, however, for you to engage in
-      the planned social activities which occur 3-4 times per week.
+      the planned social activities, which occur 3-4 times per week.
   - question: I'm not sure if I'm a good fit for the school, should I still apply?
     answer: |-
       **Yes!** Give yourself every opportunity to succeed by applying in the first place and getting good references about your character.
@@ -91,7 +90,7 @@ faq:
       in many social activities with each other and the faculty. For this reason,
       all students will be required to stay in the student accommodation, attend all
       meals and activities, etc. This also means costs are essentially the same for
-      all students. Note though that bursaries and travel grants will be provided
+      all students. Note though, that bursaries and travel grants will be provided
       to as many students as possible, on a basis of need and merit. In your application,
       specify what financial contribution you can make, and be sure to request financial
       assistance where asked.

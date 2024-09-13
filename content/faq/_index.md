@@ -49,7 +49,7 @@ At “The Team House’ in Noordhoek, Cape Town, South Africa. Noordhoek lies on
 
 #### **How busy is the schedule?** {.ti-rocket}
 
-The Imbizo is a full-on, totally immersive experience with a FULL schedule. You will be required to be onsite at Imbizo for the duration and no personal off-campus activities are permitted. We do appreciate that everyone has their own ’social energy’ quota and as such understand that some personal time is very important too. Whether on the beach or in your shared room, there will be moments for reflection. We do expect, however, for you to engage in the planned social activities which occur 3-4 times per week.  By applying, you commit to twenty five subsequent days of intense science, socialising, and fun.
+The Imbizo is a full-on, totally immersive experience with a FULL schedule. You will be required to be onsite at Imbizo for the duration and no personal off-campus activities are permitted. We do appreciate that everyone has their own ’social energy’ quota and as such understand that some personal time is very important too. Whether on the beach or in your shared room, there will be moments for reflection. We do expect, however, for you to engage in the planned social activities which occur 3-4 times per week. By applying, you commit to twenty two subsequent days of intense science, socialising, and fun.
 
 #### **I have friends in Cape Town and want to see them on the off days. Can I do this?** {.ti-comments-smiley}
 
@@ -113,7 +113,7 @@ At The Team House
 
 #### **What kind of food will we eat?** {.ti-bag}
 
-Delicious and nutritious breakfast, lunch and dinner will be served each day, starting with dinner on the arrival day (see **Dates** above). Meals will either be at The Team House or at nearby restaurants.  We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
+Delicious and nutritious breakfast, lunch and dinner will be served each day, starting with dinner on the arrival day. Meals will either be at The Team House or at nearby restaurants. We are able to provide for vegetarian dietary requirements only. Should you have any food allergies please let us know and we will provide suitable alternatives where applicable
 
 #### **What is the accommodation set up?** {.ti-headphone}
 

@@ -20,7 +20,7 @@ banner:
     #   color: ''
 about:
   enable: true
-  content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The *Simons Computational Neuroscience Imbizo* is exactly that: an opportunity for African and international students to learn about cutting-edge research techniques in [computational neuroscience](/faq).'
+  content: _Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The *Simons Computational Neuroscience Imbizo* is exactly that: an opportunity for African and international students to learn about cutting-edge research techniques in [computational neuroscience](/faq).
   show_application_info: true
 school:
   title: The school

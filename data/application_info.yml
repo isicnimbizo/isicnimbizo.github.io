@@ -18,18 +18,18 @@ acceptance_date: mid-September 2024 (approx)
 target_applicants:
   enable: true
   title: Who should apply?
-  content: The school is aimed at students who are either completing their masters or beginning their doctoral studies, although well-motivated advanced undergraduate students or postdoctoral researchers are also encouraged to apply. Students should have a good quantitative background: e.g., 2nd year of university-level experience in physics, engineering, statistics, computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the Imbizo will help strengthen these skills are also welcome to apply. All students should have some experience writing code.
+  content: 'The school is aimed at students who are either completing their masters or beginning their doctoral studies, although well-motivated advanced undergraduate students or postdoctoral researchers are also encouraged to apply. Students should have a good quantitative background: e.g., 2nd year of university-level experience in physics, engineering, statistics, computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the Imbizo will help strengthen these skills are also welcome to apply. All students should have some experience writing code.'
   preamble: Example backgrounds
   item:
   - title: MSc Physics student
     icon: images/icons/icon-1.png
-    content: Has a bachelors in physical sciences (e.g., physics, statistics, mathematics, computer science). Has taken 1st-year level courses in biology and/or electives in psychology, etc.
+    content: 'Has a bachelors in physical sciences (e.g., physics, statistics, mathematics, computer science). Has taken 1st-year level courses in biology and/or electives in psychology, etc.'
   - title: PhD Neuroscience candidate
     icon: images/icons/icon-2.png
-    content: Has a bachelors in biological science, has completed 2nd-year level courses in statistics, applied mathematics, or bioinformatics. Now in Masters/PhD. Has some experience writing code.
+    content: 'Has a bachelors in biological science, has completed 2nd-year level courses in statistics, applied mathematics, or bioinformatics. Now in Masters/PhD. Has some experience writing code.'
   - title: Post-doctoral researcher in Machine Learning
     icon: images/icons/icon-3.png
-    content: This school will be most beneficial for postgraduate students and postdocs, who want to fast-track their education in the quantitative aspects of neuroscience. If you already have a strong background in computational neuroscience or machine learning, perhaps you would be better suited as a Teaching Assistant (?).
+    content: 'This school will be most beneficial for postgraduate students and postdocs, who want to fast-track their education in the quantitative aspects of neuroscience. If you already have a strong background in computational neuroscience or machine learning, perhaps you would be better suited as a Teaching Assistant.'
 team:
   enable: false
   title: Organising committee
@@ -55,9 +55,10 @@ faq:
   gapsize: 5
   item:
   - question: What is computational neuroscience?
-    answer: Computational neuroscience is a rapidly expanding subject focussed on understanding and modeling the brain while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.
+    answer: 'Computational neuroscience is a rapidly expanding subject focussed on understanding and modeling the brain while helping to design and interpret future experiments. This school aims to promote computational neuroscience in Africa by bringing together international and local students under the tutelage of world-leading experts in the field.'
   - question: I am very introverted and the Imbizo is an intensive social experience, will I cope?
-    answer: The social interactions and community ethos define the Imbizo (it is in the name!), so isolating yourself the entire time will not work. Having said that, we all have our own "social energy" quota and, as such, understand that some personal time is important, too. Whether on the beach or in your room, there will be moments for reflection. We do expect, however, for you to engage in the planned social activities, which occur 3-4 times per week.
+    answer: 'The social interactions and community ethos define the Imbizo (it is in the name!), so isolating yourself the entire time will not work. Having said that, we all have our own "social energy" quota and, as such, understand that some personal time is important, too. Whether on the beach or in your room, there will be moments for reflection. We do expect, however, for you to engage in the planned social activities, which occur 3-4 times per week.'
   - question: I am not sure if I am a good fit for the school, should I still apply?
-    answer: **Yes!** Give yourself every opportunity to succeed by applying in the first place and getting good references about your character. The Imbizo is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.
+    answer: 'Yes! Give yourself every opportunity to succeed by applying in the first place and getting good references about your character. The Imbizo is an opportunity to grow, explore, and learn new things while meeting amazing people along the way. Diverse backgrounds complement the experience and benefit the group dynamics; each participant will have their own journey to share.'
   - question: I am a resident of Cape Town, do I need to pay the full fee?
+    answer: 'All students will be expected to work hard on their projects and participate in various social activities with both their peers and the faculty. As a result, it is mandatory for all students to reside in the student accommodation, attend all meals and activities, and so on. Consequently, the costs will be similar for all students. However, financial aid in the form of bursaries and travel grants will be offered to as many students as possible based on their financial need and academic merit. When submitting your application, please indicate the amount you can contribute financially and request financial assistance if needed.'

@@ -7,4 +7,7 @@ min_header_height: 40em
 
 ---
 
-### [`preliminary Imbizo 2025 schedule`](Imbizo_2025_Prelim_Schedule.pdf)
+{{<rawhtml>}}
+<a href="https://github.com/isicnimbizo/isicnimbizo.github.io/blob/main/content/schedule/Imbizo_2025_Prelim_Schedule.pdf" target="_blank" class="btn btn-primary btn-lg col-12">preliminary Imbizo 2025 schedule</a>
+{{</rawhtml>}}
+

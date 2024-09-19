@@ -8,7 +8,7 @@ min_header_height: 40em
 ---
 
 {{<rawhtml>}}
-<div style="background-color: red; padding: 10px; border-radius: 5px; color: white; max-width: 300px; font-size: 24px; margin: 0 auto; text-align: center;">
-    <a href="https://isicnimbizo.github.io/schedule/Imbizo_2025_Prelim_Schedule.pdf" style="color: white; text-decoration: none; font-size: 24px;">Click here to see the schedule</a>
+<div style="background-color: green; padding: 10px; border-radius: 5px; color: white; max-width: 300px; font-size: 28px; margin: 0 auto; text-align: center;">
+    <a href="https://isicnimbizo.github.io/schedule/Imbizo_2025_Prelim_Schedule.pdf" style="color: white; text-decoration: none; font-size: 28px;">Click here to see the schedule</a>
 </div>
 {{</rawhtml>}}

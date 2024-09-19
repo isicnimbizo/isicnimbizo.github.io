@@ -7,6 +7,6 @@ min_header_height: 40em
 
 ---
 
-## **Coming soon**
+## **Preliminary schedule of imbizo and preschool workshop**
 
-The schedule for Imbizo and the preschool workshop, DataViz, will be posted here soon.
+[Preliminary Imbizo 2025 schedule](Imbizo_2025_Prelim_Schedule.pdf)

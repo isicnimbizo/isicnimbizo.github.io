@@ -7,6 +7,4 @@ min_header_height: 40em
 
 ---
 
-## {{<icon "ti-info">}}  General {.project-meta}
-
-#### **Coming soon** {.ti-hand-point-up}
+## **Coming soon**

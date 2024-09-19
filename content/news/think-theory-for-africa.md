@@ -5,7 +5,7 @@ thumbnail: "/images/news/2seventeen.jpg"
 # thumbnail: "/images/news/2seventeen.jpg"
 description: "Think: Theory for Africa"
 author: "Christopher B. Currin, Phumlani N. Khoza, Alexander D. Antrobus, Peter E. Latham, Tim P. Vogels, Joseph V. Raimondo"
-link: [10.1371/journal.pcbi.1007049](https://doi.org/10.1371/journal.pcbi.1007049)
+link: https://doi.org/10.1371/journal.pcbi.1007049
 published_in: PLoS Computational Biology
 ---
 

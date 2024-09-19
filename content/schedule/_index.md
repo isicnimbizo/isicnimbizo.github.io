@@ -7,6 +7,4 @@ min_header_height: 40em
 
 ---
 
-## **Preliminary schedule of imbizo and preschool workshop**
-
-[Preliminary Imbizo 2025 schedule](Imbizo_2025_Prelim_Schedule.pdf)
+#### [Preliminary Imbizo 2025 schedule](Imbizo_2025_Prelim_Schedule.pdf)

@@ -1,6 +1,6 @@
 ---
 title: "A Neuroscience Network Across Continents"
-date: 2024-09-12T16:44:46+02:00
+date: 2024-09-18T16:44:46+02:00
 image: "#"
 thumbnail: "/images/news/ISTA_V1.jpg"
 description: "From Imbizo–a computational neuroscience summer school in South Africa–to ISTA"

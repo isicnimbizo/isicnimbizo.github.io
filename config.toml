@@ -29,6 +29,11 @@ identifier = "archive"
 name = "Archive"
 weight = 8
 [[menu.main]]
+URL = "schedule"
+identifier = "schedule"
+name = "Schedule"
+weight = 4
+[[menu.main]]
 URL = "news"
 identifier = "news"
 name = "News"

@@ -9,7 +9,13 @@ min_header_height: 40em
 
 ### Shifting the Narrative on Data and Dementia in Africa Through Visual Tools and Infrastructure
 
-10-11 January 2025, The Team House, Noordhoek, Cape Town, SA
+Arrival date: 09 January 2025
+<br>
+Workshop dates: 10-11 January 2025
+<br>
+Departure date: 12 January 2025
+<br>
+Venure: The Team House, Noordhoek, Cape Town, SA
 
 #### CURRICULUM
 Introduction

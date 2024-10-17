@@ -52,11 +52,11 @@ Participants will be awarded a Certificate of Participation.
 #### Course Facilitators
 
 **Kirsten Bobrow**, Global Brain Health Institute, Canada
-
+<br>
 **Wambūi Karanja**, Global Brain Health Institute, Kenya
-
+<br>
 **Lebo Molete**, Atlantic Fellows
-
+<br>
 **Ifeanyi Nsofor**, Atlantic Fellows
 
 

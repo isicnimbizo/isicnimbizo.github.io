@@ -29,13 +29,13 @@ The goal of this project is to shift the global policy development and research 
 #### Project Outcomes
 The following are the anticipated project outcomes:
     
-1. Empower local researchers, policymakers, activists, and interested citizens with access to information for action. We will surface, collate, and frame existing data while providing workshops and training to enhance data visualization skills.
+   1. Empower local researchers, policymakers, activists, and interested citizens with access to information for action. We will surface, collate, and frame existing data while providing workshops and training to enhance data visualization skills.
     
-2. Support meaningful discussions about contextually relevant life course brain health in Africa, appealing to the general public by creating core visualizations showing the impact of brain health across the life course, encompassing various domains such as economics and climate.
+   2. Support meaningful discussions about contextually relevant life course brain health in Africa, appealing to the general public by creating core visualizations showing the impact of brain health across the life course, encompassing various domains such as economics and climate.
     
-3. Develop new interactive dashboards and visualizations focusing on specific areas of interest, like early-life factors impacting brain health risk and resilience.
+   3. Develop new interactive dashboards and visualizations focusing on specific areas of interest, like early-life factors impacting brain health risk and resilience.
     
-4. Write and present findings to a broad audience, both inside and outside the academic community to significantly contribute to changing how brain health is perceived, ultimately benefiting individuals and communities in Africa and beyond.
+   4. Write and present findings to a broad audience, both inside and outside the academic community to significantly contribute to changing how brain health is perceived, ultimately benefiting individuals and communities in Africa and beyond.
 
 #### Objectives of the course
 

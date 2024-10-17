@@ -45,6 +45,7 @@ This curriculum is designed to provide comprehensive training on using data for 
 - The course will be delivered on-site with availability
 - Pre-course reading material will be distributed to participants before the course.
 
+
 #### Certification
 Participants will be awarded a Certificate of Participation.
 

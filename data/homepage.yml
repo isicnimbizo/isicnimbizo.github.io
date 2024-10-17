@@ -42,7 +42,7 @@ school:
   - title: Neuroinspired AI
     content: 'Biological and artificial systems have at least three things in common: (a) they sense "the world", (b) they turn data from the senses into representations, and (c) they are useful for accomplishing tasks/goals. During the final week, we will explore guiding principles for how to design modern artificial systems (e.g., artificial neural networks, machine learning algorithms), with an emphasis on how biological/biophysical principles can inform this process.'
     height: 50%
-    color: "#6AA84F"
+    color: "#4533F7"
 sponsors:
   enable: true
   show_all: true

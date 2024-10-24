@@ -81,3 +81,10 @@ Participants will be awarded a Certificate of Participation.
     <a href="https://isicnimbizo.github.io/dataviz/DataViz_schedule.pdf" style="color: white; text-decoration: none; font-size: 28px;">Click here to see the schedule</a>
 </div>
 {{</rawhtml>}}
+
+
+{{<rawhtml>}}
+<div style="background-color: green; padding: 10px; border-radius: 5px; color: white; max-width: 300px; font-size: 28px; margin: 0 auto; text-align: center;">
+    <a href="https://brain-health.shinyapps.io/dashboard1/" style="color: white; text-decoration: none; font-size: 28px;">Go to Africa Brain Health Dashboard</a>
+</div>
+{{</rawhtml>}}

@@ -6,7 +6,9 @@ image: ""
 min_header_height: ""
 title: Call for Teaching Assistants for the Cape Town Imbizo
 draft: false
+
 ---
+
 We are looking for teaching assistants for the Simons Computational Neuroscience Imbizo, a computational neuroscience summer school held in Cape Town, South Africa.
  
 We are looking for post-doctoral or advanced PhD researchers to join our team as Teaching Assistants (TAs) for the Imbizo in January 2025. Please apply by clicking the button below:
@@ -57,4 +59,4 @@ Simons Computational Neuroscience Imbizo Committee
 
 \#Imbizo
 
-Twitter: [@CompNeuroImbizo](https://twitter.com/CompNeuroImbizo)
+Twitter: [@CompNeuroImbizo](https://x.com/CompNeuroImbizo)

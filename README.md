@@ -44,20 +44,22 @@ Dealing with submodules can be a little tricky. The best way to work with them i
 To make changes to the theme, you need to clone the theme repo and make changes there.
 
 1. Then, commit and push the changes to the **theme repo**.
-   `git clone <theme_repo>`
-   `git add <filenames>`
-   `git commit -m "your message"`
-   `git push origin main`
 
-2. Then, commit and push the changes to **this repo**.
-   `cd themes/theme_repo`
-   `git fetch`
-   `git checkout main`
-   `git pull origin main`
-   `cd ../..`
-   `git add themes/theme_repo`
-   `git commit -m "Updated my-submodule to latest commit"`
-   `git push origin main`
+   - `git clone <theme_repo>`
+   - `git add <filenames>`
+   - `git commit -m "your message"`
+   - `git push origin main`
+
+3. Then, commit and push the changes to **this repo**.
+
+   - `cd themes/theme_repo`
+   - `git fetch`
+   - `git checkout main`
+   - `git pull origin main`
+   - `cd ../..`
+   - `git add themes/theme_repo`
+   - `git commit -m "Updated my-submodule to latest commit"`
+   - `git push origin main`
 
 In case of an error fetching the submodule: `git submodule update --force --recursive --init --remote`
 

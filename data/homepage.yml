@@ -55,6 +55,13 @@ faculty:
   show_track: false
   slider: true
   link_text: view past
+tutors:
+  enable: true
+  title: Teaching assistants
+  show_all: false
+  show_track: false
+  slider: true
+  link_text: view past
 news:
   enable: false
   title: In the news

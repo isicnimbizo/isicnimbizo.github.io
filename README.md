@@ -45,21 +45,20 @@ To make changes to the theme, you need to clone the theme repo and make changes 
 
 1. Then, commit and push the changes to the **theme repo**.
 
-   - `git clone <theme_repo>`
-   - `git add <filenames>`
-   - `git commit -m "your message"`
-   - `git push origin main`
+   - Update the modified file references:`git add <filenames>`
+   - Commit the changes: `git commit -m "your message"`
+   - Push the changes to the remote **theme repo**:`git push origin main`
 
 3. Then, commit and push the changes to **this repo**.
-
-   - `cd themes/theme_repo`
-   - `git fetch`
-   - `git checkout main`
-   - `git pull origin main`
-   - `cd ../..`
-   - `git add themes/theme_repo`
-   - `git commit -m "Updated my-submodule to latest commit"`
-   - `git push origin main`
+   - Initialize and update the submodule (if you haven’t already): `git submodule update --init --recursive`
+   - Navigate to the submodule directory: `cd themes/theme_repo`
+   - Fetch the latest changes: `git fetch`
+   - Checkout the latest commit: `git checkout main`
+   - Pull the latest changes: `git pull origin main`
+   - Navigate back to the parent repository: `cd ../..`
+   - Update the submodule reference: `git add themes/theme_repo`
+   - Commit the changes: `git commit -m "Updated my-submodule to latest commit"`
+   - Push the changes to the remote repository: `git push origin main`
 
 In case of an error fetching the submodule: `git submodule update --force --recursive --init --remote`
 

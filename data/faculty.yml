@@ -258,15 +258,15 @@ people:
   - "2023"
   - "Biophysics"
   affiliation: University of Agder
-  link: https://www.linkedin.com/in/tor-stensola-a8b4b494
-  image: ''
+  link: https://www.uia.no/english/about-uia/employees/torst/index.html
+  image: images/people/stensola_tor.jpg
 - name: Hanne Stensola
   years:
   - "2022"
   - "Biophysics"
   affiliation: University of Agder
-  link: https://www.uia.no/en/kk/profile/hannesten
-  image: ''
+  link: https://www.uia.no/english/about-uia/employees/hannesten/
+  image: images/people/stensola_hanne.jpg
 - name: Xaq Pitkow
   years:
   - "2022"

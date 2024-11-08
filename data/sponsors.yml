@@ -89,3 +89,8 @@ sponsors:
         image: ""
         link: https://ibro.org/africa-advanced-training/
         background_color: ""
+      - name: Neuroscience Institute in Carnegie Mellon University
+        current: false
+        image: images/partners/carnegie_mellon_university.png
+        link: https://www.cmu.edu/ni/index.html
+        background_color: ""

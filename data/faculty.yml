@@ -1,6 +1,20 @@
 ---
 title: Faculty
 people:
+- name: Nyalleng Moorosi
+  years:
+  - "2025"
+  - "Neuro AI"
+  affiliation: Distributed AI Research Institute
+  link: https://ls.linkedin.com/in/nyalleng-moorosi-a711ab6
+  image: ''
+- name: Stefano Sarao Mannelli
+  years:
+  - "2025"
+  - "Biophysics"
+  affiliation: Chalmers University of Technology
+  link: https://stefsmlab.github.io/
+  image: /images/people/sarao-mannelli.jpg 
 - name: Eva Dyer
   years: 
   - "2025"
@@ -32,7 +46,7 @@ people:
 - name: Athena Akrami
   years: 
   - "2025"
-  - "Neuro AI"
+  - "Higher Level Functions"
   affiliation: University College London
   link: https://www.sainsburywellcome.org/web/groups/akrami-lab
   image: ''
@@ -115,6 +129,7 @@ people:
   years:
   - "2023"
   - "2024"
+  - "2025"
   - "Biophysics"
   affiliation: University of Cape Town
   link: http://www.neuroscience.uct.ac.za/rachael.dangarembizi
@@ -202,8 +217,9 @@ people:
   - "2022"
   - "2023"
   - "2024"
+  - "2025"
   - "Higher Level Functions"
-  affiliation: Max Planck Institute for Biological Intelligence (In Foundation)
+  affiliation: Max Planck Institute for Biological Intelligence
   link: https://www.bi.mpg.de/vallentin
   image: ''
 - name: Elizabeth Buffalo
@@ -299,6 +315,7 @@ people:
   - "2019"
   - "2020"
   - "2025"
+  - "Higher Level Functions"
   - "Neuro AI"
   affiliation: Google DeepMind
   link: https://contrastiveconvergence.net/~timothylillicrap/index.php
@@ -360,6 +377,7 @@ people:
   - "2022"
   - "2023"
   - "2024"
+  - "2025"
   - "Biophysics"
   affiliation: University of Cape Town
   link: http://raimondolab.com/

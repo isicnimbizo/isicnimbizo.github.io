@@ -8,26 +8,12 @@ people:
   affiliation: Distributed AI Research Institute
   link: https://ls.linkedin.com/in/nyalleng-moorosi-a711ab6
   image: ''
-- name: Stefano Mannelli
-  years:
-  - "2025"
-  - "Biophysics"
-  affiliation: Chalmers University of Technology
-  link: https://stefsmlab.github.io/
-  image: '' 
 - name: Eva Dyer
   years: 
   - "2025"
   - "Neuro AI"
   affiliation: Georgia Tech
   link: https://dyerlab.gatech.edu/
-  image: ''
-- name: Kamesh Krishnamurthy
-  years: 
-  - "2025"
-  - "Biophysics"
-  affiliation: Princeton University
-  link: https://kameshkk.github.io/
   image: ''
 - name: Jorge Mejias
   years: 

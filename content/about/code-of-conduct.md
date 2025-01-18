@@ -60,7 +60,7 @@ The Imbizo will not actively monitor social media platforms but will follow up o
 
 The Imbizo encourages all participants to immediately report any incidents of discrimination, harassment, unprofessional conduct, and/or retaliation so that complaints can be quickly and fairly resolved. There will be no retaliation against any participant who brings a complaint or submits an incident report in good faith or who honestly assists in investigating such a complaint.
 
-Any concerns can be directed to the Imbizo Organisers email isin.imbizo@gmail.com
+Any concerns can be directed to the Imbizo Organisers email isicn.imbizo@gmail.com
 
 ### ACTION
 

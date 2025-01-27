@@ -71,13 +71,13 @@ sponsors:
         background_color: ""
       - name: Insitute of Science and Technology Austria
         link: https://ist.ac.at
-        current: false
+        current: true
         image: images/partners/ista.png
         background_color: ""
       - name: Harvard University
         image: images/partners/harvard.png
         link: https://www.harvard.edu
-        current: false
+        current: true
         background_color: ""
       - name: Gastby Institute
         image: images/partners/gatsby.png

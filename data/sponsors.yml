@@ -54,27 +54,37 @@ sponsors:
         link: https://uct.ac.za
         current: true
         background_color: ""
+      - name: University of Minnesota
+        current: true
+        image: images/partners/minnesota-logo.jpg
+        link: https://twin-cities.umn.edu/
+        background_color: ""
       - name: University College London
         image: images/partners/ucllogo.jpg
         link: https://www.ucl.ac.uk
         current: true
         background_color: ""
+      - name: Neuroscience Institute in Carnegie Mellon University
+        current: true
+        image: images/partners/carnegie_mellon_university.png
+        link: https://www.cmu.edu/ni/index.html
+        background_color: ""
       - name: Insitute of Science and Technology Austria
         link: https://ist.ac.at
-        current: true
+        current: false
         image: images/partners/ista.png
         background_color: ""
       - name: Harvard University
         image: images/partners/harvard.png
         link: https://www.harvard.edu
-        current: true
+        current: false
         background_color: ""
       - name: Gastby Institute
         image: images/partners/gatsby.png
         link: https://www.ucl.ac.uk/gatsby/
         current: true
         background_color: ""
-      - name: Neuroscience Institute
+      - name: Neuroscience Institute UCT
         image: images/partners/neuroscience-institute-logo.png
         link: https://neuroscience.uct.ac.za
         current: true
@@ -88,14 +98,4 @@ sponsors:
         current: false
         image: ""
         link: https://ibro.org/africa-advanced-training/
-        background_color: ""
-      - name: Neuroscience Institute in Carnegie Mellon University
-        current: true
-        image: images/partners/carnegie_mellon_university.png
-        link: https://www.cmu.edu/ni/index.html
-        background_color: ""
-      - name: University of Minnesota
-        current: true
-        image: images/partners/minnesota-logo.jpg
-        link: https://twin-cities.umn.edu/
         background_color: ""

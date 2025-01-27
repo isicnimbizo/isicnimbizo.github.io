@@ -94,3 +94,8 @@ sponsors:
         image: images/partners/carnegie_mellon_university.png
         link: https://www.cmu.edu/ni/index.html
         background_color: ""
+      - name: University of Minnesota
+        current: true
+        image: images/partners/minnesota-logo.png
+        link: https://twin-cities.umn.edu/
+        background_color: ""

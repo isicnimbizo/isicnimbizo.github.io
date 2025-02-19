@@ -34,11 +34,6 @@ identifier = "schedule"
 name = "Schedule"
 weight = 4
 [[menu.main]]
-URL = "dataviz"
-identifier = "dataviz"
-name = "DataViz"
-weight = 4
-[[menu.main]]
 URL = "news"
 identifier = "news"
 name = "News"

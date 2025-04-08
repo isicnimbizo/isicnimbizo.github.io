@@ -11,11 +11,11 @@ The format of the school will be a combination of intensive lectures on advanced
 
 #### Cost and bursaries
 
-_The total fee for the Imbizo is EUR 1,450.00._
+_The total fee for the Imbizo is €1,550.00._
 
 Thanks to our generous sponsors, significant financial assistance is available to reduce and waive fees for students, as well as to provide some travel bursaries. If you need financial assistance to attend the Imbizo, please state so clearly in the relevant section of your application.
 
-NOTE: we cannot guarantee full financial assistance to non-resident African or non-African applicants. **African students are particularly strongly encouraged to apply.**
+**NOTE:** We cannot guarantee full financial assistance to non-resident African or non-African applicants. **African students are particularly strongly encouraged to apply.**
 
 #### Frequently asked questions
 

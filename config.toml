@@ -28,11 +28,11 @@ URL = "archive"
 identifier = "archive"
 name = "Archive"
 weight = 8
-[[menu.main]]
-URL = "schedule"
-identifier = "schedule"
-name = "Schedule"
-weight = 4
+#[[menu.main]]
+#URL = "schedule"
+#identifier = "schedule"
+#name = "Schedule"
+#weight = 4
 [[menu.main]]
 URL = "news"
 identifier = "news"
@@ -109,6 +109,11 @@ URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://x.com/CompNeuroImbizo"
-embed = "<a href=\"https://x.com/CompNeuroImbizo?ref_src=twsrc%5Etfw\" class=\"twitter-follow-button\" data-size=\"large\"  data-show-screen-name=\"false\" data-show-count=\"false\">Follow @CompNeuroImbizo</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-embed_url = "https://x.com/CompNeuroImbizo?ref_src=twsrc%5Etfw"
+embed = "<a href=\"https://x.com/CompNeuroImbizo\" target=\"_blank\" class=\"twitter-follow-button\" data-size=\"large\"  data-show-screen-name=\"false\" data-show-count=\"false\">Follow @CompNeuroImbizo</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+embed_url = "https://x.com/CompNeuroImbizo"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://bsky.app/profile/imbizo.bsky.social"
+embed = "<a href=\"https://bsky.app/profile/imbizo.bsky.social\" target=\"_blank\" class=\"bluesky-follow-button\" data-size=\"large\" data-show-screen-name=\"false\" data-show-count=\"false\">Follow @imbizo.bsky.social</a>"
+embed_url = "https://bsky.app/profile/imbizo.bsky.social"
+icon = "fa-brands fa-bluesky"

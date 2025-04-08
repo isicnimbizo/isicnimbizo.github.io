@@ -25,8 +25,8 @@ about:
 school:
   title: The school
   dates:
-    school_start_date: 2025-01-12T07:00:00.000+00:00
-    school_end_date: 2025-02-02T07:00:00.000+00:00
+    school_start_date: 2026-01-11T07:00:00.000+00:00
+    school_end_date: 2026-02-01T07:00:00.000+00:00
   show_faculty: true
   content: 'The school will consist of three cycles. Cycles 1, 2, and 3 will include 6 working days with 1 day off in between. Each week will be focused on one of the themes appearing below. Your day off will be spent exploring some of the beautiful wonders around Cape Town. Each workday will consist of lectures in the morning, followed by further lectures or practical tutorials in the afternoons.'
   item:

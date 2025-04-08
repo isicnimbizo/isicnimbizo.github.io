@@ -9,7 +9,7 @@ people:
   link: https://ls.linkedin.com/in/nyalleng-moorosi-a711ab6
   image: ''
 - name: Eva Dyer
-  years: 
+  years:
   - "2025"
   - "Neuro AI"
   affiliation: Georgia Tech
@@ -139,7 +139,8 @@ people:
   years:
   - "2023"
   - "2024"
-  - '2025'
+  - "2025"
+  - "2026"
   - "Biophysics"
   affiliation: University of Minnesota Medical School
   link: https://alleninstitute.org/about/advisors/advisor-profiles/arif-hamid/
@@ -273,7 +274,8 @@ people:
   years:
   - "2022"
   - "2024"
-  - '2025'
+  - "2025"
+  - "2026"
   - "Neuro AI"
   affiliation: Carnegie Mellon University
   link: https://xaqlab.com/
@@ -283,6 +285,7 @@ people:
   - "2018"
   - "2019"
   - "2020"
+  - "2026"
   - "Higher Level Functions"
   affiliation: University of Washington
   link: https://fairhalllab.com/
@@ -337,7 +340,7 @@ people:
   - "2022"
   - "2023"
   - "2024"
-  - '2025'
+  - "2025"
   - "Higher Level Functions"
   affiliation: University College London
   link: http://www.gatsby.ucl.ac.uk/~pel/

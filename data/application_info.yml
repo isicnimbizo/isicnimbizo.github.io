@@ -4,21 +4,21 @@ info_link_label: Application info
 applications:
 - label: Applications are closed
   open: false
-  closed_message: Student applications are closed
+  closed_message: Student applications currently closed.
   URL: https://forms.gle/CVZBeABQzkZLj3xR9
-  open_date: June 2024
-  close_date: 2024-07-24T20:00:00+02:00
-  acceptance_date: mid-September 2024
-  heading: 'Imbizo 2025'
+  open_date: May 1, 2025
+  close_date: 2024-07-25T20:00:00+02:00
+  acceptance_date: Applications open May 2025
+  heading: 'Imbizo 2026'
 show_period: false
 period_text: Application period
-applications_open_date: June 2024
-applications_close_date: 2024-07-24T20:00:00+02:00
-acceptance_date: mid-September 2024 (approx)
+applications_open_date: May 1, 2025
+applications_close_date: 2025-07-24T20:00:00+02:00
+acceptance_date: Notify mid-August 2025
 target_applicants:
   enable: true
   title: Who should apply?
-  content: 'The school is aimed at students who are either completing their masters or beginning their doctoral studies, although well-motivated advanced undergraduate students or postdoctoral researchers are also encouraged to apply. Students should have a good quantitative background: e.g., 2nd year of university-level experience in physics, engineering, statistics, computer science, etc. Experimental neuroscientists with some quantitative/coding experience who think the Imbizo will help strengthen these skills are also welcome to apply. All students should have some experience writing code.'
+  content: 'The school is designed for students who are completing their master’s degrees or starting their doctoral studies. However, highly motivated advanced undergraduate students and postdoctoral researchers are also encouraged to apply. We welcome applicants with a good quantitative background, such as at least two years of university-level experience in fields like physics, engineering, statistics, computer science, or related disciplines. Experimental neuroscientists or medical doctors with some coding or quantitative experience who want to strengthen these skills are also encouraged to apply. All applicants should have some prior experience with coding.'
   preamble: Example backgrounds
   item:
   - title: MSc Physics student

@@ -14,12 +14,10 @@ faq:
     answer: To help past alumni with any endeavours that will grow African capacity
       in Computational Neuroscience.
   - question: How do I apply?
-    answer: Fill in the [application form](https://forms.gle/amx1i9ANhfk3U6ZeA) before
-      the deadline date
+    answer: Fill in the [**application form**](https://docs.google.com/forms/d/e/1FAIpQLSfsUoHxEeANDn-IRRdbeFLkANu7aV8-v3xN41OqMlwbiJeh5Q/viewform)
     icon: ti-marker-alt
   - question: When can I apply?
-    answer: Applications are open throughout the year but cut-off dates for each round
-      do apply.
+    answer: Applications are open throughout the year, and are generally reviewed on a 1-2 month basis.
     icon: ti-calendar
   - question: How many times can I apply per year?
     answer: Once
@@ -49,13 +47,13 @@ faq:
     icon: ti-na
   - question: How do I get the funding?
     answer: It will be paid into your bank account once all necessary documents have
-      been provided by you.  These typically include a copy of passport and a completed
+      been provided by you. These typically include a copy of passport and a completed
       invoice (we will give you a template). It can take up to 5 weeks for funding
       to reach some bank accounts.
     icon: ti-id-badge
   - question: What is a Post-funding report?
     answer: We ask you to please send us a summary **within 6 months** of receiving
-      the funding.  We use your report to update Simons, who provides the funds for
+      the funding. We use your report to update Simons, who provides the funds for
       this grant.
     icon: ti-info
 
@@ -67,17 +65,13 @@ _STIFUG awards are supported by the Simons Foundation_
 
 ### Application round closing dates
 
-> Applications are open throughout the year, but specific closing dates apply. Applications submitted after closing dates will be reviewed in the next cycle.
-
-* Application round 1: 15 April 2024
-* Application round 2: 15 May 2024
-* Application round 3: 15 June 2024
+> Applications are open throughout the year, and are generally reviewed on a 1-2 month basis.
 
 <!--  -->
 
 {{< rawhtml >}}
 <br>
-<a class="btn btn-outline-primary" href="https://forms.gle/amx1i9ANhfk3U6ZeA" target="_blank" title="apply now">Application form</a>
+<a class="btn btn-outline-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfsUoHxEeANDn-IRRdbeFLkANu7aV8-v3xN41OqMlwbiJeh5Q/viewform" target="_blank" title="apply now">Application form</a>
 {{< /rawhtml >}}
 
 ***

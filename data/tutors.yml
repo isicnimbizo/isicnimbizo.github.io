@@ -5,21 +5,21 @@ people:
     years:
       - "2026"
       - "Higher Level Functions"
-    affiliation: The University of Edinburgh
+    affiliation: The University of Edinburgh, UK
     link: https://ext.people.inf.ed.ac.uk/Isabel_Cornacchia.html
     image: ''
   - name: Colleen Gillon
     years:
       - "2026"
       - "Higher Level Functions"
-    affiliation: Imperial College London
+    affiliation: Imperial College London, UK
     link: https://profiles.imperial.ac.uk/c.gillon
     image: ''
   - name: Rubén Herzog
     years:
       - "2026"
       - "Neuro AI"
-    affiliation: Institute for Cross-Disciplinary Physics and Complex Systems
+    affiliation: Institute for Cross-Disciplinary Physics and Complex Systems, Spain
     link: https://scholar.google.com/citations?user=GDW5LSsAAAAJ
     image: ''
   - name: Samar Elsheikh
@@ -57,7 +57,7 @@ people:
       - "2023"
       - "2025"
       - "Neuro AI"
-    affiliation: McGill University & Montreal Institute for Learning Algorithms
+    affiliation: McGill University & Montreal Institute for Learning Algorithms, Canada
     link: https://dongyanl1n.github.io
   - name: Ilenna Jones
     years:
@@ -65,14 +65,14 @@ people:
       - "2024"
       - "2025"
       - "Biophysics"
-    affiliation: Harvard University
+    affiliation: Harvard University, USA
     link: https://www.ilenna.com/
   - name: Mohamed Abdelhack
     years:
       - "2022"
       - "2024"
       - "Higher Level Functions"
-    affiliation: Krembil Centre for Neuroinformatics
+    affiliation: Krembil Centre for Neuroinformatics, Canada
     link: https://mabdelhack.github.io/
     image: ''
   - name: Annik Carson
@@ -81,7 +81,7 @@ people:
       - "2022"
       - "2023"
       - "Neuro AI"
-    affiliation: AI Redefined
+    affiliation: AI Redefined, Canada
     link: https://annikc.github.io
     image: ''
   - name: Spiros Chavlis
@@ -91,8 +91,8 @@ people:
       - "2024"
       - "2025"
       - "2026"
-      - "Higher Level Functions"
-    affiliation: IMBB-FORTH
+      - "Biophysics"
+    affiliation: IMBB-FORTH, Greece
     link: https://www.dendrites.gr
     image: ''
   - name: Christopher Currin
@@ -114,14 +114,14 @@ people:
       - "2023"
       - "2024"
       - "Higher Level Functions"
-    affiliation: University of Edinburgh
+    affiliation: The University of Edinburgh, UK
     link: https://ninelk.github.io/
     image: ''
   - name: Marjorie Xie
     years:
       - "2022"
       - "Neuro AI"
-    affiliation: Columbia University
+    affiliation: Columbia University, USA
     link: https://www.linkedin.com/in/marjoriexie
     image: ''
   - name: Grace Lindsay
@@ -129,7 +129,7 @@ people:
       - "2019"
       - "2020"
       - "Higher Level Functions"
-    affiliation: Columbia University
+    affiliation: Columbia University, USA
     link: https://gracewlindsay.com/
     image: ''
   - name: Rich Pang
@@ -137,7 +137,7 @@ people:
       - "2019"
       - "2020"
       - "Higher Level Functions"
-    affiliation: University of Washington
+    affiliation: University of Washington, USA
     link: https://rkp.science/
     image: ''
   - name: Callie Federer
@@ -152,7 +152,7 @@ people:
     years:
       - "2020"
       - "Higher Level Functions"
-    affiliation: University of Oxford
+    affiliation: University of Oxford, UK
     link: https://www.basel-neurocircuits.ch/labs/everton-agnes
     image: ''
   - name: Alex Antrobus
@@ -161,7 +161,7 @@ people:
       - "2018"
       - "2019"
       - "Higher Level Functions"
-    affiliation: University College London
+    affiliation: University College London, UK
     link: https://x.com/adantro
     image: ''
   - name: William Podlaski
@@ -170,7 +170,7 @@ people:
       - "2018"
       - "2019"
       - "Neuro AI"
-    affiliation: University of Oxford
+    affiliation: University of Oxford, UK
     link: https://x.com/Bill_P_
     image: ''
   - name: Agostina Palmigiano
@@ -178,7 +178,7 @@ people:
       - "2018"
       - "2019"
       - "Higher Level Functions"
-    affiliation: Columbia University
+    affiliation: Columbia University, USA
     link: https://www.linkedin.com/in/agostina-palmigiano-297b3722/
     image: ''
   - name: Athanasia Papoutsi
@@ -186,41 +186,41 @@ people:
       - "2017"
       - "2018"
       - "Biophysics"
-    affiliation: IMBB-FORTH
+    affiliation: IMBB-FORTH, Greece
     link: https://www.imbb.forth.gr/en/research-en/item/5939-papoutsi-athanasia
     image: ''
   - name: Friedemann Zenke
     years:
       - "2018"
       - "Neuro AI"
-    affiliation: University of Oxford
+    affiliation: University of Oxford, UK
     link: https://zenkelab.org/
     image: ''
   - name: Katharina Wilmes
     years:
       - "2018"
       - "Biophysics"
-    affiliation: Imperial College London
+    affiliation: Imperial College London, UK
     link: https://x.com/k47h4
     image: ''
   - name: Sina Tootoonian
     years:
       - "2017"
       - "Higher Level Functions"
-    affiliation: University College London
+    affiliation: University College London, UK
     link: https://www.linkedin.com/in/sina-tootoonian-99668838
     image: ''
   - name: Eszter Vértes
     years:
       - "2017"
       - "Neuro AI"
-    affiliation: University College London
+    affiliation: University College London, UK
     link: https://x.com/esztervertes
     image: ''
   - name: Merav Stern
     years:
       - "2017"
       - "Higher Level Functions"
-    affiliation: University of Washington
+    affiliation: University of Washington, USA
     link: https://pages.uoregon.edu/meravs/
     image: ''

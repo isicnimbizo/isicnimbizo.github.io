@@ -8,7 +8,7 @@ applications:
   URL: https://forms.gle/QULad9mgmmdkfEog8
   open_date: May 1, 2025
   close_date: 2025-07-01T20:00:00+02:00
-  acceptance_date: Applications open May 2025
+  acceptance_date: ''
   heading: 'Imbizo 2026'
 show_period: true
 period_text: Application period

@@ -2,18 +2,18 @@
 link: "/apply"
 info_link_label: Application info
 applications:
-- label: Applications are closed
-  open: false
-  closed_message: Student applications currently closed.
-  URL: https://forms.gle/CVZBeABQzkZLj3xR9
+- label: Applications are open
+  open: true
+  closed_message: Student applications are open until July 1, 2025
+  URL: https://forms.gle/QULad9mgmmdkfEog8
   open_date: May 1, 2025
-  close_date: 2024-07-25T20:00:00+02:00
+  close_date: 2025-07-1T20:00:00+02:00
   acceptance_date: Applications open May 2025
   heading: 'Imbizo 2026'
-show_period: false
+show_period: true
 period_text: Application period
 applications_open_date: May 1, 2025
-applications_close_date: 2025-07-24T20:00:00+02:00
+applications_close_date: 2025-07-1T20:00:00+02:00
 acceptance_date: Notify mid-August 2025
 target_applicants:
   enable: true

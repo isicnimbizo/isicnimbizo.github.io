@@ -1,6 +1,27 @@
 ---
 title: Teaching assistants
 people:
+  - name: Isabel Cornacchia
+    years:
+      - "2026"
+      - "Higher Level Functions"
+    affiliation: The University of Edinburgh
+    link: https://ext.people.inf.ed.ac.uk/Isabel_Cornacchia.html
+    image: ''
+  - name: Colleen Gillon
+    years:
+      - "2026"
+      - "Higher Level Functions"
+    affiliation: Imperial College London
+    link: https://profiles.imperial.ac.uk/c.gillon
+    image: ''
+  - name: Rubén Herzog
+    years:
+      - "2026"
+      - "Neuro AI"
+    affiliation: Institute for Cross-Disciplinary Physics and Complex Systems
+    link: https://scholar.google.com/citations?user=GDW5LSsAAAAJ
+    image: ''
   - name: Samar Elsheikh
     years:
       - "2025"

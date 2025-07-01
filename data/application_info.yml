@@ -4,16 +4,16 @@ info_link_label: Application info
 applications:
 - label: Applications are open
   open: true
-  closed_message: Student applications are open until July 14, 2025
+  closed_message: Student applications are open until July 16, 2025
   URL: https://forms.gle/QULad9mgmmdkfEog8
   open_date: May 1, 2025
-  close_date: 2025-07-14T20:00:00+02:00
+  close_date: 2025-07-16T20:00:00+02:00
   acceptance_date: ''
   heading: 'Imbizo 2026'
 show_period: true
 period_text: Application period
 applications_open_date: May 1, 2025
-applications_close_date: 2025-07-14T20:00:00+02:00
+applications_close_date: 2025-07-16T20:00:00+02:00
 acceptance_date: Notify mid-August 2025
 target_applicants:
   enable: true

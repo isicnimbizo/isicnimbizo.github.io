@@ -2,9 +2,9 @@
 link: "/apply"
 info_link_label: Application info
 applications:
-- label: Applications are open
-  open: true
-  closed_message: Student applications are open until July 16, 2025
+- label: Applications are closed
+  open: false
+  closed_message: Student applications are closed.
   URL: https://forms.gle/QULad9mgmmdkfEog8
   open_date: May 1, 2025
   close_date: 2025-07-16T23:59:59+02:00

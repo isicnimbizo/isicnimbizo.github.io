@@ -39,9 +39,9 @@ The school is designed for students who are completing their master’s degrees 
 
 Arrival and orientation day: Sunday January 11, 2026
 
-Lectures: Monday January, 12 to Saturday February 1, 2026
+Lectures: Monday January 12 to Saturday January 31, 2026
 
-Departure day: Sunday February, 2
+Departure day: Sunday February 1, 2026
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 

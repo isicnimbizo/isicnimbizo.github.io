@@ -34,13 +34,12 @@ school:
     content: 'Cycle 1 will introduce biophysical mechanisms in individual cells and how these cell-autonomous features become building blocks of neural networks. We will cover some introductory neuroscience across levels of analysis (molecules-neurons-networks-behavior) as we begin to analyze functional and architectural specializations that are leveraged to resolve computational demands across behavioral domains.'
     height: 15%
     color: "#AD2F8C"
-  - title: Higher Level Function, Motor Control & Decision Making
-    faculty: Peter Latham
-    content: 'This cycle will bridge the gap between what we have learned about the biology and dynamics of brains and what we observe in behaviour. We will learn about sensory processing, birdsong, motor control, working memory, and hallucinations.'
+  - title: Cells to circuits to behavior
+    content: 'This cycle will bridge the gap between what we have learned about the biology and dynamics of brains and what we observe in behaviour. We will learn about systems-level functions including sensory processing, birdsong, motor control and decision-making.'
     height: 10%
     color: "#FA6F1E"
-  - title: Neuroinspired AI
-    content: 'Biological and artificial systems have at least three things in common: (a) they sense "the world", (b) they turn data from the senses into representations, and (c) they are useful for accomplishing tasks/goals. During the final week, we will explore guiding principles for how to design modern artificial systems (e.g., artificial neural networks, machine learning algorithms), with an emphasis on how biological/biophysical principles can inform this process.'
+  - title: NeuroAI
+    content: 'Biological and artificial systems have at least three things in common: (a) they sense "the world", (b) they turn data from the senses into representations, and (c) they are useful for accomplishing tasks/goals. During the final week, we will explore guiding principles for intelligent systems (both artificial and natural), with an emphasis on how biological principles can inform machine learning, and how machine learning can help us understand brains.'
     height: 50%
     color: "#4533F7"
 sponsors:

@@ -1,9 +1,52 @@
 ---
 title: Faculty
 people:
+- name: Geraud Tasse
+  years:
+  - "2026"
+  - "NeuroAI"
+  affiliation: University of the Witwatersrand
+  link: https://geraudnt.github.io/
+  image: ''
+- name: Sara Solla
+  years:
+  - "2026"
+  - "Higher Level Functions"
+  affiliation: Northwestern University
+  link: https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16584
+  image: ''
+- name: Felix Deku
+  years:
+  - "2026"
+  - "Higher Level Functions"
+  affiliation: University of Oregon
+  link: https://knightcampus.uoregon.edu/felix-deku
+  image: ''
+- name: Jonathan Shock
+  years:
+  - "2026"
+  - "Higher Level Functions"
+  affiliation: University of Cape Town
+  link: https://science.uct.ac.za/department-mathematics/contacts/jonathan-shock
+  image: ''
+- name: Michael Frank
+  years:
+  - "2026"
+  - "Biophysics"
+  affiliation: Brown University
+  link: https://ski.clps.brown.edu/
+  image: ''
+- name: Devon Jarvis
+  years:
+  - "2026"
+  - "NeuroAI"
+  affiliation: University of the Witwatersrand
+  link: https://jarvisdevon.github.io/about/
+  image: ''
 - name: Nyalleng Moorosi
   years:
   - "2025"
+  - "2026"
   - "NeuroAI"
   affiliation: Distributed AI Research Institute
   link: https://ls.linkedin.com/in/nyalleng-moorosi-a711ab6
@@ -11,6 +54,7 @@ people:
 - name: Eva Dyer
   years:
   - "2025"
+  - "2026"
   - "NeuroAI"
   affiliation: Georgia Tech
   link: https://dyerlab.gatech.edu/
@@ -32,6 +76,7 @@ people:
 - name: Athena Akrami
   years: 
   - "2025"
+  - "2026"
   - "Higher Level Functions"
   affiliation: University College London
   link: https://www.sainsburywellcome.org/web/groups/akrami-lab
@@ -116,6 +161,7 @@ people:
   - "2023"
   - "2024"
   - "2025"
+  - "2026"
   - "Biophysics"
   affiliation: University of Cape Town
   link: http://www.neuroscience.uct.ac.za/rachael.dangarembizi
@@ -219,6 +265,7 @@ people:
 - name: Jonathan Pillow
   years:
   - "2022"
+  - "2026"
   - "Higher Level Functions"
   affiliation: Princeton University
   link: https://pillowlab.princeton.edu/
@@ -232,11 +279,12 @@ people:
   image: ''
 - name: Thomas Tagoe
   affiliation: University of Ghana
-  link: https://www.linkedin.com/in/thomas-tagoe-8a341837
+  link: https://gh.linkedin.com/in/thomas-tagoe
   years:
   - "2020"
   - "2022"
   - "2024"
+  - "2026"
   - "Biophysics"
   image: ''
 - name: Dorit Hockman
@@ -245,6 +293,7 @@ people:
   years:
   - "2022"
   - "2023"
+  - "2026"
   - "Biophysics"
   image: ''
 - name: Alex Pouget
@@ -368,6 +417,7 @@ people:
   - "2023"
   - "2024"
   - "2025"
+  - "2026"
   - "Biophysics"
   affiliation: University of Cape Town
   link: http://raimondolab.com/

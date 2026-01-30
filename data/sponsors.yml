@@ -56,17 +56,17 @@ sponsors:
         background_color: ""
       - name: University of Minnesota
         current: true
-        image: images/partners/university_of_minnesota.jpg
+        image: images/partners/university-minnesota.jpg
         link: https://twin-cities.umn.edu/
         background_color: ""
       - name: University of Washington
-        image: images/partners/university_of_washingthon.jpg
-        link: https://www.ucl.ac.uk
+        image: images/partners/university-washingthon.jpg
+        link: https://www.washington.edu/
         current: true
         background_color: ""
       - name: Neuroscience Institute in Carnegie Mellon University
         current: true
-        image: images/partners/carnegie_mellon_university.png
+        image: images/partners/carnegie-mellon-university.png
         link: https://www.cmu.edu/ni/index.html
         background_color: ""
       - name: Insitute of Science and Technology Austria
@@ -99,8 +99,16 @@ sponsors:
         current: true
         link: https://trendinafrica.org
         background_color: ""
+      - name: Protocol Neuro Labs
+        current: true
+        image: images/partners/protocol-neuro-labs-logo.jpg
+        link: https://www.protocol.ai/
+        background_color: ""
       - name: IBRO African Center for Advanced Training in Neurosciences at UCT
         current: false
         image: ""
         link: https://ibro.org/africa-advanced-training/
         background_color: ""
+
+        
+

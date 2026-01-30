@@ -56,11 +56,11 @@ sponsors:
         background_color: ""
       - name: University of Minnesota
         current: true
-        image: images/partners/minnesota-logo.jpg
+        image: images/partners/university_of_minnesota.jpg
         link: https://twin-cities.umn.edu/
         background_color: ""
-      - name: University College London
-        image: images/partners/ucllogo.jpg
+      - name: University of Washington
+        image: images/partners/university_of_washingthon.jpg
         link: https://www.ucl.ac.uk
         current: true
         background_color: ""
@@ -73,6 +73,11 @@ sponsors:
         link: https://ist.ac.at
         current: true
         image: images/partners/ista.png
+        background_color: ""
+      - name: University College London
+        image: images/partners/ucllogo.jpg
+        link: https://www.ucl.ac.uk
+        current: true
         background_color: ""
       - name: Harvard University
         image: images/partners/harvard.png

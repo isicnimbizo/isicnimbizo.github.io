@@ -101,7 +101,7 @@ sponsors:
         background_color: ""
       - name: Protocol Neuro Labs
         current: true
-        image: images/partners/protocol-neuro-labs-logo.jpg
+        image: images/partners/protocol-neuro-labs.png
         link: https://www.protocol.ai/
         background_color: ""
       - name: IBRO African Center for Advanced Training in Neurosciences at UCT

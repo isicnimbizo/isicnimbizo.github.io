@@ -39,9 +39,9 @@ The school is designed for students who are completing their master’s degrees 
 
 Arrival and orientation day: Thursday August 26, 2027
 
-Lectures: Friday August 27 to Saturday September 11, 2027
+Lectures: Friday August 27 to Thursday September 16, 2027
 
-Departure day: Sunday September 12, 2027
+Departure day: Friday September 12, 2027
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 
@@ -55,7 +55,7 @@ The Imbizo is a full-on, totally immersive experience with a FULL schedule. You 
 
 Applicants are required to attend and actively participate in the entire course, including all scientific sessions and excursions/off days. Please do not make any personal plans for the time of your stay. If you have an emergency or need to leave the Imbizo please do come and speak to the Organisers.
 
-## {{<icon "ti-info">}}Costs and Scholarships{.project-meta}
+## {{<icon "ti-info">}}Costs and Scholarships {.project-meta}
 
 #### **How much is the course fee?** {.ti-credit-card}
 
@@ -85,7 +85,7 @@ Yes! Thanks to our generous sponsors, significant financial assistance is availa
 2. _Partial Scholarship_ includes a waived course fee and a set financial contribution towards your travel costs (paid after arrival in Cape Town). The amount will vary on a case-by-case basis.
 3. _Course Scholarship_ includes a waived course fee but you will be responsible for booking and paying for your own travel costs to Cape Town
 
-## {{<icon "ti-info">}}Travel{.project-meta}
+## {{<icon "ti-info">}}Travel {.project-meta}
 
 #### **Who books my flight to Cape Town?** {.ti-map-alt}
 

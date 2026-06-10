@@ -20,14 +20,14 @@ Before you apply, you should have the following documents/information ready:
 1) A brief CV (2-4 pages is fine) 
 2) A short motivational statement about your scientific interests and background, why you would be a good fit, and your favorite topics for teaching tutorials and supervising student projects.
 3) Contact details of one referee.
- 
+ 09/01/2027
 **About the Imbizo:**
 
 The school hosts 28 students for an approx. 3 weeks of lectures, tutorials, projects, and forging new friendships. All this takes place on Noordhoek beach, between the mountain and the ocean. It's a spectacular location.
 
 Arrival day: Thursday, 26 August 2027
-Imbizo dates: Friday, 27 August 2027 to Saturday 11 September 2027
-Departure day: Sunday, 12 September 2027
+Imbizo dates: Friday, 27 August 2027 to Thursday 16 September 2027
+Departure day: Friday, 17 September 2027
 
 The Imbizo is a special experience, with students being totally immersed in academic, social, touristic and cultural activities, and has resulted in student and TA groups from previous schools becoming very close, personally and scientifically. This is fantastic, as a major goal of the Imbizo project is to help young African researchers grow their academic peer and friend group.
 

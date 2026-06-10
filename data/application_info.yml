@@ -6,13 +6,13 @@ applications:
   open: false
   closed_message: Applications will open in January 2027
   URL: https://forms.gle/QULad9mgmmdkfEog8
-  open_date: January 5, 2027
+  open_date: 05 January 2027
   close_date: 2027-03-01T23:59:59
   acceptance_date: ''
   heading: 'Imbizo 2027'
 show_period: true
 period_text: Application period
-applications_open_date: January 5, 2027
+applications_open_date: 05 January 2027
 applications_close_date: 2027-03-01T23:59:59
 acceptance_date: Decision emails in April 2027
 target_applicants:

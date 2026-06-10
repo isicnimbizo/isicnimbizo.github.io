@@ -25,7 +25,7 @@ Before you apply, you should have the following documents/information ready:
 
 The school hosts 28 students for an approx. 3 weeks of lectures, tutorials, projects, and forging new friendships. All this takes place on Noordhoek beach, between the mountain and the ocean. It's a spectacular location.
 
-Imbizo dates: mid August - mid September (exact dates TBA)
+Imbizo dates: late August - mid September (exact dates TBA)
 
 The Imbizo is a special experience, with students being totally immersed in academic, social, touristic and cultural activities, and has resulted in student and TA groups from previous schools becoming very close, personally and scientifically. This is fantastic, as a major goal of the Imbizo project is to help young African researchers grow their academic peer and friend group.
 

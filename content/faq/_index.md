@@ -37,7 +37,7 @@ The school is designed for students who are completing their master’s degrees 
 
 #### **When is Imbizo 2027?** {.ti-alarm-clock}
 
-Imbizo 2027 will take place mid August - mid September 2027 (exact dates TBA)
+Imbizo 2027 will take place late August - mid September 2027 (exact dates TBA)
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 

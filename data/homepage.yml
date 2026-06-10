@@ -10,7 +10,7 @@ banner:
   cta:
     enable: true
     item:
-    - title: "Interested to become a TA? Click for more!"
+    - title: "Interested in becoming a TA? Click for more!"
       URL: "/ta-application"
       color: '#2196f3'
 about:

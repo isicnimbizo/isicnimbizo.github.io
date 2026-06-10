@@ -35,13 +35,13 @@ The school is designed for students who are completing their master’s degrees 
 
 ## {{<icon "ti-info">}}  Dates, Location and Schedule {.project-meta}
 
-#### **When is Imbizo 2026?** {.ti-alarm-clock}
+#### **When is Imbizo 2027?** {.ti-alarm-clock}
 
-Arrival and orientation day: Sunday January 11, 2026
+Arrival and orientation day: Thursday August 26, 2027
 
-Lectures: Monday January 12 to Saturday January 31, 2026
+Lectures: Friday August 27 to Saturday September 11, 2027
 
-Departure day: Sunday February 1, 2026
+Departure day: Sunday September 12, 2027
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 
@@ -59,7 +59,7 @@ Applicants are required to attend and actively participate in the entire course,
 
 #### **How much is the course fee?** {.ti-credit-card}
 
-The course fee for 2026 is **€1,550**. The actual cost of a single course fee amounts to around €5,500 per person
+The course fee for 2027 is **€1,650**. The actual cost of a single course fee amounts to around €5,500 per person
 
 #### **What does the course fee include?** {.ti-folder}
 

@@ -1,18 +1,18 @@
 ---
 title: Organising committee
 item:
-  - name: Arif Hamid
-    image: images/people/hamid.jpg
-    affiliation: University of Minnesota
-    link: https://med.umn.edu/bio/arif-hamid
   - name: Adrienne Fairhall
     image: images/people/fairhall_2.jpg
     affiliation: University of Washington
     link: https://fairhalllab.com/
-  - name: Xaq Pitkow
-    image: images/people/pitkow.jpg
-    affiliation: Carnegie Mellon University
-    link: https://xaqlab.com/
+  - name: Thomas Tagoe
+    image: images/people/tagoe.jpg
+    affiliation: University of Ghana
+    link: https://gh.linkedin.com/in/thomas-tagoe
+  - name: Eva Dyer
+    image: images/people/dyer.jpg
+    affiliation: Georgia Tech
+    link: https://dyerlab.gatech.edu/
   - name: Spiros Chavlis
     image: images/people/chavlis.jpg
     affiliation: IMBB-FORTH

@@ -37,11 +37,7 @@ The school is designed for students who are completing their master’s degrees 
 
 #### **When is Imbizo 2027?** {.ti-alarm-clock}
 
-Arrival and orientation day: Thursday August 26, 2027
-
-Lectures: Friday August 27 to Thursday September 16, 2027
-
-Departure day: Friday September 12, 2027
+Imbizo 2027 will take place mid August - mid September 2027 (exact dates TBA)
 
 #### **Where does Imbizo take place?** {.ti-location-pin}
 

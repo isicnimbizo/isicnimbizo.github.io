@@ -9,15 +9,10 @@ banner:
   opacity: 80
   cta:
     enable: true
-    item: []
-    # - title: "Apply now to be a TA"
-    #   URL: "/ta-application"
-    # - title: "FAQ"
-    #   URL: "/faq"
-      # color: '#ffffff'
-    # - title: Apply now
-    #   URL: "/apply"
-    #   color: ''
+    item:
+    - title: "Interested to become a TA? Click for more!"
+      URL: "/ta-application"
+      color: '#2196f3'
 about:
   enable: true
   content: '_Imbizo_ is a Xhosa word meaning "a gathering to share knowledge". The *Simons Computational Neuroscience Imbizo* is exactly that: an opportunity for African and international students to learn about cutting-edge research techniques in [computational neuroscience](/faq).'
@@ -25,8 +20,8 @@ about:
 school:
   title: The school
   dates:
-    school_start_date: 2026-01-11T07:00:00.000+00:00
-    school_end_date: 2026-02-01T07:00:00.000+00:00
+    school_start_date: 2027-08-27T07:00:00.000+00:00
+    school_end_date: 2027-09-12T07:00:00.000+00:00
   show_faculty: true
   content: 'The school will consist of three cycles. Cycles 1, 2, and 3 will include 6 working days with 1 day off in between. Each week will be focused on one of the themes appearing below. Your day off will be spent exploring some of the beautiful wonders around Cape Town. Each workday will consist of lectures in the morning, followed by further lectures or practical tutorials in the afternoons.'
   item:

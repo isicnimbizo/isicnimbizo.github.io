@@ -8,9 +8,9 @@ draft: false
 
 ---
 
-We are looking for teaching assistants (TAs) for the Simons Computational Neuroscience #Imbizo, a computational neuroscience summer school held in Noordhoek, Cape Town, South Africa.
+We are looking for teaching assistants (TAs) for the upcoming Simons Computational Neuroscience #Imbizo, a computational neuroscience summer school held in Noordhoek, Cape Town, South Africa.
  
-We are looking for post-doctoral or senior PhD researchers to join our team as TAs for the #Imbizo in August-September 2027. Please apply by clicking the button below:
+We are looking for post-doctoral or senior PhD researchers to join our team as TAs for the #imbizo held in late August - mid September 2027. Please apply by clicking the button below:
 
 {{< rawhtml >}}
 <button type="button" class="btn btn-info btn-lg col-12" disabled>TA applications will open soon</button>

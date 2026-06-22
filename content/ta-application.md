@@ -1,55 +1,58 @@
 ---
 date: 2026-06-09T10:00:00.000Z
-description: We are looking for teaching assistants for the Simons Computational Neuroscience Imbizo (#Imbizo), a computational neuroscience summer school held in Cape Town, South Africa.
+description: We are looking for teaching assistants for the Simons Computational Neuroscience Imbizo (#Imbizo), a computational neuroscience summer school held in Noordhoek, Cape Town, South Africa.
 image: ""
 min_header_height: ""
-title: Call for Teaching Assistants for the Cape Town Imbizo
+title: Call for Teaching Assistants for the Simons Computational Neuroscience Imbizo
 draft: false
-
 ---
 
-We are looking for teaching assistants (TAs) for the upcoming Simons Computational Neuroscience #Imbizo, a computational neuroscience summer school held in Noordhoek, Cape Town, South Africa.
- 
-We are looking for post-doctoral or senior PhD researchers to join our team as TAs for the #imbizo held in late August - mid September 2027. Please apply by clicking the button below:
+We are seeking passionate post-doctoral or senior PhD researchers to join our team as Teaching Assistants (TAs) for the upcoming **Simons Computational Neuroscience Imbizo**, a deeply immersive summer school held in Noordhoek, Cape Town, South Africa.
+
+Please apply by clicking the button below:
 
 {{< rawhtml >}}
 <button type="button" class="btn btn-info btn-lg col-12" disabled>TA applications will open soon</button>
 {{< /rawhtml >}}
 
-Before you apply, you should have the following documents/information ready:
-1) A brief CV (2-4 pages is fine) 
-2) A short motivational statement about your scientific interests and background, why you would be a good fit, and your favorite topics for teaching tutorials and supervising student projects.
-3) Contact details of one referee.
- 09/01/2027
-**About the Imbizo:**
+*(Please note: You must be signed into a valid Google account to proceed with the application and upload your CV).*
 
-The school hosts 28 students for an approx. 3 weeks of lectures, tutorials, projects, and forging new friendships. All this takes place on Noordhoek beach, between the mountain and the ocean. It's a spectacular location.
+### **Application Requirements**
+Before you begin your application, please ensure you have the following ready:
+1. **A brief CV:** 2-4 pages maximum, uploaded as a PDF.
+2. **A motivational statement:** A short text (max 600 words) outlining your scientific interests and background, why you would be a good fit, and your preferred topics for teaching tutorials and supervising student projects.
+3. **Reference details:** The name and contact information of one referee. *(Note: Your referee will automatically receive an email prompt once you submit. Please inform them to check also their spam emails).*
 
-Imbizo dates: late August - mid September (exact dates TBA)
+**Important Dates:**
+* **Applications Close:** 1st September 2026 at 20:00 UTC
+* **Imbizo Dates:** 27th August - 16th September 2027
 
-The Imbizo is a special experience, with students being totally immersed in academic, social, touristic and cultural activities, and has resulted in student and TA groups from previous schools becoming very close, personally and scientifically. This is fantastic, as a major goal of the Imbizo project is to help young African researchers grow their academic peer and friend group.
+---
 
+### **About the Imbizo**
+The school hosts 27-28 students for approximately three weeks of intensive lectures, tutorials, projects, and forging new friendships. All this takes place on Noordhoek beach, nestled between the mountain and the ocean, a truly spectacular location.
 
-**About being a TA (academic aspect):**
-- Each TA runs one afternoon tutorial in the first week of the school, which they design themselves.
-- Each TA will teach a different topic, which the TAs choose among themselves, to provide students with a broad exposure to problems and methods in computational neuroscience.
-- Each TA is also assigned approx. 5 students to supervise for project work during the last 2 weeks of the school.
-- TAs will be asked to help process student applications.
+The Imbizo is a special experience. Students are totally immersed in academic, social, touristic, and cultural activities, which has historically resulted in previous cohorts of students and TAs becoming very close, both personally and scientifically. This is fantastic, as a major goal of the Imbizo project is to help young African researchers grow their academic peer and friend groups.
 
+### **The Role of a TA**
 
-**TAs are integral in helping run the school (social aspects):** 
-In addition to academic support, they foster good social interactions and academic discussions among students, and they help 'shy' students meet faculty. They also act as 'social glue’, helping to notice and support students who may be feeling ill, not fitting in socially, or generally having difficulties.
- 
-To fulfil these roles, TAs need to be at all school meals and activities.
+**Academic Responsibilities:**
+* Design and run one afternoon tutorial during the first week of the school. Each TA will teach a different topic, chosen collaboratively among the TA team and the Academic Directors, to provide students with broad exposure to methods in computational neuroscience.
+* Supervise a group of approximately 5 students for their project work during the last two weeks of the school.
+* Assist the organizing committee in processing student applications in early 2027.
 
-**What we provide:**
-We cover as direct as possible, economy class tickets to Cape Town, as well as all board and lodging during the school.
+**Social Responsibilities:**
+TAs are integral to the daily life of the school. In addition to academic support, you will be expected to foster good social interactions, spark academic discussions, and help 'shy' students meet faculty. TAs act as the 'social glue' of the Imbizo, helping to notice and support students who may be feeling ill, having difficulties fitting in, or struggling with the workload. 
 
-A call for student applications will follow in January 2027. Let us know if you have any questions.
+*To fulfill these roles, TAs are required to attend all school meals and activities.*
 
+### **What We Provide**
+We cover direct, economy-class flights to Cape Town, as well as all board and lodging for the duration of the school.
 
-#Imbizo
+*(A separate call for student applications will follow in January 2027. Please reach out (info@imbizo.africa) if you have any questions!)*
 
-Bluesky: [@imbizo.bsky.social](https://bsky.app/profile/imbizo.bsky.social)
-Twitter: [@CompNeuroImbizo](https://x.com/CompNeuroImbizo)
+---
+**#imbizo2027**
 
+**Bluesky:** [@imbizo.bsky.social](https://bsky.app/profile/imbizo.bsky.social)  
+**Twitter / X:** [@CompNeuroImbizo](https://x.com/CompNeuroImbizo)

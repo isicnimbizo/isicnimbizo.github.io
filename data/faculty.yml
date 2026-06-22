@@ -1,6 +1,13 @@
 ---
 title: Faculty
 people:
+- name: Blaise Aguera y Arcas
+  years:
+  - "2026"
+  - "NeuroAI"
+  affiliation: Google
+  link: https://research.google/people/106776/?&type=google
+  image: images/people/arcas.jpg
 - name: Geraud Tasse
   years:
   - "2026"

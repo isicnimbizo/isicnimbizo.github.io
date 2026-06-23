@@ -12,7 +12,7 @@ We are seeking passionate post-doctoral or senior PhD researchers to join our te
 Please apply by clicking the button below:
 
 {{< rawhtml >}}
-<button type="button" class="btn btn-info btn-lg col-12" disabled>TA applications will open soon</button>
+<a href="https://forms.gle/i25ZrbQT6rmcYtay8" class="btn btn-success btn-lg col-12" target="_blank">Apply for TA Position Here</a>
 {{< /rawhtml >}}
 
 *(Please note: You must be signed into a valid Google account to proceed with the application and upload your CV).*

@@ -1,5 +1,5 @@
 ---
-date: 2026-06-09T10:00:00.000Z
+date: 2026-06-23T10:00:00.000Z
 description: We are looking for teaching assistants for the Simons Computational Neuroscience Imbizo (#Imbizo), a computational neuroscience summer school held in Noordhoek, Cape Town, South Africa.
 image: ""
 min_header_height: ""
